@@ -1,0 +1,74 @@
+[
+  {
+    "entry": "minecraft:sand",
+    "fluid": "minecraft:lava",
+    "amount": 100,
+    "crucibleType": "FIRED"
+  },
+  {
+    "entry": "minecraft:andesite",
+    "fluid": "minecraft:lava",
+    "amount": 250,
+    "crucibleType": "FIRED"
+  },
+  {
+    "entry": "minecraft:gravel",
+    "fluid": "minecraft:lava",
+    "amount": 200,
+    "crucibleType": "FIRED"
+  },
+  {
+    "entry": "exnihilosequentia:dust",
+    "fluid": "minecraft:lava",
+    "amount": 50,
+    "crucibleType": "FIRED"
+  },
+  {
+    "entry": "minecraft:granite",
+    "fluid": "minecraft:lava",
+    "amount": 250,
+    "crucibleType": "FIRED"
+  },
+  {
+    "entry": "minecraft:stone",
+    "fluid": "minecraft:lava",
+    "amount": 250,
+    "crucibleType": "FIRED"
+  },
+  {
+    "entry": "minecraft:obsidian",
+    "fluid": "minecraft:lava",
+    "amount": 1000,
+    "crucibleType": "FIRED"
+  },
+  {
+    "entry": "minecraft:cobblestone",
+    "fluid": "minecraft:lava",
+    "amount": 250,
+    "crucibleType": "FIRED"
+  },
+  {
+    "entry": "minecraft:leaves",
+    "fluid": "minecraft:water",
+    "amount": 250,
+    "crucibleType": "WOOD"
+  },
+  {
+    "entry": "minecraft:netherrack",
+    "fluid": "minecraft:lava",
+    "amount": 1000,
+    "crucibleType": "FIRED"
+  },
+  {
+    "entry": "minecraft:saplings",
+    "fluid": "minecraft:water",
+    "amount": 250,
+    "crucibleType": "WOOD"
+  },
+  {
+    "entry": "minecraft:diorite",
+    "fluid": "minecraft:lava",
+    "amount": 250,
+    "crucibleType": "FIRED"
+  }
+]

@@ -1,0 +1,77 @@
+[{
+        "input": "minecraft:tube_coral",
+        "output": "minecraft:tube_coral_fan"
+    },
+    {
+        "input": "minecraft:horn_coral",
+        "output": "minecraft:horn_coral_fan"
+    },
+    {
+        "input": "minecraft:brain_coral_block",
+        "output": "minecraft:brain_coral"
+    },
+    {
+        "input": "minecraft:stone",
+        "output": "minecraft:cobblestone"
+    },
+    {
+        "input": "minecraft:bubble_coral_block",
+        "output": "minecraft:bubble_coral"
+    },
+    {
+        "input": "minecraft:netherrack",
+        "output": "exnihilosequentia:crushed_netherrack"
+    },
+    {
+        "input": "minecraft:horn_coral_block",
+        "output": "minecraft:horn_coral"
+    },
+    {
+        "input": "minecraft:bubble_coral",
+        "output": "minecraft:bubble_coral_fan"
+    },
+    {
+        "input": "minecraft:fire_coral_block",
+        "output": "minecraft:fire_coral"
+    },
+    {
+        "input": "minecraft:sand",
+        "output": "exnihilosequentia:dust"
+    },
+    {
+        "input": "minecraft:gravel",
+        "output": "minecraft:sand"
+    },
+    {
+        "input": "minecraft:andesite",
+        "output": "exnihilosequentia:crushed_andesite"
+    },
+    {
+        "input": "minecraft:granite",
+        "output": "exnihilosequentia:crushed_granite"
+    },
+    {
+        "input": "minecraft:cobblestone",
+        "output": "minecraft:gravel"
+    },
+    {
+        "input": "minecraft:tube_coral_block",
+        "output": "minecraft:tube_coral"
+    },
+    {
+        "input": "minecraft:brain_coral",
+        "output": "minecraft:brain_coral_fan"
+    },
+    {
+        "input": "minecraft:diorite",
+        "output": "exnihilosequentia:crushed_diorite"
+    },
+    {
+        "input": "minecraft:end_stone",
+        "output": "exnihilosequentia:crushed_end_stone"
+    },
+    {
+        "input": "minecraft:fire_coral",
+        "output": "minecraft:fire_coral_fan"
+    }
+]

@@ -1,0 +1,9 @@
+#Whether to show particles or not when crouching to grow things
+showParticles = true
+#whether to enable the whitelist (overrides all default usages)
+useWhiteList = false
+#growables to disable crouching on
+blacklist = []
+#growables to enable crouching on (only works if 'useWhiteList' is true and will give exclisivity to those growables) 
+whitelist = []
+

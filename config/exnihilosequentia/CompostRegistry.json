@@ -1,0 +1,142 @@
+[
+  {
+    "entry": "minecraft:bread",
+    "amount": 160
+  },
+  {
+    "entry": "minecraft:melon_slice",
+    "amount": 40
+  },
+  {
+    "entry": "forge:meat_uncooked",
+    "amount": 200
+  },
+  {
+    "entry": "minecraft:carved_pumpkin",
+    "amount": 166
+  },
+  {
+    "entry": "minecraft:flowers",
+    "amount": 100
+  },
+  {
+    "entry": "forge:eggs",
+    "amount": 80
+  },
+  {
+    "entry": "minecraft:lily_pad",
+    "amount": 100
+  },
+  {
+    "entry": "minecraft:pumpkin_pie",
+    "amount": 160
+  },
+  {
+    "entry": "minecraft:apple",
+    "amount": 100
+  },
+  {
+    "entry": "minecraft:brown_mushroom",
+    "amount": 100
+  },
+  {
+    "entry": "forge:crops/nether_wart",
+    "amount": 100
+  },
+  {
+    "entry": "minecraft:vine",
+    "amount": 100
+  },
+  {
+    "entry": "minecraft:leaves",
+    "amount": 125
+  },
+  {
+    "entry": "forge:crops/potato",
+    "amount": 100
+  },
+  {
+    "entry": "minecraft:spider_eye",
+    "amount": 80
+  },
+  {
+    "entry": "minecraft:rotten_flesh",
+    "amount": 100
+  },
+  {
+    "entry": "minecraft:poisonous_potato",
+    "amount": 200
+  },
+  {
+    "entry": "forge:crops/beetroot",
+    "amount": 100
+  },
+  {
+    "entry": "exnihilosequentia:cooked_silkworm",
+    "amount": 40
+  },
+  {
+    "entry": "minecraft:fishes",
+    "amount": 150
+  },
+  {
+    "entry": "minecraft:melon",
+    "amount": 166
+  },
+  {
+    "entry": "minecraft:cactus",
+    "amount": 100
+  },
+  {
+    "entry": "forge:crops/wheat",
+    "amount": 80
+  },
+  {
+    "entry": "minecraft:baked_potato",
+    "amount": 150
+  },
+  {
+    "entry": "minecraft:sugar_cane",
+    "amount": 80
+  },
+  {
+    "entry": "exnihilosequentia:silkworm",
+    "amount": 40
+  },
+  {
+    "entry": "forge:crops/carrot",
+    "amount": 100
+  },
+  {
+    "entry": "forge:meat_cooked",
+    "amount": 200
+  },
+  {
+    "entry": "minecraft:tall_grass",
+    "amount": 100
+  },
+  {
+    "entry": "minecraft:jack_o_lantern",
+    "amount": 166
+  },
+  {
+    "entry": "minecraft:saplings",
+    "amount": 125
+  },
+  {
+    "entry": "forge:seeds",
+    "amount": 80
+  },
+  {
+    "entry": "minecraft:red_mushroom",
+    "amount": 100
+  },
+  {
+    "entry": "minecraft:pumpkin",
+    "amount": 166
+  },
+  {
+    "entry": "forge:string",
+    "amount": 40
+  }
+]

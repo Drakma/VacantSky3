@@ -1,0 +1,26 @@
+
+[general]
+	#whether or not bees will die after stinging
+	sting_kills = false
+	#whether or not bees will always attack or only if angered
+	always_angry = true
+
+[bomblebees]
+	#the size of the bomblebee's explosive projectile's explosion
+	#Range: 0.0 ~ 1.7976931348623157E308
+	explosion_size = 4.0
+	#the amount of damage that the bomblebee's explosive projectile does
+	#Range: 0.0 ~ 1.7976931348623157E308
+	explosion_damage = 3.5
+
+["carrier bees"]
+	#the amount of damage the honeycomb projectile does
+	#Range: 0.0 ~ 1.7976931348623157E308
+	honeycomb_damage = 3.5
+	#the length of time in ticks that honeycomb slows for
+	#Range: > 0
+	honeycomb_slow = 160
+	#the radius of the honeycomb projectile's splash damage/slow
+	#Range: 0.0 ~ 1.7976931348623157E308
+	honeycomb_size = 4.0
+

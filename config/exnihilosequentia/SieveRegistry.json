@@ -1,0 +1,1360 @@
+[{
+        "input": "minecraft:jungle_leaves",
+        "result": "minecraft:jungle_sapling",
+        "rarity": 0.025,
+        "mesh": "STRING",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:jungle_leaves",
+        "result": "minecraft:apple",
+        "rarity": 0.05,
+        "mesh": "STRING",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:jungle_leaves",
+        "result": "minecraft:golden_apple",
+        "rarity": 0.001,
+        "mesh": "STRING",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:jungle_leaves",
+        "result": "exnihilosequentia:silkworm",
+        "rarity": 0.025,
+        "mesh": "STRING",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:sand",
+        "result": "minecraft:cocoa_beans",
+        "rarity": 0.03,
+        "mesh": "STRING",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:gravel",
+        "result": "minecraft:flint",
+        "rarity": 0.25,
+        "mesh": "STRING",
+        "isWaterlogged": false
+    },
+    {
+        "input": "exnihilosequentia:dust",
+        "result": "minecraft:bone_meal",
+        "rarity": 0.2,
+        "mesh": "STRING",
+        "isWaterlogged": false
+    },
+    {
+        "input": "exnihilosequentia:dust",
+        "result": "minecraft:gunpowder",
+        "rarity": 0.07,
+        "mesh": "STRING",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:birch_leaves",
+        "result": "minecraft:birch_sapling",
+        "rarity": 0.05,
+        "mesh": "STRING",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:birch_leaves",
+        "result": "minecraft:apple",
+        "rarity": 0.05,
+        "mesh": "STRING",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:birch_leaves",
+        "result": "minecraft:golden_apple",
+        "rarity": 0.001,
+        "mesh": "STRING",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:birch_leaves",
+        "result": "exnihilosequentia:silkworm",
+        "rarity": 0.025,
+        "mesh": "STRING",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:soul_sand",
+        "result": "minecraft:nether_wart",
+        "rarity": 0.1,
+        "mesh": "STRING",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:acacia_leaves",
+        "result": "minecraft:acacia_sapling",
+        "rarity": 0.05,
+        "mesh": "STRING",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:acacia_leaves",
+        "result": "minecraft:apple",
+        "rarity": 0.05,
+        "mesh": "STRING",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:acacia_leaves",
+        "result": "minecraft:golden_apple",
+        "rarity": 0.001,
+        "mesh": "STRING",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:acacia_leaves",
+        "result": "exnihilosequentia:silkworm",
+        "rarity": 0.025,
+        "mesh": "STRING",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:oak_leaves",
+        "result": "minecraft:oak_sapling",
+        "rarity": 0.05,
+        "mesh": "STRING",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:oak_leaves",
+        "result": "minecraft:apple",
+        "rarity": 0.05,
+        "mesh": "STRING",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:oak_leaves",
+        "result": "minecraft:golden_apple",
+        "rarity": 0.001,
+        "mesh": "STRING",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:oak_leaves",
+        "result": "exnihilosequentia:silkworm",
+        "rarity": 0.025,
+        "mesh": "STRING",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:dirt",
+        "result": "exnihilosequentia:pebble_stone",
+        "rarity": 1.0,
+        "mesh": "STRING",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:dirt",
+        "result": "exnihilosequentia:pebble_stone",
+        "rarity": 1.0,
+        "mesh": "STRING",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:dirt",
+        "result": "exnihilosequentia:pebble_stone",
+        "rarity": 0.5,
+        "mesh": "STRING",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:dirt",
+        "result": "exnihilosequentia:pebble_stone",
+        "rarity": 0.5,
+        "mesh": "STRING",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:dirt",
+        "result": "exnihilosequentia:pebble_stone",
+        "rarity": 0.1,
+        "mesh": "STRING",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:dirt",
+        "result": "exnihilosequentia:pebble_stone",
+        "rarity": 0.1,
+        "mesh": "STRING",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:dirt",
+        "result": "exnihilosequentia:pebble_andesite",
+        "rarity": 0.5,
+        "mesh": "STRING",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:dirt",
+        "result": "exnihilosequentia:pebble_andesite",
+        "rarity": 0.1,
+        "mesh": "STRING",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:dirt",
+        "result": "exnihilosequentia:pebble_diorite",
+        "rarity": 0.5,
+        "mesh": "STRING",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:dirt",
+        "result": "exnihilosequentia:pebble_diorite",
+        "rarity": 0.1,
+        "mesh": "STRING",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:dirt",
+        "result": "exnihilosequentia:pebble_granite",
+        "rarity": 0.5,
+        "mesh": "STRING",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:dirt",
+        "result": "exnihilosequentia:pebble_granite",
+        "rarity": 0.1,
+        "mesh": "STRING",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:dirt",
+        "result": "minecraft:wheat_seeds",
+        "rarity": 0.7,
+        "mesh": "STRING",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:dirt",
+        "result": "minecraft:melon_seeds",
+        "rarity": 0.35,
+        "mesh": "STRING",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:dirt",
+        "result": "minecraft:pumpkin_seeds",
+        "rarity": 0.35,
+        "mesh": "STRING",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:dirt",
+        "result": "exnihilosequentia:ancient_spores",
+        "rarity": 0.05,
+        "mesh": "STRING",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:dirt",
+        "result": "exnihilosequentia:grass_seeds",
+        "rarity": 0.05,
+        "mesh": "STRING",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:dirt",
+        "result": "exnihilosequentia:seed_oak",
+        "rarity": 0.05,
+        "mesh": "STRING",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:dirt",
+        "result": "exnihilosequentia:seed_spruce",
+        "rarity": 0.05,
+        "mesh": "STRING",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:dirt",
+        "result": "exnihilosequentia:seed_birch",
+        "rarity": 0.05,
+        "mesh": "STRING",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:dirt",
+        "result": "exnihilosequentia:seed_jungle",
+        "rarity": 0.05,
+        "mesh": "STRING",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:dirt",
+        "result": "exnihilosequentia:seed_acacia",
+        "rarity": 0.05,
+        "mesh": "STRING",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:dirt",
+        "result": "exnihilosequentia:seed_darkoak",
+        "rarity": 0.05,
+        "mesh": "STRING",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:dirt",
+        "result": "exnihilosequentia:seed_cactus",
+        "rarity": 0.05,
+        "mesh": "STRING",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:dirt",
+        "result": "exnihilosequentia:seed_sugarcane",
+        "rarity": 0.05,
+        "mesh": "STRING",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:dirt",
+        "result": "exnihilosequentia:seed_carrot",
+        "rarity": 0.05,
+        "mesh": "STRING",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:dirt",
+        "result": "exnihilosequentia:seed_potato",
+        "rarity": 0.05,
+        "mesh": "STRING",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:dirt",
+        "result": "exnihilosequentia:seed_berry",
+        "rarity": 0.05,
+        "mesh": "STRING",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:dirt",
+        "result": "exnihilosequentia:seed_bamboo",
+        "rarity": 0.05,
+        "mesh": "STRING",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:dark_oak_leaves",
+        "result": "minecraft:dark_oak_sapling",
+        "rarity": 0.05,
+        "mesh": "STRING",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:dark_oak_leaves",
+        "result": "minecraft:apple",
+        "rarity": 0.05,
+        "mesh": "STRING",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:dark_oak_leaves",
+        "result": "minecraft:golden_apple",
+        "rarity": 0.001,
+        "mesh": "STRING",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:dark_oak_leaves",
+        "result": "exnihilosequentia:silkworm",
+        "rarity": 0.025,
+        "mesh": "STRING",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:spruce_leaves",
+        "result": "minecraft:spruce_sapling",
+        "rarity": 0.05,
+        "mesh": "STRING",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:spruce_leaves",
+        "result": "minecraft:apple",
+        "rarity": 0.05,
+        "mesh": "STRING",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:spruce_leaves",
+        "result": "minecraft:golden_apple",
+        "rarity": 0.001,
+        "mesh": "STRING",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:spruce_leaves",
+        "result": "exnihilosequentia:silkworm",
+        "rarity": 0.025,
+        "mesh": "STRING",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:jungle_leaves",
+        "result": "minecraft:jungle_sapling",
+        "rarity": 0.05,
+        "mesh": "FLINT",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:jungle_leaves",
+        "result": "minecraft:apple",
+        "rarity": 0.1,
+        "mesh": "FLINT",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:jungle_leaves",
+        "result": "minecraft:golden_apple",
+        "rarity": 0.003,
+        "mesh": "FLINT",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:jungle_leaves",
+        "result": "exnihilosequentia:silkworm",
+        "rarity": 0.05,
+        "mesh": "FLINT",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:sand",
+        "result": "exnihilosequentia:piece_aluminum",
+        "rarity": 0.05,
+        "mesh": "FLINT",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:sand",
+        "result": "exnihilosequentia:piece_tin",
+        "rarity": 0.05,
+        "mesh": "FLINT",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:gravel",
+        "result": "minecraft:flint",
+        "rarity": 0.25,
+        "mesh": "FLINT",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:gravel",
+        "result": "minecraft:coal",
+        "rarity": 0.125,
+        "mesh": "FLINT",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:gravel",
+        "result": "minecraft:lapis_lazuli",
+        "rarity": 0.05,
+        "mesh": "FLINT",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:gravel",
+        "result": "exnihilosequentia:piece_iron",
+        "rarity": 0.20,
+        "mesh": "FLINT",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:gravel",
+        "result": "exnihilosequentia:piece_gold",
+        "rarity": 0.05,
+        "mesh": "FLINT",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:gravel",
+        "result": "exnihilosequentia:piece_copper",
+        "rarity": 0.05,
+        "mesh": "FLINT",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:gravel",
+        "result": "exnihilosequentia:piece_nickel",
+        "rarity": 0.05,
+        "mesh": "FLINT",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:gravel",
+        "result": "exnihilosequentia:piece_lead",
+        "rarity": 0.05,
+        "mesh": "FLINT",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:gravel",
+        "result": "exnihilosequentia:piece_uranium",
+        "rarity": 0.05,
+        "mesh": "FLINT",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:birch_leaves",
+        "result": "minecraft:birch_sapling",
+        "rarity": 0.1,
+        "mesh": "FLINT",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:birch_leaves",
+        "result": "minecraft:apple",
+        "rarity": 0.1,
+        "mesh": "FLINT",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:birch_leaves",
+        "result": "minecraft:golden_apple",
+        "rarity": 0.003,
+        "mesh": "FLINT",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:birch_leaves",
+        "result": "exnihilosequentia:silkworm",
+        "rarity": 0.05,
+        "mesh": "FLINT",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:soul_sand",
+        "result": "minecraft:quartz",
+        "rarity": 1.0,
+        "mesh": "FLINT",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:soul_sand",
+        "result": "minecraft:quartz",
+        "rarity": 0.33,
+        "mesh": "FLINT",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:acacia_leaves",
+        "result": "minecraft:acacia_sapling",
+        "rarity": 0.1,
+        "mesh": "FLINT",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:acacia_leaves",
+        "result": "minecraft:apple",
+        "rarity": 0.1,
+        "mesh": "FLINT",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:acacia_leaves",
+        "result": "minecraft:golden_apple",
+        "rarity": 0.003,
+        "mesh": "FLINT",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:acacia_leaves",
+        "result": "exnihilosequentia:silkworm",
+        "rarity": 0.05,
+        "mesh": "FLINT",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:oak_leaves",
+        "result": "minecraft:oak_sapling",
+        "rarity": 0.1,
+        "mesh": "FLINT",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:oak_leaves",
+        "result": "minecraft:apple",
+        "rarity": 0.1,
+        "mesh": "FLINT",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:oak_leaves",
+        "result": "minecraft:golden_apple",
+        "rarity": 0.003,
+        "mesh": "FLINT",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:oak_leaves",
+        "result": "exnihilosequentia:silkworm",
+        "rarity": 0.05,
+        "mesh": "FLINT",
+        "isWaterlogged": false
+    },
+    {
+        "input": "exnihilosequentia:crushed_netherrack",
+        "result": "exnihilosequentia:piece_gold",
+        "rarity": 0.25,
+        "mesh": "FLINT",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:dark_oak_leaves",
+        "result": "minecraft:dark_oak_sapling",
+        "rarity": 0.1,
+        "mesh": "FLINT",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:dark_oak_leaves",
+        "result": "minecraft:apple",
+        "rarity": 0.1,
+        "mesh": "FLINT",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:dark_oak_leaves",
+        "result": "minecraft:golden_apple",
+        "rarity": 0.003,
+        "mesh": "FLINT",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:dark_oak_leaves",
+        "result": "exnihilosequentia:silkworm",
+        "rarity": 0.05,
+        "mesh": "FLINT",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:spruce_leaves",
+        "result": "minecraft:spruce_sapling",
+        "rarity": 0.1,
+        "mesh": "FLINT",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:spruce_leaves",
+        "result": "minecraft:apple",
+        "rarity": 0.1,
+        "mesh": "FLINT",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:spruce_leaves",
+        "result": "minecraft:golden_apple",
+        "rarity": 0.003,
+        "mesh": "FLINT",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:spruce_leaves",
+        "result": "exnihilosequentia:silkworm",
+        "rarity": 0.05,
+        "mesh": "FLINT",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:jungle_leaves",
+        "result": "minecraft:jungle_sapling",
+        "rarity": 0.075,
+        "mesh": "IRON",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:jungle_leaves",
+        "result": "minecraft:apple",
+        "rarity": 0.15,
+        "mesh": "IRON",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:jungle_leaves",
+        "result": "minecraft:golden_apple",
+        "rarity": 0.005,
+        "mesh": "IRON",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:jungle_leaves",
+        "result": "exnihilosequentia:silkworm",
+        "rarity": 0.1,
+        "mesh": "IRON",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:sand",
+        "result": "exnihilosequentia:piece_aluminum",
+        "rarity": 0.075,
+        "mesh": "IRON",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:sand",
+        "result": "exnihilosequentia:piece_tin",
+        "rarity": 0.075,
+        "mesh": "IRON",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:gravel",
+        "result": "minecraft:diamond",
+        "rarity": 0.008,
+        "mesh": "IRON",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:gravel",
+        "result": "minecraft:emerald",
+        "rarity": 0.008,
+        "mesh": "IRON",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:gravel",
+        "result": "exnihilosequentia:piece_iron",
+        "rarity": 0.30,
+        "mesh": "IRON",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:gravel",
+        "result": "exnihilosequentia:piece_gold",
+        "rarity": 0.075,
+        "mesh": "IRON",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:gravel",
+        "result": "exnihilosequentia:piece_copper",
+        "rarity": 0.075,
+        "mesh": "IRON",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:gravel",
+        "result": "exnihilosequentia:piece_nickel",
+        "rarity": 0.075,
+        "mesh": "IRON",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:gravel",
+        "result": "exnihilosequentia:piece_lead",
+        "rarity": 0.075,
+        "mesh": "IRON",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:gravel",
+        "result": "exnihilosequentia:piece_uranium",
+        "rarity": 0.075,
+        "mesh": "IRON",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:gravel",
+        "result": "exnihilosequentia:piece_osmium",
+        "rarity": 0.05,
+        "mesh": "IRON",
+        "isWaterlogged": false
+    },
+    {
+        "input": "exnihilosequentia:dust",
+        "result": "minecraft:redstone",
+        "rarity": 0.125,
+        "mesh": "IRON",
+        "isWaterlogged": false
+    },
+    {
+        "input": "exnihilosequentia:dust",
+        "result": "minecraft:glowstone_dust",
+        "rarity": 0.0625,
+        "mesh": "IRON",
+        "isWaterlogged": false
+    },
+    {
+        "input": "exnihilosequentia:dust",
+        "result": "minecraft:blaze_powder",
+        "rarity": 0.05,
+        "mesh": "IRON",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:birch_leaves",
+        "result": "minecraft:birch_sapling",
+        "rarity": 0.15,
+        "mesh": "IRON",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:birch_leaves",
+        "result": "minecraft:apple",
+        "rarity": 0.15,
+        "mesh": "IRON",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:birch_leaves",
+        "result": "minecraft:golden_apple",
+        "rarity": 0.005,
+        "mesh": "IRON",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:birch_leaves",
+        "result": "exnihilosequentia:silkworm",
+        "rarity": 0.1,
+        "mesh": "IRON",
+        "isWaterlogged": false
+    },
+    {
+        "input": "exnihilosequentia:crushed_end_stone",
+        "result": "exnihilosequentia:piece_aluminum",
+        "rarity": 0.15,
+        "mesh": "IRON",
+        "isWaterlogged": false
+    },
+    {
+        "input": "exnihilosequentia:crushed_end_stone",
+        "result": "exnihilosequentia:piece_silver",
+        "rarity": 0.15,
+        "mesh": "IRON",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:acacia_leaves",
+        "result": "minecraft:acacia_sapling",
+        "rarity": 0.15,
+        "mesh": "IRON",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:acacia_leaves",
+        "result": "minecraft:apple",
+        "rarity": 0.15,
+        "mesh": "IRON",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:acacia_leaves",
+        "result": "minecraft:golden_apple",
+        "rarity": 0.005,
+        "mesh": "IRON",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:acacia_leaves",
+        "result": "exnihilosequentia:silkworm",
+        "rarity": 0.1,
+        "mesh": "IRON",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:oak_leaves",
+        "result": "minecraft:oak_sapling",
+        "rarity": 0.15,
+        "mesh": "IRON",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:oak_leaves",
+        "result": "minecraft:apple",
+        "rarity": 0.15,
+        "mesh": "IRON",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:oak_leaves",
+        "result": "minecraft:golden_apple",
+        "rarity": 0.005,
+        "mesh": "IRON",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:oak_leaves",
+        "result": "exnihilosequentia:silkworm",
+        "rarity": 0.1,
+        "mesh": "IRON",
+        "isWaterlogged": false
+    },
+    {
+        "input": "exnihilosequentia:crushed_netherrack",
+        "result": "exnihilosequentia:piece_gold",
+        "rarity": 0.25,
+        "mesh": "IRON",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:dark_oak_leaves",
+        "result": "minecraft:dark_oak_sapling",
+        "rarity": 0.15,
+        "mesh": "IRON",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:dark_oak_leaves",
+        "result": "minecraft:apple",
+        "rarity": 0.15,
+        "mesh": "IRON",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:dark_oak_leaves",
+        "result": "minecraft:golden_apple",
+        "rarity": 0.005,
+        "mesh": "IRON",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:dark_oak_leaves",
+        "result": "exnihilosequentia:silkworm",
+        "rarity": 0.1,
+        "mesh": "IRON",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:spruce_leaves",
+        "result": "minecraft:spruce_sapling",
+        "rarity": 0.15,
+        "mesh": "IRON",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:spruce_leaves",
+        "result": "minecraft:apple",
+        "rarity": 0.15,
+        "mesh": "IRON",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:spruce_leaves",
+        "result": "minecraft:golden_apple",
+        "rarity": 0.005,
+        "mesh": "IRON",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:spruce_leaves",
+        "result": "exnihilosequentia:silkworm",
+        "rarity": 0.1,
+        "mesh": "IRON",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:jungle_leaves",
+        "result": "minecraft:jungle_sapling",
+        "rarity": 0.1,
+        "mesh": "DIAMOND",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:jungle_leaves",
+        "result": "minecraft:apple",
+        "rarity": 0.2,
+        "mesh": "DIAMOND",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:jungle_leaves",
+        "result": "minecraft:golden_apple",
+        "rarity": 0.01,
+        "mesh": "DIAMOND",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:jungle_leaves",
+        "result": "exnihilosequentia:silkworm",
+        "rarity": 0.2,
+        "mesh": "DIAMOND",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:sand",
+        "result": "minecraft:prismarine_shard",
+        "rarity": 0.02,
+        "mesh": "DIAMOND",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:sand",
+        "result": "exnihilosequentia:piece_iron",
+        "rarity": 0.5,
+        "mesh": "DIAMOND",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:sand",
+        "result": "exnihilosequentia:piece_silver",
+        "rarity": 0.15,
+        "mesh": "DIAMOND",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:gravel",
+        "result": "minecraft:diamond",
+        "rarity": 0.016,
+        "mesh": "DIAMOND",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:gravel",
+        "result": "minecraft:emerald",
+        "rarity": 0.016,
+        "mesh": "DIAMOND",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:gravel",
+        "result": "exnihilosequentia:piece_iron",
+        "rarity": 0.40,
+        "mesh": "DIAMOND",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:gravel",
+        "result": "exnihilosequentia:piece_gold",
+        "rarity": 0.15,
+        "mesh": "DIAMOND",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:gravel",
+        "result": "exnihilosequentia:piece_nickel",
+        "rarity": 0.15,
+        "mesh": "DIAMOND",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:gravel",
+        "result": "exnihilosequentia:piece_lead",
+        "rarity": 0.15,
+        "mesh": "DIAMOND",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:gravel",
+        "result": "exnihilosequentia:piece_uranium",
+        "rarity": 0.15,
+        "mesh": "DIAMOND",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:gravel",
+        "result": "exnihilosequentia:piece_osmium",
+        "rarity": 0.1,
+        "mesh": "DIAMOND",
+        "isWaterlogged": false
+    },
+    {
+        "input": "exnihilosequentia:dust",
+        "result": "minecraft:redstone",
+        "rarity": 0.25,
+        "mesh": "DIAMOND",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:birch_leaves",
+        "result": "minecraft:birch_sapling",
+        "rarity": 0.2,
+        "mesh": "DIAMOND",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:birch_leaves",
+        "result": "minecraft:apple",
+        "rarity": 0.2,
+        "mesh": "DIAMOND",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:birch_leaves",
+        "result": "minecraft:golden_apple",
+        "rarity": 0.01,
+        "mesh": "DIAMOND",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:birch_leaves",
+        "result": "exnihilosequentia:silkworm",
+        "rarity": 0.2,
+        "mesh": "DIAMOND",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:soul_sand",
+        "result": "minecraft:quartz",
+        "rarity": 1.0,
+        "mesh": "DIAMOND",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:soul_sand",
+        "result": "minecraft:quartz",
+        "rarity": 0.8,
+        "mesh": "DIAMOND",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:soul_sand",
+        "result": "minecraft:ghast_tear",
+        "rarity": 0.02,
+        "mesh": "DIAMOND",
+        "isWaterlogged": false
+    },
+    {
+        "input": "exnihilosequentia:crushed_end_stone",
+        "result": "exnihilosequentia:piece_aluminum",
+        "rarity": 0.25,
+        "mesh": "DIAMOND",
+        "isWaterlogged": false
+    },
+    {
+        "input": "exnihilosequentia:crushed_end_stone",
+        "result": "exnihilosequentia:piece_silver",
+        "rarity": 0.25,
+        "mesh": "DIAMOND",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:acacia_leaves",
+        "result": "minecraft:acacia_sapling",
+        "rarity": 0.2,
+        "mesh": "DIAMOND",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:acacia_leaves",
+        "result": "minecraft:apple",
+        "rarity": 0.2,
+        "mesh": "DIAMOND",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:acacia_leaves",
+        "result": "minecraft:golden_apple",
+        "rarity": 0.01,
+        "mesh": "DIAMOND",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:acacia_leaves",
+        "result": "exnihilosequentia:silkworm",
+        "rarity": 0.2,
+        "mesh": "DIAMOND",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:oak_leaves",
+        "result": "minecraft:oak_sapling",
+        "rarity": 0.2,
+        "mesh": "DIAMOND",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:oak_leaves",
+        "result": "minecraft:apple",
+        "rarity": 0.2,
+        "mesh": "DIAMOND",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:oak_leaves",
+        "result": "minecraft:golden_apple",
+        "rarity": 0.01,
+        "mesh": "DIAMOND",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:oak_leaves",
+        "result": "exnihilosequentia:silkworm",
+        "rarity": 0.2,
+        "mesh": "DIAMOND",
+        "isWaterlogged": false
+    },
+    {
+        "input": "exnihilosequentia:crushed_netherrack",
+        "result": "exnihilosequentia:piece_gold",
+        "rarity": 0.4,
+        "mesh": "DIAMOND",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:dark_oak_leaves",
+        "result": "minecraft:dark_oak_sapling",
+        "rarity": 0.2,
+        "mesh": "DIAMOND",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:dark_oak_leaves",
+        "result": "minecraft:apple",
+        "rarity": 0.2,
+        "mesh": "DIAMOND",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:dark_oak_leaves",
+        "result": "minecraft:golden_apple",
+        "rarity": 0.01,
+        "mesh": "DIAMOND",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:dark_oak_leaves",
+        "result": "exnihilosequentia:silkworm",
+        "rarity": 0.2,
+        "mesh": "DIAMOND",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:spruce_leaves",
+        "result": "minecraft:spruce_sapling",
+        "rarity": 0.2,
+        "mesh": "DIAMOND",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:spruce_leaves",
+        "result": "minecraft:apple",
+        "rarity": 0.2,
+        "mesh": "DIAMOND",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:spruce_leaves",
+        "result": "minecraft:golden_apple",
+        "rarity": 0.01,
+        "mesh": "DIAMOND",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:spruce_leaves",
+        "result": "exnihilosequentia:silkworm",
+        "rarity": 0.2,
+        "mesh": "DIAMOND",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:sand",
+        "result": "exnihilosequentia:seed_kelp",
+        "rarity": 0.05,
+        "mesh": "STRING",
+        "isWaterlogged": true
+    },
+    {
+        "input": "minecraft:sand",
+        "result": "exnihilosequentia:seed_pickle",
+        "rarity": 0.05,
+        "mesh": "STRING",
+        "isWaterlogged": true
+    },
+    {
+        "input": "minecraft:sand",
+        "result": "exnihilosequentia:seed_blue_coral",
+        "rarity": 0.05,
+        "mesh": "IRON",
+        "isWaterlogged": true
+    },
+    {
+        "input": "minecraft:sand",
+        "result": "exnihilosequentia:seed_purple_coral",
+        "rarity": 0.05,
+        "mesh": "IRON",
+        "isWaterlogged": true
+    },
+    {
+        "input": "minecraft:sand",
+        "result": "exnihilosequentia:seed_pink_coral",
+        "rarity": 0.05,
+        "mesh": "IRON",
+        "isWaterlogged": true
+    },
+    {
+        "input": "minecraft:sand",
+        "result": "exnihilosequentia:seed_yellow_coral",
+        "rarity": 0.05,
+        "mesh": "IRON",
+        "isWaterlogged": true
+    },
+    {
+        "input": "minecraft:sand",
+        "result": "exnihilosequentia:seed_red_coral",
+        "rarity": 0.05,
+        "mesh": "IRON",
+        "isWaterlogged": true
+    },
+    {
+        "input": "exnihilosequentia:dust",
+        "result": "mysticalagriculture:propserity_chard",
+        "rarity": 0.05,
+        "mesh": "STRING",
+        "isWaterlogged": false
+    },
+    {
+        "input": "exnihilosequentia:dust",
+        "result": "mysticalagriculture:propserity_chard",
+        "rarity": 0.1,
+        "mesh": "FLINT",
+        "isWaterlogged": false
+    },
+    {
+        "input": "exnihilosequentia:dust",
+        "result": "mysticalagriculture:propserity_chard",
+        "rarity": 0.15,
+        "mesh": "IRON",
+        "isWaterlogged": false
+    },
+    {
+        "input": "exnihilosequentia:dust",
+        "result": "mysticalagriculture:propserity_chard",
+        "rarity": 0.2,
+        "mesh": "DIAMOND",
+        "isWaterlogged": false
+    },
+    {
+        "input": "exnihilosequentia:crushed_granite",
+        "result": "mysticalagriculture:inferium_essence",
+        "rarity": 0.05,
+        "mesh": "STRING",
+        "isWaterlogged": false
+    },
+    {
+        "input": "exnihilosequentia:crushed_granite",
+        "result": "mysticalagriculture:inferium_essence",
+        "rarity": 0.075,
+        "mesh": "FLINT",
+        "isWaterlogged": false
+    },
+    {
+        "input": "exnihilosequentia:crushed_granite",
+        "result": "mysticalagriculture:inferium_essence",
+        "rarity": 0.1,
+        "mesh": "IRON",
+        "isWaterlogged": false
+    },
+    {
+        "input": "exnihilosequentia:crushed_granite",
+        "result": "mysticalagriculture:inferium_essence",
+        "rarity": 0.125,
+        "mesh": "DIAMOND",
+        "isWaterlogged": false
+    }
+
+]

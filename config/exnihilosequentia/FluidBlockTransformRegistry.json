@@ -1,0 +1,72 @@
+[{
+        "fluid": "minecraft:water",
+        "input": "minecraft:cobblestone",
+        "result": "minecraft:mossy_cobblestone"
+    },
+    {
+        "fluid": "minecraft:lava",
+        "input": "minecraft:redstone",
+        "result": "minecraft:netherrack"
+    },
+    {
+        "fluid": "minecraft:lava",
+        "input": "minecraft:bricks",
+        "result": "ceramics:lava_bricks"
+    },
+    {
+        "fluid": "exnihilosequentia:witchwater",
+        "input": "ceramics:lava_bricks",
+        "result": "minecraft:magma_block"
+    },
+    {
+        "fluid": "minecraft:lava",
+        "input": "minecraft:glowstone_dust",
+        "result": "minecraft:end_stone"
+    },
+    {
+        "fluid": "exnihilosequentia:sea_water",
+        "input": "exnihilosequentia:seed_blue_coral",
+        "result": "minecraft:tube_coral_block"
+    },
+    {
+        "fluid": "exnihilosequentia:sea_water",
+        "input": "exnihilosequentia:seed_red_coral",
+        "result": "minecraft:fire_coral_block"
+    },
+    {
+        "fluid": "exnihilosequentia:sea_water",
+        "input": "exnihilosequentia:seed_pink_coral",
+        "result": "minecraft:brain_coral_block"
+    },
+    {
+        "fluid": "exnihilosequentia:sea_water",
+        "input": "exnihilosequentia:seed_purple_coral",
+        "result": "minecraft:bubble_coral_block"
+    },
+    {
+        "fluid": "exnihilosequentia:sea_water",
+        "input": "exnihilosequentia:seed_yellow_coral",
+        "result": "minecraft:horn_coral_block"
+    },
+    {
+        "fluid": "minecraft:water",
+        "input": "exnihilosequentia:dust",
+        "result": "minecraft:clay"
+    },
+    {
+        "fluid": "exnihilosequentia:witchwater",
+        "input": "minecraft:sand",
+        "result": "minecraft:soul_sand"
+    },
+    {
+        "fluid": "exnihilosequentia:witchwater",
+        "input": "minecraft:red_mushroom",
+        "result": "minecraft:slime_block"
+    },
+
+    {
+        "fluid": "exnihilosequentia:witchwater",
+        "input": "minecraft:brown_mushroom",
+        "result": "minecraft:slime_block"
+    }
+]

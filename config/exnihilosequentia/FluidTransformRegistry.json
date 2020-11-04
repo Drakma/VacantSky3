@@ -1,0 +1,12 @@
+[
+  {
+    "fluidInBarrel": "minecraft:water",
+    "blockBelow": "minecraft:mycelium",
+    "result": "exnihilosequentia:witchwater"
+  },
+  {
+    "fluidInBarrel": "minecraft:water",
+    "blockBelow": "minecraft:sand",
+    "result": "exnihilosequentia:sea_water"
+  }
+]
