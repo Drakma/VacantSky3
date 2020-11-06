@@ -1,0 +1,14 @@
+{
+    "name": "Gravel",
+    "type": "resource",
+    "tier": "mysticalagriculture:1",
+    "ingredient": {
+        "item": "minecraft:gravel"
+    },
+    "color": "4a4b46",
+    "textures": {
+        "flower": "mysticalagriculture:block/flower_rock",
+        "essence": "mysticalagriculture:item/essence_rock",
+        "seeds": "mysticalagriculture:item/mystical_seeds"
+    }
+}

@@ -1302,28 +1302,28 @@
     },
     {
         "input": "exnihilosequentia:dust",
-        "result": "mysticalagriculture:propserity_chard",
+        "result": "mysticalagriculture:prosperity_chard",
         "rarity": 0.05,
         "mesh": "STRING",
         "isWaterlogged": false
     },
     {
         "input": "exnihilosequentia:dust",
-        "result": "mysticalagriculture:propserity_chard",
+        "result": "mysticalagriculture:prosperity_chard",
         "rarity": 0.1,
         "mesh": "FLINT",
         "isWaterlogged": false
     },
     {
         "input": "exnihilosequentia:dust",
-        "result": "mysticalagriculture:propserity_chard",
+        "result": "mysticalagriculture:prosperity_chard",
         "rarity": 0.15,
         "mesh": "IRON",
         "isWaterlogged": false
     },
     {
         "input": "exnihilosequentia:dust",
-        "result": "mysticalagriculture:propserity_chard",
+        "result": "mysticalagriculture:prosperity_chard",
         "rarity": 0.2,
         "mesh": "DIAMOND",
         "isWaterlogged": false
