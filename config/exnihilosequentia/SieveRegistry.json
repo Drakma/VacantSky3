@@ -1329,6 +1329,34 @@
         "isWaterlogged": false
     },
     {
+        "input": "exnihilosequentia:dust",
+        "result": "appliedenergistics2:sky_dust",
+        "rarity": 0.05,
+        "mesh": "STRING",
+        "isWaterlogged": false
+    },
+    {
+        "input": "exnihilosequentia:dust",
+        "result": "appliedenergistics2:sky_dust",
+        "rarity": 0.1,
+        "mesh": "FLINT",
+        "isWaterlogged": false
+    },
+    {
+        "input": "exnihilosequentia:dust",
+        "result": "appliedenergistics2:sky_dust",
+        "rarity": 0.15,
+        "mesh": "IRON",
+        "isWaterlogged": false
+    },
+    {
+        "input": "exnihilosequentia:dust",
+        "result": "appliedenergistics2:sky_dust",
+        "rarity": 0.2,
+        "mesh": "DIAMOND",
+        "isWaterlogged": false
+    },
+    {
         "input": "exnihilosequentia:crushed_granite",
         "result": "mysticalagriculture:inferium_essence",
         "rarity": 0.05,

@@ -4,6 +4,11 @@
         "result": "minecraft:mossy_cobblestone"
     },
     {
+        "fluid": "cyclic:xpjuice",
+        "input": "exnihilosequentia:doll_crafting",
+        "result": "minecraft:villager_spawn_egg"
+    },
+    {
         "fluid": "minecraft:lava",
         "input": "minecraft:redstone",
         "result": "minecraft:netherrack"
