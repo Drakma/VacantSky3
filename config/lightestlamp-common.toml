@@ -2,7 +2,7 @@
 #World Generation settings
 [worldgen]
 	#Generation of Monazite Ore in nether
-	monazite_gen = true
+	monazite_gen = false
 
 #Resources settings
 [resources]

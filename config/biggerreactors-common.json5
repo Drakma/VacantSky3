@@ -953,13 +953,13 @@
          * Min: 1
          * Default: 5
          */
-        YelloriteOreMaxClustersPerChunk: 5,
+        YelloriteOreMaxClustersPerChunk: 0,
 
         /* 
          * Min: 1
          * Default: 10
          */
-        YelloriteMaxOrePerCluster: 10,
+        YelloriteMaxOrePerCluster: 0,
 
         /* 
          * Min: 5
@@ -970,7 +970,7 @@
         /* 
          * Default: true
          */
-        EnableYelloriteGeneration: true,
+        EnableYelloriteGeneration: false,
 
     },
 

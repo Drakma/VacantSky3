@@ -1,0 +1,19 @@
+{
+    "schema_version": "imm_ptl:v1",
+    "from": [
+        "minecraft:overworld"
+    ],
+    "to": "vs3_dimensions:hell_hole",
+    "reversable": true,
+    "form": {
+        "type": "imm_ptl:classical",
+        "from_frame_block": "minecraft:nether_bricks",
+        "area_block": "minecraft:air",
+        "to_frame_block": "minecraft:nether_bricks",
+        "generate_frame_if_not_found": true
+    },
+    "trigger": {
+        "type": "imm_ptl:use_item",
+        "item": "cyclic:charm_fire"
+    }
+}
