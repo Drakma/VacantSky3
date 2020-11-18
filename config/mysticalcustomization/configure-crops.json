@@ -1,1 +1,87 @@
-{}
+{
+    "mysticalagriculture:terrasteel": {
+        "enabled": false
+    },
+    "mysticalagriculture:wither_skeleton": {
+        "enabled": false
+    },
+    "mysticalagriculture:netherite": {
+        "enabled": false
+    },
+    "mysticalagriculture:emerald": {
+        "enabled": false
+    },
+    "mysticalagriculture:diamond": {
+        "enabled": false
+    },
+    "mysticalagriculture:fluix": {
+        "enabled": false
+    },
+    "mysticalagriculture:compressed_iron": {
+        "enabled": false
+    },
+    "mysticalagriculture:refined_obsidian": {
+        "enabled": false
+    },
+    "mysticalagriculture:refined_glowstone": {
+        "enabled": false
+    },
+    "mysticalagriculture:osmium": {
+        "enabled": false
+    },
+    "mysticalagriculture:elementium": {
+        "enabled": false
+    },
+    "mysticalagriculture:chrome": {
+        "enabled": false
+    },
+    "mysticalagriculture:uranium": {
+        "enabled": false
+    },
+    "mysticalagriculture:titanium": {
+        "enabled": false
+    },
+    "mysticalagriculture:tungsten": {
+        "enabled": false
+    },
+    "mysticalagriculture:mithril": {
+        "enabled": false
+    },
+    "mysticalagriculture:invar": {
+        "enabled": false
+    },
+    "mysticalagriculture:electrum": {
+        "enabled": false
+    },
+    "mysticalagriculture:constantan": {
+        "enabled": false
+    },
+    "mysticalagriculture:nickel": {
+        "enabled": false
+    },
+    "mysticalagriculture:steel": {
+        "enabled": false
+    },
+    "mysticalagriculture:enderman": {
+        "enabled": false
+    },
+    "mysticalagriculture:ghast": {
+        "enabled": false
+    },
+    "mysticalagriculture:blaze": {
+        "enabled": false
+    },
+    "mysticalagriculture:experience": {
+        "enabled": false
+    },
+    "mysticalagriculture:end": {
+        "enabled": false
+    },
+    "mysticalagriculture:lapis_lazuli": {
+        "enabled": false
+    },
+    "mysticalagriculture:gold": {
+        "enabled": false
+    }
+
+}

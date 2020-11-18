@@ -1383,6 +1383,118 @@
         "rarity": 0.125,
         "mesh": "DIAMOND",
         "isWaterlogged": false
+    },
+    {
+        "input": "exnihilosequentia:crushed_diorite",
+        "result": "thermal:apatite_dust",
+        "rarity": 0.05,
+        "mesh": "STRING",
+        "isWaterlogged": false
+    },
+    {
+        "input": "exnihilosequentia:crushed_diorite",
+        "result": "thermal:apatite_dust",
+        "rarity": 0.075,
+        "mesh": "FLINT",
+        "isWaterlogged": false
+    },
+    {
+        "input": "exnihilosequentia:crushed_diorite",
+        "result": "thermal:apatite_dust",
+        "rarity": 0.1,
+        "mesh": "IRON",
+        "isWaterlogged": false
+    },
+    {
+        "input": "exnihilosequentia:crushed_diorite",
+        "result": "thermal:apatite_dust",
+        "rarity": 0.125,
+        "mesh": "DIAMOND",
+        "isWaterlogged": false
+    },
+    {
+        "input": "exnihilosequentia:crushed_netherrack",
+        "result": "thermal:niter_dust",
+        "rarity": 0.025,
+        "mesh": "STRING",
+        "isWaterlogged": false
+    },
+    {
+        "input": "exnihilosequentia:crushed_netherrack",
+        "result": "thermal:niter_dust",
+        "rarity": 0.05,
+        "mesh": "FLINT",
+        "isWaterlogged": false
+    },
+    {
+        "input": "exnihilosequentia:crushed_netherrack",
+        "result": "thermal:niter_dust",
+        "rarity": 0.075,
+        "mesh": "IRON",
+        "isWaterlogged": false
+    },
+    {
+        "input": "exnihilosequentia:crushed_netherrack",
+        "result": "thermal:niter_dust",
+        "rarity": 0.01,
+        "mesh": "DIAMOND",
+        "isWaterlogged": false
+    },
+    {
+        "input": "exnihilosequentia:crushed_netherrack",
+        "result": "thermal:sulfur_dust",
+        "rarity": 0.025,
+        "mesh": "STRING",
+        "isWaterlogged": false
+    },
+    {
+        "input": "exnihilosequentia:crushed_netherrack",
+        "result": "thermal:sulfur_dust",
+        "rarity": 0.05,
+        "mesh": "FLINT",
+        "isWaterlogged": false
+    },
+    {
+        "input": "exnihilosequentia:crushed_netherrack",
+        "result": "thermal:sulfur_dust",
+        "rarity": 0.075,
+        "mesh": "IRON",
+        "isWaterlogged": false
+    },
+    {
+        "input": "exnihilosequentia:crushed_netherrack",
+        "result": "thermal:sulfur_dust",
+        "rarity": 0.01,
+        "mesh": "DIAMOND",
+        "isWaterlogged": false
+    },
+    {
+        "input": "exnihilosequentia:crushed_andesite",
+        "result": "thermal:cinnabar_dust",
+        "rarity": 0.025,
+        "mesh": "STRING",
+        "isWaterlogged": false
+    },
+    {
+        "input": "exnihilosequentia:crushed_andesite",
+        "result": "thermal:cinnabar_dust",
+        "rarity": 0.05,
+        "mesh": "FLINT",
+        "isWaterlogged": false
+    },
+    {
+        "input": "exnihilosequentia:crushed_andesite",
+        "result": "thermal:cinnabar_dust",
+        "rarity": 0.075,
+        "mesh": "IRON",
+        "isWaterlogged": false
+    },
+    {
+        "input": "exnihilosequentia:crushed_andesite",
+        "result": "thermal:cinnabar_dust",
+        "rarity": 0.01,
+        "mesh": "DIAMOND",
+        "isWaterlogged": false
     }
 
 ]

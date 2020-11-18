@@ -10,6 +10,7 @@
         "length": 2,
         "frame_block": "minecraft:sandstone",
         "area_block": "minecraft:water",
+        "up_frame_block": "botania:floating_thermalily",
         "generate_frame_if_not_found": true
     },
     "trigger": {

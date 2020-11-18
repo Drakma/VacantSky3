@@ -40,12 +40,12 @@
             "block_search_extent": 8,
             "offset": 2.0
         },
-        "fog_color": 0,
+        "fog_color": 23039,
         "water_color": 0,
         "water_fog_color": 0,
         "grass_color": 0,
 
-        "sky_color": 0,
+        "sky_color": 23039,
         "foliage_colour": 0
     },
     "precipitation": "none",

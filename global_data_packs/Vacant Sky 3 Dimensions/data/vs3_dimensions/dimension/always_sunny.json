@@ -2,7 +2,7 @@
     "type": "vs3_dimensions:always_sunny",
     "generator": {
         "type": "minecraft:noise",
-        "seed": -1464245863,
+        "seed": 578603608622457,
         "biome_source": {
             "humidity_noise": {
                 "firstOctave": -7,
@@ -33,7 +33,7 @@
                 ]
             },
             "type": "multi_noise",
-            "seed": -1464245863,
+            "seed": 674311320629477,
             "biomes": [{
                     "biome": "minecraft:desert",
                     "parameters": {

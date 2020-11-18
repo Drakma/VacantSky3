@@ -87,7 +87,7 @@
 #Compatibility Configs
 [compatibility]
 	#Should Thermal Expansion ores be enabled? (Default: false)
-	enableThermalExpansion = false
+	enableThermalExpansion = true
 	#Should Mekanism ores be enabled? (Default: false)
 	enableMekanism = true
 	#Should Immersive Engineering ores be enabled? (Default: false)
