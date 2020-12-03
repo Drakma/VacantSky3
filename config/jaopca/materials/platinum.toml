@@ -5,7 +5,7 @@
 	#The alternative names of this material.
 	alternativeNames = []
 	#The color of this material.
-	color = 6392199
+	color = 8235178
 	#The byproducts of this material.
 	extras = []
 	#The model type of the material.

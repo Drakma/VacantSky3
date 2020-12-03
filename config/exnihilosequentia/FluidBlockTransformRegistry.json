@@ -73,5 +73,11 @@
         "fluid": "exnihilosequentia:witchwater",
         "input": "minecraft:brown_mushroom",
         "result": "minecraft:slime_block"
+    },
+    {
+        "fluid": "cyclic:xpjuice",
+        "input": "minecraft:crafting_table",
+        "result": "astralsorcery:altar_discovery"
     }
+
 ]

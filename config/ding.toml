@@ -3,7 +3,7 @@
 [ding]
 	#Pitch of the sound (when resources complete reloading)
 	#Range: 0.0 ~ 10.0
-	pitchResourcesReload = 8.0
+	pitchResourcesReload = 1.0
 	#Play sound when resources complete reloading. Requires game to be restarted.
 	playOnResourcesReload = true
 	#If Ding can't find the third party sound you added with other mods (EG: Additional Resources), try turning this on to skip that check.

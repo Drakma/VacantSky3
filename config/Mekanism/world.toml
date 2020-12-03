@@ -11,7 +11,7 @@
 	[world_generation.salt]
 		#Chance that salt generates in a chunk.
 		#Range: 1 ~ 128
-		perChunk = 1
+		perChunk = 2
 		#Base radius of a vein of salt.
 		#Range: 1 ~ 4
 		baseRadius = 2
@@ -28,7 +28,7 @@
 	[world_generation.tin]
 		#Chance that tin generates in a chunk.
 		#Range: 1 ~ 128
-		perChunk = 1
+		perChunk = 14
 		#Top offset for calculating height that veins of tin can spawn. Height is calculated by: random.nextInt(maxHeight - topOffset) + bottomOffset
 		topOffset = 0
 		#Bottom offset for calculating height that veins of tin can spawn. Height is calculated by: random.nextInt(maxHeight - topOffset) + bottomOffset
@@ -46,7 +46,7 @@
 	[world_generation.copper]
 		#Chance that copper generates in a chunk.
 		#Range: 1 ~ 128
-		perChunk = 1
+		perChunk = 16
 		#Top offset for calculating height that veins of copper can spawn. Height is calculated by: random.nextInt(maxHeight - topOffset) + bottomOffset
 		topOffset = 0
 		#Bottom offset for calculating height that veins of copper can spawn. Height is calculated by: random.nextInt(maxHeight - topOffset) + bottomOffset
@@ -64,7 +64,7 @@
 	[world_generation.osmium]
 		#Chance that osmium generates in a chunk.
 		#Range: 1 ~ 128
-		perChunk = 1
+		perChunk = 12
 		#Top offset for calculating height that veins of osmium can spawn. Height is calculated by: random.nextInt(maxHeight - topOffset) + bottomOffset
 		topOffset = 0
 		#Bottom offset for calculating height that veins of osmium can spawn. Height is calculated by: random.nextInt(maxHeight - topOffset) + bottomOffset
@@ -82,7 +82,7 @@
 	[world_generation.fluorite]
 		#Chance that fluorite generates in a chunk.
 		#Range: 1 ~ 128
-		perChunk = 1
+		perChunk = 6
 		#Top offset for calculating height that veins of fluorite can spawn. Height is calculated by: random.nextInt(maxHeight - topOffset) + bottomOffset
 		topOffset = 0
 		#Bottom offset for calculating height that veins of fluorite can spawn. Height is calculated by: random.nextInt(maxHeight - topOffset) + bottomOffset
@@ -100,7 +100,7 @@
 	[world_generation.uranium]
 		#Chance that uranium generates in a chunk.
 		#Range: 1 ~ 128
-		perChunk = 1
+		perChunk = 8
 		#Top offset for calculating height that veins of uranium can spawn. Height is calculated by: random.nextInt(maxHeight - topOffset) + bottomOffset
 		topOffset = 0
 		#Bottom offset for calculating height that veins of uranium can spawn. Height is calculated by: random.nextInt(maxHeight - topOffset) + bottomOffset
@@ -118,7 +118,7 @@
 	[world_generation.lead]
 		#Chance that lead generates in a chunk.
 		#Range: 1 ~ 128
-		perChunk = 1
+		perChunk = 8
 		#Top offset for calculating height that veins of lead can spawn. Height is calculated by: random.nextInt(maxHeight - topOffset) + bottomOffset
 		topOffset = 0
 		#Bottom offset for calculating height that veins of lead can spawn. Height is calculated by: random.nextInt(maxHeight - topOffset) + bottomOffset

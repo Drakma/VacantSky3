@@ -30,10 +30,10 @@
 		EnableFacadeCrafting = true
 
 	[features.World]
-		CertusQuartzWorldGen = false
+		CertusQuartzWorldGen = true
 		VillagerTrading = true
 		SpawnPressesInMeteorites = true
-		MeteoriteWorldGen = false
+		MeteoriteWorldGen = true
 
 [general]
 	#Will auto-remove items that crash when being loaded from storage. This will destroy those items instead of crashing the game!
@@ -66,10 +66,11 @@
 	matterCannon = 200000
 
 [worldGen]
-	meteoriteDimensionWhitelist = ["minecraft:dimension"]
 	quartzOresClusterAmount = 20
+	meteoriteBiomeBlacklist = []
 	quartzOresPerCluster = 4
 	meteoriteMaximumSpawnHeight = 180
+	quartzOresBiomeBlacklist = []
 	#Range: 0.0 ~ 1.0
 	spawnChargedChance = 0.08
 

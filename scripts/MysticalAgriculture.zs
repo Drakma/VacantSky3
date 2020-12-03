@@ -5,16 +5,16 @@ import mods.botanypots.ZenSoil;
 val crops = <recipetype:botanypots:crop>;
 
 # Flux
-craftingTable.addShaped("vs3_fluxnetworks_flux_dust", <item:fluxnetworks:flux_dust> * 4,
+craftingTable.addShaped("vs3_fluxnetworks_fluxed_dust", <item:fluxnetworks:flux_dust> * 4,
 [
-  [<item:mysticalagriculture:flux_essence>,<item:mysticalagriculture:flux_essence>,<item:mysticalagriculture:flux_essence>],
-  [<item:mysticalagriculture:flux_essence>,<item:mysticalagriculture:flux_essence>,<item:mysticalagriculture:flux_essence>],
-  [<item:mysticalagriculture:flux_essence>,<item:mysticalagriculture:flux_essence>,<item:mysticalagriculture:flux_essence>]
+  [<item:mysticalagriculture:fluxed_essence>,<item:mysticalagriculture:fluxed_essence>,<item:mysticalagriculture:fluxed_essence>],
+  [<item:mysticalagriculture:fluxed_essence>,<item:mysticalagriculture:fluxed_essence>,<item:mysticalagriculture:fluxed_essence>],
+  [<item:mysticalagriculture:fluxed_essence>,<item:mysticalagriculture:fluxed_essence>,<item:mysticalagriculture:fluxed_essence>]
 ]);
 
-val blockFlux = <blockstate:mysticalagriculture:flux_crop>;
-val cropFlux = crops.create("vs3:flux", <item:mysticalagriculture:flux_seeds>, blockFlux.withProperty("age", "7"), 1000, "farmland");
-cropFlux.addDrop(<item:mysticalagriculture:flux_essence>, 1);
+val blockFlux = <blockstate:mysticalagriculture:fluxed_crop>;
+val cropFlux = crops.create("vs3:fluxed", <item:mysticalagriculture:fluxed_seeds>, blockFlux.withProperty("age", "7"), 1000, "farmland");
+cropFlux.addDrop(<item:mysticalagriculture:fluxed_essence>, 1);
 cropFlux.addCategory("infernium");
 cropFlux.addCategory("imperium");
 cropFlux.addCategory("tertium");

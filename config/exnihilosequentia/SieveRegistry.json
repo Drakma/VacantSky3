@@ -1495,6 +1495,97 @@
         "rarity": 0.01,
         "mesh": "DIAMOND",
         "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:soul_sand",
+        "result": "mysticalagriculture:soulium_dust",
+        "rarity": 0.005,
+        "mesh": "STRING",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:soul_sand",
+        "result": "mysticalagriculture:soulium_dust",
+        "rarity": 0.01,
+        "mesh": "FLINT",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:soul_sand",
+        "result": "mysticalagriculture:soulium_dust",
+        "rarity": 0.015,
+        "mesh": "IRON",
+        "isWaterlogged": false
+    },
+    {
+        "input": "minecraft:soul_sand",
+        "result": "mysticalagriculture:soulium_dust",
+        "rarity": 0.02,
+        "mesh": "DIAMOND",
+        "isWaterlogged": false
+    },
+    {
+        "input": "exnihilosequentia:crushed_end_stone",
+        "result": "mekanism:fluorite_dust",
+        "rarity": 0.005,
+        "mesh": "STRING",
+        "isWaterlogged": false
+    },
+    {
+        "input": "exnihilosequentia:crushed_end_stone",
+        "result": "mekanism:fluorite_dust",
+        "rarity": 0.01,
+        "mesh": "FLINT",
+        "isWaterlogged": false
+    },
+    {
+        "input": "exnihilosequentia:crushed_end_stone",
+        "result": "mekanism:fluorite_dust",
+        "rarity": 0.015,
+        "mesh": "IRON",
+        "isWaterlogged": false
+    },
+    {
+        "input": "exnihilosequentia:crushed_end_stone",
+        "result": "mekanism:fluorite_dust",
+        "rarity": 0.02,
+        "mesh": "DIAMOND",
+        "isWaterlogged": false
+    },
+    {
+        "input": "exnihilosequentia:dust",
+        "result": "exnihilosequentia:piece_platinum",
+        "rarity": 0.005,
+        "mesh": "STRING",
+        "isWaterlogged": false
+    },
+    {
+        "input": "exnihilosequentia:dust",
+        "result": "exnihilosequentia:piece_platinum",
+        "rarity": 0.01,
+        "mesh": "FLINT",
+        "isWaterlogged": false
+    },
+    {
+        "input": "exnihilosequentia:dust",
+        "result": "exnihilosequentia:piece_platinum",
+        "rarity": 0.015,
+        "mesh": "IRON",
+        "isWaterlogged": false
+    },
+    {
+        "input": "exnihilosequentia:dust",
+        "result": "exnihilosequentia:piece_platinum",
+        "rarity": 0.02,
+        "mesh": "DIAMOND",
+        "isWaterlogged": false
+    },
+    {
+        "input": "exnihilosequentia:crushed_end_stone",
+        "result": "astralsorcery:aquamarine",
+        "rarity": 0.015,
+        "mesh": "DIAMOND",
+        "isWaterlogged": false
     }
 
 ]

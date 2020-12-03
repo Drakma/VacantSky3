@@ -26,7 +26,7 @@ splashes = true
 		#Set this to true to enable the fancy skybox in non Garden of Glass worlds. (Does not require Garden of Glass loaded to use, needs 'fancySkybox.enabled' to be true as well)
 		normalWorlds = false
 		#Set this to false to disable the fancy skybox in Garden of Glass
-		enabled = false
+		enabled = true
 
 	[rendering.lexicon]
 		#Set this to false to disable the rotating items in the petal and rune entries in the Lexica Botania.

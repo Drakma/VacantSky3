@@ -3,7 +3,7 @@
 [screen]
 	#The duration of screen background and blur radius animation in milliseconds. (0 = OFF)
 	#Range: 0 ~ 800
-	animationDuration = 800
+	animationDuration = 200
 	#The blur effect radius, higher values result in a small loss of performance.
 	#Range: 2 ~ 18
 	blurRadius = 10
@@ -24,7 +24,7 @@
 	#The resolution level of font, higher levels would better work with high resolution monitors.
 	#Reference: 1 (Standard, 1.5K Fullscreen), 2 (High, 2K~3K Fullscreen), 3 (Ultra, 4K Fullscreen)
 	#Range: 1 ~ 3
-	resolutionLevel = 3
+	resolutionLevel = 2
 	#Replace the default font renderer of vanilla to that of Modern UI.
 	globalRenderer = true
 	#The default font size for texts with no size specified.

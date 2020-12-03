@@ -1,7 +1,7 @@
 
 [general]
 	#Shows a message in chat warning the player that the mod is early in development
-	showBetaWelcomeMessage = false
+	showBetaWelcomeMessage = true
 
 [machine]
 
@@ -15,7 +15,7 @@
 [world]
 	#Set to 'false' to completely disable ore generation from this mod, ignoring all other settings.
 	#You can also enable/disable ores individually, but this is useful if you plan to use another mod for ore generation.
-	masterSwitch = false
+	masterSwitch = true
 
 	#Configs for specific ores. Set veinCount to zero to disable an ore.
 	[world.ores]
@@ -26,7 +26,7 @@
 			minHeight = 0
 			#Number of veins per chunk
 			#Range: > 0
-			veinCount = 0
+			veinCount = 1
 			#Maximum Y-coordinate (highest level) of veins
 			#Range: 0 ~ 255
 			maxHeight = 24
@@ -40,7 +40,7 @@
 			minHeight = 5
 			#Number of veins per chunk
 			#Range: > 0
-			veinCount = 0
+			veinCount = 1
 			#Maximum Y-coordinate (highest level) of veins
 			#Range: 0 ~ 255
 			maxHeight = 20
@@ -54,7 +54,7 @@
 			minHeight = 20
 			#Number of veins per chunk
 			#Range: > 0
-			veinCount = 0
+			veinCount = 8
 			#Maximum Y-coordinate (highest level) of veins
 			#Range: 0 ~ 255
 			maxHeight = 80
@@ -68,7 +68,7 @@
 			minHeight = 40
 			#Number of veins per chunk
 			#Range: > 0
-			veinCount = 0
+			veinCount = 8
 			#Maximum Y-coordinate (highest level) of veins
 			#Range: 0 ~ 255
 			maxHeight = 90
@@ -82,7 +82,7 @@
 			minHeight = 15
 			#Number of veins per chunk
 			#Range: > 0
-			veinCount = 0
+			veinCount = 6
 			#Maximum Y-coordinate (highest level) of veins
 			#Range: 0 ~ 255
 			maxHeight = 50
@@ -96,7 +96,7 @@
 			minHeight = 0
 			#Number of veins per chunk
 			#Range: > 0
-			veinCount = 0
+			veinCount = 4
 			#Maximum Y-coordinate (highest level) of veins
 			#Range: 0 ~ 255
 			maxHeight = 40
@@ -110,7 +110,7 @@
 			minHeight = 0
 			#Number of veins per chunk
 			#Range: > 0
-			veinCount = 0
+			veinCount = 1
 			#Maximum Y-coordinate (highest level) of veins
 			#Range: 0 ~ 255
 			maxHeight = 18
@@ -124,7 +124,7 @@
 			minHeight = 20
 			#Number of veins per chunk
 			#Range: > 0
-			veinCount = 0
+			veinCount = 4
 			#Maximum Y-coordinate (highest level) of veins
 			#Range: 0 ~ 255
 			maxHeight = 60
@@ -138,7 +138,7 @@
 			minHeight = 0
 			#Number of veins per chunk
 			#Range: > 0
-			veinCount = 0
+			veinCount = 4
 			#Maximum Y-coordinate (highest level) of veins
 			#Range: 0 ~ 255
 			maxHeight = 30
@@ -152,7 +152,7 @@
 			minHeight = 16
 			#Number of veins per chunk
 			#Range: > 0
-			veinCount = 0
+			veinCount = 4
 			#Maximum Y-coordinate (highest level) of veins
 			#Range: 0 ~ 255
 			maxHeight = 64
@@ -165,5 +165,5 @@
 		#Water is 4, lava is 80. Oil lakes will spawn underground about 90% of the time.
 		#Note that disabling oil will make some items uncraftable unless recipes are changed
 		#Range: > 0
-		chance = 20
+		chance = 6
 

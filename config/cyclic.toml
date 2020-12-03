@@ -4,7 +4,7 @@
 	#Disable the endgame gear
 	gemObsidianGear = true
 	#Disable the cables aka pipes
-	cables = false
+	cables = true
 	#Disable the 3 scaffolding blocks
 	scaffolding = true
 	#Disable 9 items, emerald armor and tools

@@ -350,6 +350,21 @@
         },
 
         {
+            location: "forge:storage_blocks/graphite",
+
+            locationType: "TAG",
+
+            absorption: 0.1,
+
+            heatEfficiency: 0.5,
+
+            moderation: 2.0,
+
+            conductivity: 2.0,
+
+        },
+
+        {
             location: "minecraft:water",
 
             locationType: "REGISTRY",
@@ -361,21 +376,6 @@
             moderation: 1.33,
 
             conductivity: 0.1,
-
-        },
-
-        {
-            location: "biggerreactors:graphite_block",
-
-            locationType: "REGISTRY",
-
-            absorption: 0.1,
-
-            heatEfficiency: 0.5,
-
-            moderation: 2.0,
-
-            conductivity: 2.0,
 
         },
 
@@ -953,13 +953,13 @@
          * Min: 1
          * Default: 5
          */
-        YelloriteOreMaxClustersPerChunk: 0,
+        YelloriteOreMaxClustersPerChunk: 5,
 
         /* 
          * Min: 1
          * Default: 10
          */
-        YelloriteMaxOrePerCluster: 0,
+        YelloriteMaxOrePerCluster: 10,
 
         /* 
          * Min: 5
@@ -970,7 +970,7 @@
         /* 
          * Default: true
          */
-        EnableYelloriteGeneration: false,
+        EnableYelloriteGeneration: true,
 
     },
 

@@ -51,10 +51,44 @@ var removeItems = [
   <item:industrialforegoing:laser_lens8>,
   <item:industrialforegoing:laser_lens9>,
   <item:industrialforegoing:laser_lens15>,
-  <item:industrialforegoing:laser_lens14>
+  <item:industrialforegoing:laser_lens14>,
+  <item:thermal:electrum_dust>,
+  <item:thermal:enderium_dust>,
+  <item:thermal:invar_dust>,
+  <item:thermal:bronze_dust>,
+  <item:thermal:lumium_dust>,
+  <item:thermal:constantan_dust>,
+  <item:thermal:signalum_dust>
 ];
 
 for Item in removeItems {
   craftingTable.removeRecipe(Item);
   mods.jei.JEI.hideItem(Item);
 }
+
+var removeRecipes = [
+  "thermal:fire_charge/bronze_ingot_4",
+  "thermal:fire_charge/enderium_ingot_2",
+  "thermal:fire_charge/constantan_ingot_2",
+  "thermal:fire_charge/electrum_ingot_2",
+  "thermal:fire_charge/signalum_ingot_4",
+  "thermal:fire_charge/invar_ingot_3",
+  "thermal:fire_charge/lumium_ingot_4",
+  "thermal:storage/bronze_ingot",
+  "thermal:storage/copper_ingot",
+  "thermal:storage/enderium_ingot",
+  "thermal:storage/constantan_ingot",
+  "thermal:storage/electrum_ingot",
+  "thermal:storage/tin_ingot",
+  "thermal:storage/signalum_ingot",
+  "thermal:storage/silver_ingot",
+  "thermal:storage/lumium_ingot",
+  "thermal:storage/lead_ingot",
+  "thermal:storage/nickel_ingot",
+  "thermal:storage/invar_ingot"
+];
+
+for Recipe in removeRecipes {
+  craftingTable.removeByName(Recipe);
+}
+

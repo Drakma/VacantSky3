@@ -58,27 +58,27 @@
 	genExtractChance = 0.85
 
 [Worldgen]
-	"enable_productivebees:acacia_wood_nest" = false
-	"enable_productivebees:gravel_nest" = false
-	"enable_productivebees:glowstone_nest" = false
-	"enable_productivebees:end_stone_nest" = false
-	"enable_productivebees:jungle_wood_nest" = false
-	"enable_productivebees:sugar_cane_nest" = false
-	"enable_productivebees:nether_quartz_nest" = false
-	"enable_productivebees:coarse_dirt_nest" = false
-	"enable_productivebees:nether_gold_nest" = false
-	"enable_productivebees:stone_nest" = false
-	"enable_productivebees:nether_brick_nest" = false
-	"enable_productivebees:snow_nest" = false
-	"enable_productivebees:sand_nest" = false
-	"enable_productivebees:obsidian_nest" = false
-	"enable_productivebees:slimy_nest" = false
-	"enable_productivebees:soul_sand_nest" = false
+	"enable_productivebees:acacia_wood_nest" = true
+	"enable_productivebees:gravel_nest" = true
+	"enable_productivebees:glowstone_nest" = true
+	"enable_productivebees:end_stone_nest" = true
+	"enable_productivebees:jungle_wood_nest" = true
+	"enable_productivebees:sugar_cane_nest" = true
+	"enable_productivebees:nether_quartz_nest" = true
+	"enable_productivebees:coarse_dirt_nest" = true
+	"enable_productivebees:nether_gold_nest" = true
+	"enable_productivebees:stone_nest" = true
+	"enable_productivebees:nether_brick_nest" = true
+	"enable_productivebees:snow_nest" = true
+	"enable_productivebees:sand_nest" = true
+	"enable_productivebees:obsidian_nest" = true
+	"enable_productivebees:slimy_nest" = true
+	"enable_productivebees:soul_sand_nest" = true
 	#Which nests should generate in the world. Nest will still be craftable and attract bees when placed in the world.
-	"enable_productivebees:oak_wood_nest" = false
-	"enable_productivebees:spruce_wood_nest" = false
-	"enable_productivebees:birch_wood_nest" = false
-	"enable_productivebees:dark_oak_wood_nest" = false
+	"enable_productivebees:oak_wood_nest" = true
+	"enable_productivebees:spruce_wood_nest" = true
+	"enable_productivebees:birch_wood_nest" = true
+	"enable_productivebees:dark_oak_wood_nest" = true
 
 [Bees]
 	#Range: 0.0 ~ 1.0

@@ -77,17 +77,17 @@
 		#Amount of Power Consumed per Tick - Default: [400FE]
 		powerPerOperation = 1000
 
-	[MachineResourceProductionConfig.DyeMixerConfig]
-		#Amount of Power Consumed per Tick - Default: [400FE]
-		powerPerTick = 30
-		#Max Stored Power [FE] - Default: [10000 FE]
-		maxStoredPower = 10000
-
 	[MachineResourceProductionConfig.OreLaserBaseConfig]
 		#How much weight of an item the catalyst will increase
 		catalystModifier = 8
 		#Max progress of the machine
 		maxProgress = 100
+
+	[MachineResourceProductionConfig.DyeMixerConfig]
+		#Amount of Power Consumed per Tick - Default: [400FE]
+		powerPerTick = 30
+		#Max Stored Power [FE] - Default: [10000 FE]
+		maxStoredPower = 10000
 
 	[MachineResourceProductionConfig.MaterialStoneWorkFactoryConfig]
 		#Amount of Power Consumed per Tick - Default: [60FE]

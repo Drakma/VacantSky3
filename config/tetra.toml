@@ -18,7 +18,7 @@
 [worldgen]
 	#The number of geodes that should generate per chunk, set to 0 to disable
 	#Range: 0 ~ 65536
-	geode_density = 0
+	geode_density = 120
 	#Generates features in the world, further configuration available in "tetra/data/structures/"
 	features = true
 	#Used to limit how deep the feature generator will recurse into feature children, helps to avoid recursive loops and cascading worldgen in 3d-party generation features
