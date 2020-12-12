@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "result": {
+        "item": "mekanism:steel_casing"
+    },
+    "pattern": [
+        "SGS",
+        "GOG",
+        "SGS"
+    ],
+    "key": {
+        "G": {
+            "tag": "forge:ingots/osmium"
+        },
+        "O": {
+            "item": "silents_mechanisms:alloy_machine_frame"
+        },
+        "S": {
+            "tag": "forge:ingots/steel"
+        }
+    }
+}

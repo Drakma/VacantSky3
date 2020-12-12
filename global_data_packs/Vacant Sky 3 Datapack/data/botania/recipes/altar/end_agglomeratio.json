@@ -1,0 +1,20 @@
+{
+    "type": "botania:runic_altar",
+    "output": {
+        "item": "mysticalagriculture:end_agglomeratio"
+    },
+    "mana": 8000,
+    "ingredients": [{
+            "tag": "forge:end_stones"
+        },
+        {
+            "item": "minecraft:chorus_fruit"
+        },
+        {
+            "tag": "forge:end_stones"
+        },
+        {
+            "item": "minecraft:purpur_block"
+        }
+    ]
+}

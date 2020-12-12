@@ -1,0 +1,10 @@
+{
+    "id": "diamond_panda",
+    "inputs": [
+        "item:productivebees:honeycomb_netherite"
+    ],
+    "output": "mekanism:dust_netherite",
+    "hexColor": "#493637",
+    "chance": 0.6,
+    "alpha": 1.0
+}

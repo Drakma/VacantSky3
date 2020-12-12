@@ -1,0 +1,20 @@
+{
+    "type": "botania:runic_altar",
+    "output": {
+        "item": "mysticalagriculture:earth_agglomeratio"
+    },
+    "mana": 8000,
+    "ingredients": [{
+            "item": "minecraft:grass"
+        },
+        {
+            "tag": "forge:gravel"
+        },
+        {
+            "tag": "forge:dirt"
+        },
+        {
+            "item": "minecraft:clay_ball"
+        }
+    ]
+}

@@ -85,12 +85,12 @@
 	[elementalcraft.worldgen]
 		#Chance to add a source in world (the small the more frequante).
 		#Range: 1 ~ 10000
-		sourceSpawnChance = 20
+		sourceSpawnChance = 1
 		#Disable all elementalcraft world gen.
-		disableWorldGen = false
+		disableWorldGen = true
 		#CSource Altar genreration distance setting.
 		#Range: 0 ~ 100
-		sourceAltarDistance = 16
+		sourceAltarDistance = 0
 
 	#mod interaction config
 	[elementalcraft.interaction]

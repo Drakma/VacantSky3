@@ -1,0 +1,35 @@
+{
+    "type": "extendedcrafting:combination",
+    "powerCost": 100000,
+    "input": {
+        "item": "mysticalagriculture:prosperity_seed_base"
+    },
+    "ingredients": [{
+            "item": "mysticalagriculture:imperium_essence"
+        },
+        {
+            "item": "powah:steel_energized"
+        },
+        {
+            "item": "mysticalagriculture:imperium_essence"
+        },
+        {
+            "item": "powah:steel_energized"
+        },
+        {
+            "item": "mysticalagriculture:imperium_essence"
+        },
+        {
+            "item": "powah:steel_energized"
+        },
+        {
+            "item": "mysticalagriculture:imperium_essence"
+        },
+        {
+            "item": "powah:steel_energized"
+        }
+    ],
+    "result": {
+        "item": "mysticalagriculture:energized_steel_seeds"
+    }
+}

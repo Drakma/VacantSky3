@@ -1,0 +1,20 @@
+{
+    "type": "botania:runic_altar",
+    "output": {
+        "item": "mysticalagriculture:prismarine_agglomeratio"
+    },
+    "mana": 8000,
+    "ingredients": [{
+            "tag": "forge:gems/prismarine"
+        },
+        {
+            "tag": "forge:dusts/prismarine"
+        },
+        {
+            "tag": "forge:gems/prismarine"
+        },
+        {
+            "tag": "forge:dusts/prismarine"
+        }
+    ]
+}

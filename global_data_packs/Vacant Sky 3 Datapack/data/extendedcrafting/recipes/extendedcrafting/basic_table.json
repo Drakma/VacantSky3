@@ -1,0 +1,28 @@
+{
+    "type": "extendedcrafting:shaped_ender_crafter",
+    "pattern": [
+        "ABA",
+        "CDC",
+        "AEA"
+    ],
+    "key": {
+        "A": {
+            "item": "extendedcrafting:basic_component"
+        },
+        "B": {
+            "item": "extendedcrafting:basic_catalyst"
+        },
+        "C": {
+            "item": "minecraft:crafting_table"
+        },
+        "D": {
+            "tag": "forge:storage_blocks/iron"
+        },
+        "E": {
+            "item": "extendedcrafting:black_iron_slate"
+        }
+    },
+    "result": {
+        "item": "extendedcrafting:basic_table"
+    }
+}

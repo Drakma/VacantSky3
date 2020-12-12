@@ -78,6 +78,16 @@
         "fluid": "cyclic:xpjuice",
         "input": "minecraft:crafting_table",
         "result": "astralsorcery:altar_discovery"
+    },
+    {
+        "fluid": "industrialforegoing:milk",
+        "input": "minecraft:stone",
+        "result": "elementalcraft:whiterock"
+    },
+    {
+        "fluid": "mekanism:sulfuric_acid",
+        "input": "minecraft:diorite",
+        "result": "astralsorcery:marble_raw"
     }
 
 ]

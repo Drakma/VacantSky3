@@ -1,0 +1,22 @@
+{
+    "type": "extendedcrafting:shaped_ender_crafter",
+    "pattern": [
+        " X ",
+        " A ",
+        "ABA"
+    ],
+    "key": {
+        "A": {
+            "item": "extendedcrafting:black_iron_ingot"
+        },
+        "B": {
+            "item": "extendedcrafting:black_iron_block"
+        },
+        "X": {
+            "item": "botania:mana_pearl"
+        }
+    },
+    "result": {
+        "item": "extendedcrafting:pedestal"
+    }
+}

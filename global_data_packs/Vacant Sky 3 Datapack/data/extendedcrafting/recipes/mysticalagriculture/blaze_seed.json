@@ -1,0 +1,55 @@
+{
+    "type": "extendedcrafting:combination",
+    "powerCost": 100000,
+    "input": {
+        "item": "mysticalagriculture:prosperity_seed_base"
+    },
+    "ingredients": [{
+            "item": "mysticalagriculture:imperium_essence"
+        },
+        {
+            "type": "forge:nbt",
+            "item": "mysticalagriculture:soul_jar",
+            "nbt": {
+                "Souls": 10.0,
+                "Type": "mysticalagriculture:blaze"
+            }
+        },
+        {
+            "item": "mysticalagriculture:imperium_essence"
+        },
+        {
+            "type": "forge:nbt",
+            "item": "mysticalagriculture:soul_jar",
+            "nbt": {
+                "Souls": 10.0,
+                "Type": "mysticalagriculture:blaze"
+            }
+        },
+        {
+            "item": "mysticalagriculture:imperium_essence"
+        },
+        {
+            "type": "forge:nbt",
+            "item": "mysticalagriculture:soul_jar",
+            "nbt": {
+                "Souls": 10.0,
+                "Type": "mysticalagriculture:blaze"
+            }
+        },
+        {
+            "item": "mysticalagriculture:imperium_essence"
+        },
+        {
+            "type": "forge:nbt",
+            "item": "mysticalagriculture:soul_jar",
+            "nbt": {
+                "Souls": 10.0,
+                "Type": "mysticalagriculture:blaze"
+            }
+        }
+    ],
+    "result": {
+        "item": "mysticalagriculture:blaze_seeds"
+    }
+}

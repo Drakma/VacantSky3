@@ -1,0 +1,28 @@
+{
+    "type": "extendedcrafting:shaped_ender_crafter",
+    "pattern": [
+        "ABA",
+        "CDC",
+        "AEA"
+    ],
+    "key": {
+        "A": {
+            "item": "extendedcrafting:black_iron_ingot"
+        },
+        "B": {
+            "item": "extendedcrafting:elite_catalyst"
+        },
+        "C": {
+            "item": "extendedcrafting:elite_component"
+        },
+        "D": {
+            "item": "extendedcrafting:frame"
+        },
+        "E": {
+            "item": "extendedcrafting:black_iron_slate"
+        }
+    },
+    "result": {
+        "item": "extendedcrafting:crafting_core"
+    }
+}

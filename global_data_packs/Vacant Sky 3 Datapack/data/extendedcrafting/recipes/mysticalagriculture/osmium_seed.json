@@ -1,0 +1,35 @@
+{
+    "type": "extendedcrafting:combination",
+    "powerCost": 100000,
+    "input": {
+        "item": "mysticalagriculture:prosperity_seed_base"
+    },
+    "ingredients": [{
+            "item": "mysticalagriculture:imperium_essence"
+        },
+        {
+            "tag": "forge:ingots/osmium"
+        },
+        {
+            "item": "mysticalagriculture:imperium_essence"
+        },
+        {
+            "tag": "forge:ingots/osmium"
+        },
+        {
+            "item": "mysticalagriculture:imperium_essence"
+        },
+        {
+            "tag": "forge:ingots/osmium"
+        },
+        {
+            "item": "mysticalagriculture:imperium_essence"
+        },
+        {
+            "tag": "forge:ingots/osmium"
+        }
+    ],
+    "result": {
+        "item": "mysticalagriculture:osmium_seeds"
+    }
+}

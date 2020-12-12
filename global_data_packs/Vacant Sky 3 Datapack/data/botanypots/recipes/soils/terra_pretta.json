@@ -1,0 +1,16 @@
+{
+    "type": "botanypots:soil",
+    "input": {
+        "item": "cyclic:terra_preta"
+    },
+    "display": {
+        "block": "cyclic:terra_preta"
+    },
+    "categories": [
+        "dirt",
+        "grass",
+        "podzol",
+        "mushroom"
+    ],
+    "growthModifier": 0.25
+}

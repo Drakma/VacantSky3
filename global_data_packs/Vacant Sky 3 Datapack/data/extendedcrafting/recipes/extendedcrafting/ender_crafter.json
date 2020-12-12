@@ -1,0 +1,34 @@
+{
+    "type": "mysticalagriculture:infusion",
+    "input": {
+        "item": "minecraft:crafting_table"
+    },
+    "ingredients": [{
+            "item": "minecraft:ender_eye"
+        },
+        {
+            "item": "extendedcrafting:ender_ingot"
+        },
+        {
+            "item": "minecraft:ender_eye"
+        },
+        {
+            "item": "extendedcrafting:ender_ingot"
+        },
+        {
+            "item": "minecraft:ender_eye"
+        },
+        {
+            "item": "extendedcrafting:ender_ingot"
+        },
+        {
+            "item": "minecraft:ender_eye"
+        },
+        {
+            "item": "extendedcrafting:ender_ingot"
+        }
+    ],
+    "result": {
+        "item": "extendedcrafting:ender_crafter"
+    }
+}

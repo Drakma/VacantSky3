@@ -1,0 +1,35 @@
+{
+    "type": "extendedcrafting:combination",
+    "powerCost": 100000,
+    "input": {
+        "item": "mysticalagriculture:prosperity_seed_base"
+    },
+    "ingredients": [{
+            "item": "mysticalagriculture:imperium_essence"
+        },
+        {
+            "tag": "forge:ingots/signalum"
+        },
+        {
+            "item": "mysticalagriculture:imperium_essence"
+        },
+        {
+            "tag": "forge:ingots/signalum"
+        },
+        {
+            "item": "mysticalagriculture:imperium_essence"
+        },
+        {
+            "tag": "forge:ingots/signalum"
+        },
+        {
+            "item": "mysticalagriculture:imperium_essence"
+        },
+        {
+            "tag": "forge:ingots/signalum"
+        }
+    ],
+    "result": {
+        "item": "mysticalagriculture:signalum_seeds"
+    }
+}

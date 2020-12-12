@@ -1,0 +1,55 @@
+{
+    "type": "extendedcrafting:combination",
+    "powerCost": 100000,
+    "input": {
+        "item": "mysticalagriculture:prosperity_seed_base"
+    },
+    "ingredients": [{
+            "item": "mysticalagriculture:imperium_essence"
+        },
+        {
+            "type": "forge:nbt",
+            "item": "mysticalagriculture:soul_jar",
+            "nbt": {
+                "Souls": 4.0,
+                "Type": "mysticalagriculture:ghast"
+            }
+        },
+        {
+            "item": "mysticalagriculture:imperium_essence"
+        },
+        {
+            "type": "forge:nbt",
+            "item": "mysticalagriculture:soul_jar",
+            "nbt": {
+                "Souls": 4.0,
+                "Type": "mysticalagriculture:ghast"
+            }
+        },
+        {
+            "item": "mysticalagriculture:imperium_essence"
+        },
+        {
+            "type": "forge:nbt",
+            "item": "mysticalagriculture:soul_jar",
+            "nbt": {
+                "Souls": 4.0,
+                "Type": "mysticalagriculture:ghast"
+            }
+        },
+        {
+            "item": "mysticalagriculture:imperium_essence"
+        },
+        {
+            "type": "forge:nbt",
+            "item": "mysticalagriculture:soul_jar",
+            "nbt": {
+                "Souls": 4.0,
+                "Type": "mysticalagriculture:ghast"
+            }
+        }
+    ],
+    "result": {
+        "item": "mysticalagriculture:ghast_seeds"
+    }
+}

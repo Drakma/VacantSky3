@@ -1,0 +1,35 @@
+{
+    "type": "extendedcrafting:combination",
+    "powerCost": 100000,
+    "input": {
+        "item": "mysticalagriculture:prosperity_seed_base"
+    },
+    "ingredients": [{
+            "item": "mysticalagriculture:imperium_essence"
+        },
+        {
+            "item": "appliedenergistics2:purified_fluix_crystal"
+        },
+        {
+            "item": "mysticalagriculture:imperium_essence"
+        },
+        {
+            "item": "appliedenergistics2:purified_fluix_crystal"
+        },
+        {
+            "item": "mysticalagriculture:imperium_essence"
+        },
+        {
+            "item": "appliedenergistics2:purified_fluix_crystal"
+        },
+        {
+            "item": "mysticalagriculture:imperium_essence"
+        },
+        {
+            "item": "appliedenergistics2:purified_fluix_crystal"
+        }
+    ],
+    "result": {
+        "item": "mysticalagriculture:fluix_seeds"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "id": "fluorite_panda",
+    "inputs": [
+        "item:minecraft:quartz"
+    ],
+    "output": "mekanism:fluorite_gem",
+    "hexColor": "#acacdf",
+    "chance": 0.6,
+    "alpha": 1.0
+}

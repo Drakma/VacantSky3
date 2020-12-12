@@ -1,0 +1,10 @@
+{
+    "id": "terrasteel_panda",
+    "inputs": [
+        "item:botania:terrasteel_ingot"
+    ],
+    "output": "botania:terrasteel_ingot",
+    "hexColor": "#69DD24",
+    "chance": 0.2,
+    "alpha": 1.0
+}

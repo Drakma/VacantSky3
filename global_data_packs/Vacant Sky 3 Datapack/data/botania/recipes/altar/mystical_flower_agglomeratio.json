@@ -1,0 +1,20 @@
+{
+    "type": "botania:runic_altar",
+    "output": {
+        "item": "mysticalagriculture:mystical_flower_agglomeratio"
+    },
+    "mana": 8000,
+    "ingredients": [{
+            "item": "botania:cyan_mystical_flower"
+        },
+        {
+            "item": "botania:orange_mystical_flower"
+        },
+        {
+            "item": "botania:pink_mystical_flower"
+        },
+        {
+            "item": "botania:red_mystical_flower"
+        }
+    ]
+}

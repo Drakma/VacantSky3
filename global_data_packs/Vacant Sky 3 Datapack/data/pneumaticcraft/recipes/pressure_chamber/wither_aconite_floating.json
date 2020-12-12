@@ -1,0 +1,20 @@
+{
+    "type": "pneumaticcraft:pressure_chamber",
+    "inputs": [{
+            "type": "pneumaticcraft:stacked_item",
+            "item": "minecraft:dirt",
+            "count": 3
+        },
+        {
+            "item": "botania:grass_seeds"
+        },
+        {
+            "item": "mythicbotany:wither_aconite"
+        }
+    ],
+    "pressure": 1.5,
+    "results": [{
+        "item": "mythicbotany:wither_aconite_floating",
+        "count": 1
+    }]
+}

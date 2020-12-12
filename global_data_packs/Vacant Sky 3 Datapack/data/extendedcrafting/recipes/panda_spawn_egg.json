@@ -1,0 +1,33 @@
+{
+    "type": "extendedcrafting:shaped_table",
+    "pattern": [
+        "AAAAA",
+        "BBBBB",
+        "CCXCC",
+        "DDDDD",
+        "EEEEE"
+    ],
+    "key": {
+        "A": {
+            "item": "mysticalagriculture:pig_essence"
+        },
+        "B": {
+            "item": "mysticalagriculture:chicken_essence"
+        },
+        "C": {
+            "item": "mysticalagriculture:cow_essence"
+        },
+        "D": {
+            "item": "mysticalagriculture:sheep_essence"
+        },
+        "E": {
+            "item": "mysticalagriculture:rabbit_essence"
+        },
+        "X": {
+            "item": "minecraft:egg"
+        }
+    },
+    "result": {
+        "item": "minecraft:panda_spawn_egg"
+    }
+}

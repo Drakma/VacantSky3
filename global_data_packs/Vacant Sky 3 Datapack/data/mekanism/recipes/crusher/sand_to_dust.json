@@ -1,0 +1,11 @@
+{
+    "type": "mekanism:crushing",
+    "input": {
+        "ingredient": {
+            "tag": "forge:sand"
+        }
+    },
+    "output": {
+        "item": "exnihilosequentia:dust"
+    }
+}

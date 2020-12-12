@@ -1,0 +1,20 @@
+{
+    "type": "botania:runic_altar",
+    "output": {
+        "item": "mysticalagriculture:nature_agglomeratio"
+    },
+    "mana": 8000,
+    "ingredients": [{
+            "item": "minecraft:pumpkin"
+        },
+        {
+            "item": "minecraft:potato"
+        },
+        {
+            "item": "minecraft:cactus"
+        },
+        {
+            "item": "minecraft:sugar_cane"
+        }
+    ]
+}

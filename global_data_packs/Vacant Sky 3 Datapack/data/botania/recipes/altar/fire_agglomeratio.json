@@ -1,0 +1,20 @@
+{
+    "type": "botania:runic_altar",
+    "output": {
+        "item": "mysticalagriculture:fire_agglomeratio"
+    },
+    "mana": 8000,
+    "ingredients": [{
+            "item": "minecraft:lava_bucket"
+        },
+        {
+            "tag": "forge:gravel"
+        },
+        {
+            "tag": "forge:dirt"
+        },
+        {
+            "item": "minecraft:clay_ball"
+        }
+    ]
+}

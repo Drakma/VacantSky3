@@ -1,0 +1,35 @@
+{
+    "type": "extendedcrafting:combination",
+    "powerCost": 100000,
+    "input": {
+        "item": "mysticalagriculture:prosperity_seed_base"
+    },
+    "ingredients": [{
+            "item": "mysticalagriculture:imperium_essence"
+        },
+        {
+            "tag": "forge:ingots/compressed_iron"
+        },
+        {
+            "item": "mysticalagriculture:imperium_essence"
+        },
+        {
+            "tag": "forge:ingots/compressed_iron"
+        },
+        {
+            "item": "mysticalagriculture:imperium_essence"
+        },
+        {
+            "tag": "forge:ingots/compressed_iron"
+        },
+        {
+            "item": "mysticalagriculture:imperium_essence"
+        },
+        {
+            "tag": "forge:ingots/compressed_iron"
+        }
+    ],
+    "result": {
+        "item": "mysticalagriculture:compressed_iron_seeds"
+    }
+}

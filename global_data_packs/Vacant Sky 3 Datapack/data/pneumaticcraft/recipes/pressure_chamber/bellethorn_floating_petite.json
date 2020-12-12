@@ -1,0 +1,20 @@
+{
+    "type": "pneumaticcraft:pressure_chamber",
+    "inputs": [{
+            "type": "pneumaticcraft:stacked_item",
+            "item": "minecraft:dirt",
+            "count": 1
+        },
+        {
+            "item": "botania:grass_seeds"
+        },
+        {
+            "item": "botania:bellethorn_chibi"
+        }
+    ],
+    "pressure": 1.5,
+    "results": [{
+        "item": "botania:floating_bellethorn_chibi",
+        "count": 1
+    }]
+}

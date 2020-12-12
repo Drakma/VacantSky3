@@ -1,0 +1,18 @@
+{
+    "type": "thermal:smelter",
+    "input": [{
+            "tag": "forge:dyes/red"
+        },
+        {
+            "tag": "forge:dusts/redstone"
+        },
+        {
+            "tag": "forge:ingots/iron"
+        }
+    ],
+    "result": [{
+        "item": "extendedcrafting:redstone_ingot",
+        "count": 1
+    }],
+    "energy": 10000
+}

@@ -1,0 +1,22 @@
+{
+    "type": "botanypots:soil",
+    "input": {
+        "item": "mysticalagriculture:imperium_farmland"
+    },
+    "display": {
+        "block": "mysticalagriculture:imperium_farmland",
+        "properties": {
+            "moisture": 7
+        }
+    },
+    "categories": [
+        "dirt",
+        "farmland",
+        "inferium",
+        "prudentium",
+        "tertium",
+        "imperium",
+        "mysticalagriculture"
+    ],
+    "growthModifier": 0.75
+}

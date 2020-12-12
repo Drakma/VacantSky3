@@ -1,0 +1,22 @@
+{
+    "type": "mysticalagriculture:infusion",
+    "input": {
+        "item": "pedestals:pedestal/stone333"
+    },
+    "ingredients": [{
+            "item": "minecraft:ender_eye"
+        },
+        {
+            "item": "extendedcrafting:ender_ingot"
+        },
+        {
+            "item": "minecraft:ender_eye"
+        },
+        {
+            "item": "extendedcrafting:ender_ingot"
+        }
+    ],
+    "result": {
+        "item": "extendedcrafting:ender_alternator"
+    }
+}

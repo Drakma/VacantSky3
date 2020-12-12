@@ -1,0 +1,20 @@
+{
+    "type": "pneumaticcraft:pressure_chamber",
+    "inputs": [{
+            "type": "pneumaticcraft:stacked_item",
+            "item": "minecraft:dirt",
+            "count": 3
+        },
+        {
+            "item": "botania:grass_seeds"
+        },
+        {
+            "item": "botania:hyacidus"
+        }
+    ],
+    "pressure": 1.5,
+    "results": [{
+        "item": "botania:floating_hyacidus",
+        "count": 1
+    }]
+}

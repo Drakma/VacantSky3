@@ -1,0 +1,15 @@
+{
+    "type": "thermal:smelter",
+    "input": [{
+            "item": "elementalcraft:purecrystal"
+        },
+        {
+            "tag": "forge:marble"
+        }
+    ],
+    "result": [{
+        "item": "astralsorcery:rock_crystal_ore",
+        "count": 1
+    }],
+    "energy": 100000
+}

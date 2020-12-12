@@ -1,0 +1,20 @@
+{
+    "type": "botania:runic_altar",
+    "output": {
+        "item": "mysticalagriculture:coral_agglomeratio"
+    },
+    "mana": 8000,
+    "ingredients": [{
+            "item": "minecraft:brain_coral_block"
+        },
+        {
+            "item": "minecraft:tube_coral_block"
+        },
+        {
+            "item": "minecraft:fire_coral_block"
+        },
+        {
+            "item": "minecraft:horn_coral_block"
+        }
+    ]
+}

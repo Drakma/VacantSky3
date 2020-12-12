@@ -1,0 +1,20 @@
+{
+    "type": "botania:runic_altar",
+    "output": {
+        "item": "mysticalagriculture:honey_agglomeratio"
+    },
+    "mana": 8000,
+    "ingredients": [{
+            "item": "minecraft:honey_bottle"
+        },
+        {
+            "tag": "forge:honeycombs"
+        },
+        {
+            "item": "minecraft:honey_bottle"
+        },
+        {
+            "tag": "forge:honeycombs"
+        }
+    ]
+}

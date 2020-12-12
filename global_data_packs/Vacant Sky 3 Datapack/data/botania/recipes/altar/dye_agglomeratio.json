@@ -1,0 +1,20 @@
+{
+    "type": "botania:runic_altar",
+    "output": {
+        "item": "mysticalagriculture:dye_agglomeratio"
+    },
+    "mana": 8000,
+    "ingredients": [{
+            "tag": "forge:dyes/cyan"
+        },
+        {
+            "tag": "forge:dyes/orange"
+        },
+        {
+            "tag": "forge:dyes/pink"
+        },
+        {
+            "tag": "forge:dyes/lime"
+        }
+    ]
+}
