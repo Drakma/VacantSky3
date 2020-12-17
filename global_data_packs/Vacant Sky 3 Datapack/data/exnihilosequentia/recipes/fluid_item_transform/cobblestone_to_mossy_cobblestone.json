@@ -1,0 +1,12 @@
+{
+    "type": "exnihilosequentia:fluid_item",
+    "fluid": {
+        "fluid": "minecraft:water"
+    },
+    "input": {
+        "item": "minecraft:cobblestone"
+    },
+    "result": {
+        "item": "minecraft:mossy_cobblestone"
+    }
+}

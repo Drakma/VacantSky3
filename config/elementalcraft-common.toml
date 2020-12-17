@@ -92,6 +92,19 @@
 		#Range: 0 ~ 100
 		sourceAltarDistance = 0
 
+		[elementalcraft.worldgen.inertCrystal]
+			#Number of inert crystal vein.
+			#Range: 1 ~ 100
+			inertCrystalCount = 10
+			#Size of inert crystal vein.
+			#Range: 1 ~ 100
+			inertCrystalSize = 9
+			#Disable creation of inertCrystals.
+			disableInertCrystal = false
+			#max Y level of inert crystal.
+			#Range: 1 ~ 256
+			inertCrystalYMax = 64
+
 	#mod interaction config
 	[elementalcraft.interaction]
 
@@ -108,6 +121,9 @@
 			mekanismInteracionEnabled = true
 			#Set to false if you want pure ore to not use mekanism dissolution recipes.
 			mekanismPureOreDissolutionRecipe = true
+			#The dimishing amount multiplier when using pure ore in mekanism. it prevent an exploit.
+			#Range: 0.0 ~ 1.0
+			mekanismPureOreDimishingAmount = 0.75
 
 	#Shrines config
 	[elementalcraft.shrines]

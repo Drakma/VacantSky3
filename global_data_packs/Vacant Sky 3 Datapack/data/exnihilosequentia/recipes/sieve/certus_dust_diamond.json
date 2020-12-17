@@ -1,0 +1,14 @@
+{
+    "type": "exnihilosequentia:sieve",
+    "rolls": [{
+        "chance": 0.15,
+        "mesh": "diamond"
+    }],
+    "input": {
+        "item": "minecraft:sand"
+    },
+    "result": {
+        "item": "appliedenergistics2:certus_quartz_dust"
+    },
+    "waterlogged": false
+}

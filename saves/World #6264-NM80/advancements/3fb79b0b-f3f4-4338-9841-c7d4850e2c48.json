@@ -1,0 +1,27 @@
+{
+  "apotheosis:spawner/root": {
+    "criteria": {
+      "game_start": "2020-12-16 20:30:09 -0600"
+    },
+    "done": true
+  },
+  "astralsorcery:root": {
+    "criteria": {
+      "astralsorcery_present": "2020-12-16 20:30:09 -0600"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/lexicon": {
+    "criteria": {
+      "has_item": "2020-12-16 20:30:00 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2020-12-16 20:30:00 -0600"
+    },
+    "done": false
+  },
+  "DataVersion": 2584
+}

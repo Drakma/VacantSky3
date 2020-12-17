@@ -1,0 +1,14 @@
+{
+    "type": "exnihilosequentia:sieve",
+    "rolls": [{
+        "chance": 0.125,
+        "mesh": "diamond"
+    }],
+    "input": {
+        "item": "exnihilosequentia:crushed_granite"
+    },
+    "result": {
+        "item": "mysticalagriculture:inferium_essence"
+    },
+    "waterlogged": false
+}

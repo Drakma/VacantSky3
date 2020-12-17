@@ -1,0 +1,12 @@
+{
+    "type": "exnihilosequentia:fluid_item",
+    "fluid": {
+        "fluid": "mekanism:sulfuric_acid"
+    },
+    "input": {
+        "item": "minecraft:diorite"
+    },
+    "result": {
+        "item": "astralsorcery:marble_raw"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "type": "exnihilosequentia:sieve",
+    "rolls": [{
+        "chance": 0.015,
+        "mesh": "diamond"
+    }],
+    "input": {
+        "item": "exnihilosequentia:crushed_end_stone"
+    },
+    "result": {
+        "item": "mekanism:dust_fluorite"
+    },
+    "waterlogged": false
+}

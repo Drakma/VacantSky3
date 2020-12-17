@@ -1,0 +1,14 @@
+{
+    "type": "exnihilosequentia:sieve",
+    "rolls": [{
+        "chance": 0.15,
+        "mesh": "iron"
+    }],
+    "input": {
+        "item": "exnihilosequentia:dust"
+    },
+    "result": {
+        "item": "appliedenergistics2:sky_dust"
+    },
+    "waterlogged": false
+}

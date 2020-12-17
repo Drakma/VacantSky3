@@ -1,0 +1,14 @@
+{
+    "name": "Villager",
+    "type": "resource",
+    "tier": "mysticalagriculture:3",
+    "ingredient": {
+        "item": "minecraft:experience_bottle"
+    },
+    "color": "81b161",
+    "textures": {
+        "flower": "mysticalagriculture:block/flower_face",
+        "essence": "mysticalagriculture:item/essence_tall_gem",
+        "seeds": "mysticalagriculture:item/mystical_seeds"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "type": "botania:mana_infusion",
+    "input": {
+        "item": "minecraft:crafting_table"
+    },
+    "output": {
+        "item": "astralsorcery:altar_discovery"
+    },
+    "mana": 50000,
+    "catalyst": {
+        "name": "botania:conjuration_catalyst"
+    }
+}

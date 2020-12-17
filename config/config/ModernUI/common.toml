@@ -1,0 +1,6 @@
+
+#Developer Config
+[developer]
+	#Whether to enable developer mode.
+	enableDeveloperMode = false
+

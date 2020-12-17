@@ -1,0 +1,14 @@
+{
+    "type": "exnihilosequentia:sieve",
+    "rolls": [{
+        "chance": 0.15,
+        "mesh": "diamond"
+    }],
+    "input": {
+        "item": "exnihilosequentia:dust"
+    },
+    "result": {
+        "item": "mysticalagriculture:prosperity_shard"
+    },
+    "waterlogged": false
+}

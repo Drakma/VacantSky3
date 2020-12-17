@@ -1,0 +1,14 @@
+{
+    "name": "Dust",
+    "type": "resource",
+    "tier": "mysticalagriculture:1",
+    "ingredient": {
+        "item": "exnihilosequentia:dust"
+    },
+    "color": "dcd7d4",
+    "textures": {
+        "flower": "mysticalagriculture:block/flower_rock",
+        "essence": "mysticalagriculture:item/essence_rock",
+        "seeds": "mysticalagriculture:item/mystical_seeds"
+    }
+}

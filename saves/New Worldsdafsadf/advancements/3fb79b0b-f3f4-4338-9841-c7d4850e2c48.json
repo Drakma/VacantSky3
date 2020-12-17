@@ -1,0 +1,1339 @@
+{
+  "connectedglass:recipes/search/scratched_glass_pink2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "lightestlamp:recipes/lamps/argon_block": {
+    "criteria": {
+      "netherrack": "2020-11-16 18:38:57 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_sand": "2020-11-14 16:20:04 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/borderless_glass_black2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/scratched_glass_purple_pane2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/scratched_glass_brown2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/clear_glass_light_gray2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "astralsorcery:root": {
+    "criteria": {
+      "astralsorcery_present": "2020-12-02 14:59:31 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_sand": "2020-11-14 16:20:04 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_brick": "2020-11-14 16:06:12 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2020-11-14 16:05:49 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2020-11-14 16:05:59 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_sand": "2020-11-14 16:20:04 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/scratched_glass_white2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2020-11-14 16:19:15 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/scratched_glass_lime_pane2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "botania:main/generating_flower": {
+    "criteria": {
+      "flower": "2020-11-16 18:41:38 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2020-11-14 16:19:15 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2020-11-14 16:16:51 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2020-11-14 16:06:12 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_sand": "2020-11-14 16:20:04 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/scratched_glass_brown_pane2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2020-11-14 16:19:15 -0600"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/chests/vanilla_dirt_chest": {
+    "criteria": {
+      "has_iron_ingot": "2020-11-14 16:22:20 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/borderless_glass_yellow_pane2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "tetra:spelunking/root": {
+    "criteria": {
+      "spelunking": "2020-11-14 16:20:54 -0600"
+    },
+    "done": true
+  },
+  "ceramics:recipes/ceramics/lava_bricks_lava": {
+    "criteria": {
+      "has_lava": "2020-11-14 20:36:29 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/borderless_glass_light_gray_pane2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/scratched_glass_purple2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/borderless_glass_magenta_pane2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2020-11-14 20:56:10 -0600"
+    },
+    "done": true
+  },
+  "lightestlamp:recipes/lamps/alfa_lamp": {
+    "criteria": {
+      "netherrack": "2020-11-16 18:38:57 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/borderless_glass_blue2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/borderless_glass_light_gray2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/scratched_glass_lime2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/scratched_glass_white_pane2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/clear_glass_pink_pane2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_reeds": "2020-11-16 18:26:38 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2020-11-14 16:05:49 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2020-11-14 16:19:15 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/scratched_glass_pink_pane2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "lightestlamp:recipes/lamps/argon_rod": {
+    "criteria": {
+      "netherrack": "2020-11-16 18:38:57 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2020-11-14 16:05:49 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/clear_glass_lime2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/borderless_glass_red_pane2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/upgrades/gold_to_diamond_chest_upgrade": {
+    "criteria": {
+      "has_glass": "2020-11-14 20:52:32 -0600"
+    },
+    "done": true
+  },
+  "lightestlamp:recipes/lamps/krypton_block": {
+    "criteria": {
+      "netherrack": "2020-11-16 18:38:57 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/borderless_glass_pink2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/chests/diamond_crystal_chest": {
+    "criteria": {
+      "has_glass": "2020-11-14 20:52:32 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/scratched_glass_black_pane2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/clear_glass_gray2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2020-11-14 16:20:04 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2020-11-14 16:20:04 -0600"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/upgrades/copper_to_iron_chest_upgrade": {
+    "criteria": {
+      "has_item": "2020-11-14 20:52:32 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/borderless_glass_light_blue_pane2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/clear_glass_green2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/scratched_glass_light_blue_pane2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_sand": "2020-11-14 16:20:04 -0600"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/upgrades/silver_to_gold_chest_upgrade": {
+    "criteria": {
+      "has_item": "2020-11-14 20:52:32 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_sand": "2020-11-14 16:20:04 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2020-11-14 16:05:49 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/clear_glass_purple2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2020-11-14 21:00:16 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2020-11-14 20:52:32 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2020-11-14 16:05:49 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2020-11-14 16:05:49 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_sand": "2020-11-14 16:20:04 -0600"
+    },
+    "done": true
+  },
+  "ceramics:recipes/ceramics/lava_bricks_wall_lava": {
+    "criteria": {
+      "has_lava": "2020-11-14 20:36:29 -0600"
+    },
+    "done": true
+  },
+  "ceramics:recipes/building_blocks/smooth_sandstone_kiln": {
+    "criteria": {
+      "has_item": "2020-11-14 16:05:49 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/clear_glass_orange_pane2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/borderless_glass_yellow2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/borderless_glass_orange_pane2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2020-11-14 16:16:49 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2020-11-14 16:20:04 -0600"
+    },
+    "done": true
+  },
+  "ceramics:recipes/ceramics/lava_bricks_slab_lava": {
+    "criteria": {
+      "has_lava": "2020-11-14 20:36:29 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/clear_glass_pink2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/clear_glass_magenta2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2020-11-14 16:19:15 -0600"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2020-11-14 20:36:29 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/clear_glass_red2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2020-11-14 20:56:10 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/borderless_glass_purple2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/scratched_glass_light_gray_pane2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_sand": "2020-11-14 16:20:04 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/borderless_glass_light_blue2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "lightestlamp:recipes/lamps/neon_block": {
+    "criteria": {
+      "netherrack": "2020-11-16 18:38:57 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2020-11-14 20:56:10 -0600"
+    },
+    "done": true
+  },
+  "productivebees:recipes/decorations/nether_brick_nest": {
+    "criteria": {
+      "has_item": "2020-11-14 16:06:12 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/borderless_glass_white2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2020-11-14 21:00:15 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/scratched_glass_gray_pane2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_sand": "2020-11-14 16:20:04 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/borderless_glass_gray_pane2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/lexicon": {
+    "criteria": {
+      "has_item": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/clear_glass_brown2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:creeper": "2020-11-14 21:00:15 -0600",
+      "minecraft:zombie": "2020-11-14 21:00:33 -0600"
+    },
+    "done": false
+  },
+  "connectedglass:recipes/search/scratched_glass_green_pane2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/scratched_glass_yellow_pane2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "lightestlamp:recipes/lamps/jungle_lantern": {
+    "criteria": {
+      "netherrack": "2020-11-16 18:38:57 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/scratched_glass_orange2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/scratched_glass_blue2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2020-11-14 16:06:12 -0600"
+    },
+    "done": true
+  },
+  "ceramics:recipes/building_blocks/glass_kiln": {
+    "criteria": {
+      "has_item": "2020-11-14 16:20:04 -0600"
+    },
+    "done": true
+  },
+  "lightestlamp:recipes/lamps/omega_lamp": {
+    "criteria": {
+      "netherrack": "2020-11-16 18:38:57 -0600"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/floating_thermalily": {
+    "criteria": {
+      "has_item": "2020-11-16 18:41:38 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2020-11-14 16:06:12 -0600"
+    },
+    "done": true
+  },
+  "simplyjetpacks:root": {
+    "criteria": {
+      "simply_jetpacks": "2020-11-14 16:05:01 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2020-11-14 20:56:10 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2020-11-16 18:06:52 -0600"
+    },
+    "done": true
+  },
+  "lightestlamp:recipes/lamps/empty_rod": {
+    "criteria": {
+      "netherrack": "2020-11-16 18:38:57 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2020-11-14 16:05:49 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_sand": "2020-11-14 16:20:04 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/scratched_glass_light_blue2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_sand": "2020-11-14 16:20:04 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/scratched_glass_yellow2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/scratched_glass_magenta2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/clear_glass_black2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/borderless_glass_green_pane2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2020-11-14 16:19:15 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2020-11-14 20:36:35 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2020-11-16 18:26:38 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/clear_glass_cyan2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2020-11-14 16:06:12 -0600"
+    },
+    "done": true
+  },
+  "ceramics:recipes/ceramics/lava_bricks_stairs_lava": {
+    "criteria": {
+      "has_lava": "2020-11-14 20:36:29 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/clear_glass_light_gray_pane2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/borderless_glass_gray2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/clear_glass_yellow_pane2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2020-11-14 16:06:12 -0600"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/root": {
+    "criteria": {
+      "game_start": "2020-11-14 16:05:15 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/borderless_glass_red2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2020-11-16 18:38:57 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/borderless_glass_white_pane2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/borderless_glass_blue_pane2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/blaze_block": {
+    "criteria": {
+      "has_item": "2020-11-14 20:36:35 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/clear_glass_white_pane2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2020-11-14 16:19:15 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/scratched_glass_green2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2020-11-14 16:20:04 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2020-11-14 16:20:04 -0600"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/upgrades/diamond_to_obsidian_chest_upgrade": {
+    "criteria": {
+      "has_glass": "2020-11-14 20:52:32 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/borderless_glass_magenta2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/borderless_glass_purple_pane2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2020-11-14 16:05:49 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/clear_glass_light_blue_pane2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2020-11-14 21:00:39 -0600"
+    },
+    "done": true
+  },
+  "lightestlamp:recipes/lamps/gamma_lamp": {
+    "criteria": {
+      "netherrack": "2020-11-16 18:38:57 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/scratched_glass_cyan2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "simplyjetpacks:vanilla/root_vanilla": {
+    "criteria": {
+      "code_trigger": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_sand": "2020-11-14 16:20:04 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/borderless_glass_orange2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2020-11-14 16:05:49 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/borderless_glass_brown_pane2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/clear_glass_gray_pane2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2020-11-14 16:05:49 -0600"
+    },
+    "done": true
+  },
+  "lightestlamp:recipes/lamps/delta_lamp": {
+    "criteria": {
+      "netherrack": "2020-11-16 18:38:57 -0600"
+    },
+    "done": true
+  },
+  "lightestlamp:recipes/lamps/epsilon_lamp": {
+    "criteria": {
+      "netherrack": "2020-11-16 18:38:57 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2020-11-14 16:05:49 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_stick": "2020-11-14 16:19:15 -0600"
+    },
+    "done": true
+  },
+  "lightestlamp:recipes/lamps/clear_lamp": {
+    "criteria": {
+      "netherrack": "2020-11-16 18:38:57 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/borderless_glass_cyan_pane2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/scratched_glass_gray2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/borderless_glass_lime_pane2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2020-11-14 20:36:35 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2020-11-14 16:06:12 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/scratched_glass_red2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2020-11-14 16:06:12 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_sand": "2020-11-14 16:20:04 -0600"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/blazeblock_deconstruct": {
+    "criteria": {
+      "has_item": "2020-11-14 20:36:35 -0600"
+    },
+    "done": true
+  },
+  "lightestlamp:recipes/lamps/neon_rod_block": {
+    "criteria": {
+      "netherrack": "2020-11-16 18:38:57 -0600"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/upgrades/diamond_to_crystal_chest_upgrade": {
+    "criteria": {
+      "has_glass": "2020-11-14 20:52:32 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:creeper": "2020-11-14 21:00:15 -0600"
+    },
+    "done": true
+  },
+  "lightestlamp:recipes/lamps/zeta_lamp": {
+    "criteria": {
+      "netherrack": "2020-11-16 18:38:57 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/clear_glass_magenta_pane2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/borderless_glass_cyan2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "lightestlamp:recipes/lamps/argon_rod_block": {
+    "criteria": {
+      "netherrack": "2020-11-16 18:38:57 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/clear_glass_white2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/scratched_glass_cyan_pane2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2020-11-14 20:36:35 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/borderless_glass_green2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/scratched_glass_light_gray2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/clear_glass_black_pane2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/clear_glass_brown_pane2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:snowy_tundra": "2020-11-14 20:35:38 -0600",
+      "minecraft:desert": "2020-11-14 16:19:11 -0600",
+      "minecraft:birch_forest": "2020-11-15 22:12:53 -0600",
+      "minecraft:birch_forest_hills": "2020-11-14 16:05:01 -0600"
+    },
+    "done": false
+  },
+  "connectedglass:recipes/search/borderless_glass_lime2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "lightestlamp:recipes/lamps/glowing_glass_block": {
+    "criteria": {
+      "netherrack": "2020-11-16 18:38:57 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/clear_glass_purple_pane2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/scratched_glass_red_pane2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_brick": "2020-11-14 16:06:12 -0600"
+    },
+    "done": true
+  },
+  "trashcans:recipes/search/liquid_trash_can": {
+    "criteria": {
+      "bucket": "2020-12-03 10:50:08 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/borderless_glass_black_pane2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/borderless_glass_pink_pane2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2020-11-14 20:56:10 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/clear_glass_red_pane2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/clear_glass_blue_pane2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "botania:main/bauble_wear": {
+    "criteria": {
+      "code_triggered": "2020-11-14 16:06:38 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2020-11-16 18:06:52 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/borderless_glass_brown2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/clear_glass_blue2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/clear_glass_orange2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "lightestlamp:recipes/lamps/carbon_nanotube": {
+    "criteria": {
+      "netherrack": "2020-11-16 18:38:57 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2020-11-14 20:56:10 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_brick": "2020-11-14 16:06:12 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/scratched_glass_orange_pane2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "simplyjetpacks:mek/root_mek": {
+    "criteria": {
+      "code_trigger": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2020-11-14 20:36:53 -0600"
+    },
+    "done": false
+  },
+  "connectedglass:recipes/search/clear_glass_yellow2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/clear_glass_green_pane2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/clear_glass_light_blue2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2020-11-14 16:05:49 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/scratched_glass_black2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "lightestlamp:recipes/lamps/vanta_black": {
+    "criteria": {
+      "netherrack": "2020-11-16 18:38:57 -0600"
+    },
+    "done": true
+  },
+  "lightestlamp:recipes/lamps/beta_lamp": {
+    "criteria": {
+      "netherrack": "2020-11-16 18:38:57 -0600"
+    },
+    "done": true
+  },
+  "ceramics:recipes/misc/nether_brick_kiln": {
+    "criteria": {
+      "has_item": "2020-11-16 18:38:57 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/clear_glass_cyan_pane2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_stick": "2020-11-14 16:19:15 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/borderless_glass_black1": {
+    "criteria": {
+      "glass": "2020-11-14 20:52:32 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/scratched_glass_blue_pane2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/scratched_glass_magenta_pane2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "lightestlamp:recipes/lamps/krypton_rod": {
+    "criteria": {
+      "netherrack": "2020-11-16 18:38:57 -0600"
+    },
+    "done": true
+  },
+  "lightestlamp:recipes/lamps/anti_lamp": {
+    "criteria": {
+      "netherrack": "2020-11-16 18:38:57 -0600"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/search/clear_glass_lime_pane2": {
+    "criteria": {
+      "dye": "2020-11-14 16:05:00 -0600"
+    },
+    "done": true
+  },
+  "lightestlamp:recipes/lamps/neon_rod": {
+    "criteria": {
+      "netherrack": "2020-11-16 18:38:57 -0600"
+    },
+    "done": true
+  },
+  "DataVersion": 2584
+}

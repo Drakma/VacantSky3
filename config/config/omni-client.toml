@@ -1,0 +1,40 @@
+
+#Omni Configuration
+["Cavier Caves"]
+	budding_malachite_growth_chance = 5
+	speleothems_fall_by_projectiles = true
+	speleothems_fall = true
+	speleothems_fill_cauldrons = true
+	malachite_geode_spawn_chance = 48
+	speleothems_spawn_probability = 0.004
+	geode_shell_outer_block = "minecraft:granite"
+	geode_shell_inner_block = "minecraft:diorite"
+
+[Colormatic]
+	connectable_quilted_carpets = true
+	#Range: 0 ~ 64
+	traders_wool_trade_price = 1
+	flower_field_spawn_weight = 1
+
+[Deserted]
+	red_rock_gen_size = 36
+
+[Forestry]
+	red_rock_gen_size = true
+
+[Paradise]
+	rideable_seahorses = true
+	seahorse_coral_growth_distance = 4
+	seahorse_tame_chance = 5
+	large_seahorse_spawn_chance = 25
+	tropical_plains_spawn_weight = 2
+	lotus_flower_spawn_chance = 8
+	#Range: 0 ~ 64
+	lotus_flower_trade_price = 1
+	seahorse_coral_growth_rate = 25
+	seahorse_spawn_biomes = "minecraft:warm_ocean,minecraft:deep_warm_ocean"
+	seahorse_spawn_chance = 0.01
+
+[Miscellaneous]
+	enchanted_golden_carrot_spawn_chance = 0.03
+

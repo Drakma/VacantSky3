@@ -6,6 +6,8 @@
 	shrineRangeDisplayDuration = 600
 	#Reload JEI if it was loaded before Pure Ore generation.
 	reloadJEIAfterPureOreGen = true
+	#Display a shadow where pedestals can be placed.
+	renderPedestalShadow = true
 
 	[elementalcraft-client.gauge]
 		#the offset of the gauge on the Y axis.

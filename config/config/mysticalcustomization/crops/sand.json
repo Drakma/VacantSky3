@@ -1,0 +1,14 @@
+{
+    "name": "Sand",
+    "type": "resource",
+    "tier": "mysticalagriculture:1",
+    "ingredient": {
+        "item": "minecraft:sand"
+    },
+    "color": "c2b280",
+    "textures": {
+        "flower": "mysticalagriculture:block/flower_rock",
+        "essence": "mysticalagriculture:item/essence_rock",
+        "seeds": "mysticalagriculture:item/mystical_seeds"
+    }
+}

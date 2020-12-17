@@ -1,0 +1,10 @@
+{
+    "id": "inert_crystal_panda",
+    "inputs": [
+        "item:appliedenergistics2:purified_certus_quartz_crystal"
+    ],
+    "output": "elementalcraft:inertcrystal",
+    "hexColor": "#9a9a9a",
+    "chance": 0.6,
+    "alpha": 1.0
+}

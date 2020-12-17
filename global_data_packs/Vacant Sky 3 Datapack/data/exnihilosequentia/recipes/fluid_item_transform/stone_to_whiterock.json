@@ -1,0 +1,12 @@
+{
+    "type": "exnihilosequentia:fluid_item",
+    "fluid": {
+        "fluid": "industrialforegoing:milk"
+    },
+    "input": {
+        "item": "minecraft:stone"
+    },
+    "result": {
+        "item": "elementalcraft:whiterock"
+    }
+}

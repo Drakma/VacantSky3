@@ -1,0 +1,10 @@
+{
+	uuid: "3fb79b0b-f3f4-4338-9841-c7d4850e2c48",
+	name: "Drakma",
+	can_edit: false,
+	money: 0L,
+	auto_pin: false,
+	task_progress: {},
+	claimed_rewards: [I;],
+	pinned_quests: [I;]
+}
