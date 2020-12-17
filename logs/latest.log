@@ -11502,3 +11502,81 @@ bracken:dormis -> 12
 [16Dec2020 22:19:02.959] [Render thread/WARN] [net.minecraft.world.World/]: Entity EntityManaBurst['Mana Burst'/289, l='ClientWorld minecraft:overworld', x=84.78, y=137.33, z=448.22] left loaded chunk area
 [16Dec2020 22:19:05.957] [Render thread/WARN] [net.minecraft.world.World/]: Entity EntityManaBurst['Mana Burst'/289, l='ClientWorld minecraft:overworld', x=84.78, y=137.33, z=448.22] left loaded chunk area
 [16Dec2020 22:19:08.955] [Render thread/WARN] [net.minecraft.world.World/]: Entity EntityManaBurst['Mana Burst'/289, l='ClientWorld minecraft:overworld', x=84.78, y=137.33, z=448.22] left loaded chunk area
+[16Dec2020 22:20:11.711] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Saving and pausing game...
+[16Dec2020 22:20:11.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerWorld minecraft:overworld Sky3'/minecraft:overworld
+[16Dec2020 22:20:11.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerWorld minecraft:the_nether Sky3'/minecraft:the_nether
+[16Dec2020 22:20:11.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerWorld minecraft:the_end Sky3'/minecraft:the_end
+[16Dec2020 22:20:11.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerWorld woot:tartarus Sky3'/woot:tartarus
+[16Dec2020 22:20:11.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerWorld vs3_dimensions:hell_hole Sky3'/vs3_dimensions:hell_hole
+[16Dec2020 22:20:11.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerWorld vs3_dimensions:void Sky3'/vs3_dimensions:void
+[16Dec2020 22:20:11.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerWorld vs3_dimensions:always_sunny Sky3'/vs3_dimensions:always_sunny
+[16Dec2020 22:20:11.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerWorld vs3_dimensions:long_dark Sky3'/vs3_dimensions:long_dark
+[16Dec2020 22:20:11.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerWorld immersive_portals:alternate1 Sky3'/immersive_portals:alternate1
+[16Dec2020 22:20:11.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerWorld immersive_portals:alternate2 Sky3'/immersive_portals:alternate2
+[16Dec2020 22:20:11.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerWorld immersive_portals:alternate3 Sky3'/immersive_portals:alternate3
+[16Dec2020 22:20:11.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerWorld immersive_portals:alternate4 Sky3'/immersive_portals:alternate4
+[16Dec2020 22:20:11.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerWorld immersive_portals:alternate5 Sky3'/immersive_portals:alternate5
+[16Dec2020 22:23:36.411] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Saving and pausing game...
+[16Dec2020 22:23:36.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerWorld minecraft:overworld Sky3'/minecraft:overworld
+[16Dec2020 22:23:36.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerWorld minecraft:the_nether Sky3'/minecraft:the_nether
+[16Dec2020 22:23:36.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerWorld minecraft:the_end Sky3'/minecraft:the_end
+[16Dec2020 22:23:36.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerWorld woot:tartarus Sky3'/woot:tartarus
+[16Dec2020 22:23:36.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerWorld vs3_dimensions:hell_hole Sky3'/vs3_dimensions:hell_hole
+[16Dec2020 22:23:36.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerWorld vs3_dimensions:void Sky3'/vs3_dimensions:void
+[16Dec2020 22:23:36.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerWorld vs3_dimensions:always_sunny Sky3'/vs3_dimensions:always_sunny
+[16Dec2020 22:23:36.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerWorld vs3_dimensions:long_dark Sky3'/vs3_dimensions:long_dark
+[16Dec2020 22:23:36.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerWorld immersive_portals:alternate1 Sky3'/immersive_portals:alternate1
+[16Dec2020 22:23:36.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerWorld immersive_portals:alternate2 Sky3'/immersive_portals:alternate2
+[16Dec2020 22:23:36.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerWorld immersive_portals:alternate3 Sky3'/immersive_portals:alternate3
+[16Dec2020 22:23:36.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerWorld immersive_portals:alternate4 Sky3'/immersive_portals:alternate4
+[16Dec2020 22:23:36.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerWorld immersive_portals:alternate5 Sky3'/immersive_portals:alternate5
+[16Dec2020 22:24:00.742] [Render thread/INFO] [Astral Sorcery/]: Client cache cleared!
+[16Dec2020 22:24:00.770] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Drakma lost connection: Disconnected
+[16Dec2020 22:24:00.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Drakma left the game
+[16Dec2020 22:24:00.793] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Stopping singleplayer server as player logged out
+[16Dec2020 22:24:00.842] [Server thread/INFO] [ipsis.woot.setup.ModSetup/]: onServerStop
+[16Dec2020 22:24:00.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[16Dec2020 22:24:00.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[16Dec2020 22:24:00.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[16Dec2020 22:24:00.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerWorld minecraft:overworld Sky3'/minecraft:overworld
+[16Dec2020 22:24:00.873] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (Sky3): All chunks are saved
+[16Dec2020 22:24:00.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerWorld minecraft:the_nether Sky3'/minecraft:the_nether
+[16Dec2020 22:24:00.874] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16Dec2020 22:24:00.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerWorld minecraft:the_end Sky3'/minecraft:the_end
+[16Dec2020 22:24:00.875] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16Dec2020 22:24:00.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerWorld woot:tartarus Sky3'/woot:tartarus
+[16Dec2020 22:24:00.879] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (tartarus): All chunks are saved
+[16Dec2020 22:24:00.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerWorld vs3_dimensions:hell_hole Sky3'/vs3_dimensions:hell_hole
+[16Dec2020 22:24:00.880] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (hell_hole): All chunks are saved
+[16Dec2020 22:24:00.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerWorld vs3_dimensions:void Sky3'/vs3_dimensions:void
+[16Dec2020 22:24:00.881] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (void): All chunks are saved
+[16Dec2020 22:24:00.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerWorld vs3_dimensions:always_sunny Sky3'/vs3_dimensions:always_sunny
+[16Dec2020 22:24:00.881] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (always_sunny): All chunks are saved
+[16Dec2020 22:24:00.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerWorld vs3_dimensions:long_dark Sky3'/vs3_dimensions:long_dark
+[16Dec2020 22:24:00.882] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (long_dark): All chunks are saved
+[16Dec2020 22:24:00.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerWorld immersive_portals:alternate1 Sky3'/immersive_portals:alternate1
+[16Dec2020 22:24:00.883] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (alternate1): All chunks are saved
+[16Dec2020 22:24:00.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerWorld immersive_portals:alternate2 Sky3'/immersive_portals:alternate2
+[16Dec2020 22:24:00.884] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (alternate2): All chunks are saved
+[16Dec2020 22:24:00.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerWorld immersive_portals:alternate3 Sky3'/immersive_portals:alternate3
+[16Dec2020 22:24:00.884] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (alternate3): All chunks are saved
+[16Dec2020 22:24:00.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerWorld immersive_portals:alternate4 Sky3'/immersive_portals:alternate4
+[16Dec2020 22:24:00.885] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (alternate4): All chunks are saved
+[16Dec2020 22:24:00.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerWorld immersive_portals:alternate5 Sky3'/immersive_portals:alternate5
+[16Dec2020 22:24:00.886] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (alternate5): All chunks are saved
+[16Dec2020 22:24:00.949] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (Sky3): All chunks are saved
+[16Dec2020 22:24:00.954] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16Dec2020 22:24:00.954] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16Dec2020 22:24:00.955] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (tartarus): All chunks are saved
+[16Dec2020 22:24:00.959] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (hell_hole): All chunks are saved
+[16Dec2020 22:24:00.959] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (void): All chunks are saved
+[16Dec2020 22:24:00.959] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (always_sunny): All chunks are saved
+[16Dec2020 22:24:00.960] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (long_dark): All chunks are saved
+[16Dec2020 22:24:00.960] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (alternate1): All chunks are saved
+[16Dec2020 22:24:00.960] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (alternate2): All chunks are saved
+[16Dec2020 22:24:00.960] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (alternate3): All chunks are saved
+[16Dec2020 22:24:00.961] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (alternate4): All chunks are saved
+[16Dec2020 22:24:00.961] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (alternate5): All chunks are saved
+[16Dec2020 22:24:17.819] [Server thread/INFO] [FluxNetworks/]: FluxNetworkData has been unloaded
+[16Dec2020 22:24:18.848] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Stopping!
+[16Dec2020 22:24:18.849] [Render thread/INFO] [Astral Sorcery/]: Client cache cleared!
