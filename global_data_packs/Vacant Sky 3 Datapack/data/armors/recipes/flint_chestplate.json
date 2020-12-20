@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ABA",
+        "AAA",
+        "AAA"
+    ],
+    "key": {
+        "A": {
+            "item": "minecraft:flint"
+        },
+        "B": {
+            "item": "ceramics:clay_chestplate"
+        }
+    },
+    "result": {
+        "item": "pickletweaks:flint_chestplate",
+        "count": 1
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "AAA",
+        "ABA"
+    ],
+    "key": {
+        "A": {
+            "tag": "forge:ingots/iron"
+        },
+        "B": {
+            "item": "pickletweaks:flint_helmet"
+        }
+    },
+    "result": {
+        "item": "minecraft:iron_helmet",
+        "count": 1
+    }
+}

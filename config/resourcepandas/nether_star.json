@@ -1,0 +1,10 @@
+{
+    "id": "nether_star_panda",
+    "inputs": [
+        "tag:forge:nether_stars"
+    ],
+    "output": "minecraft:nether_star",
+    "hexColor": "#D4C2FF",
+    "chance": 0.3,
+    "alpha": 1.0
+}

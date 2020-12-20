@@ -1,0 +1,21 @@
+CT    Clay 
+CT    Flint 
+CT    Iron
+CT    Lapis
+E1    Mana Steel
+E1    Elementium
+E1    Osmium
+E1    Diamond 
+E2    Terrasteel
+E2    Bronze
+E2    Netherite
+E2    Inferium
+E3    Steel
+E3    Emerald (Cyclic)
+E3    Refined Obsidian
+E3    Prudentium
+E3    Tertium 
+E4    Crystallized Obsidian
+E4    Imperium
+E4    Supremium
+E4    Alfsteel

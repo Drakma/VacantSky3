@@ -18,3 +18,13 @@ mods.jei.JEI.addInfo(<item:appliedenergistics2:purified_certus_quartz_crystal>, 
 
 mods.jei.JEI.addInfo(<item:elementalcraft:inertcrystal>, ["Feed purified certus quarts crystal to a panda to receive an inert crystal"]);
 
+mods.jei.JEI.addInfo(<item:mekanism:ingot_uranium>, ["Feed Uranium to a panda to receive Uraninite"]);
+mods.jei.JEI.addInfo(<item:silents_mechanisms:uranium_ingot>, ["Feed Uranium to a panda to receive Uraninite"]);
+mods.jei.JEI.addInfo(<item:exnihilosequentia:ingot_uranium>, ["Feed Uranium to a panda to receive Uraninite"]);
+
+mods.jei.JEI.addInfo(<item:powah:crystal_nitro>, ["Feed a Nitro Crystal to a panda to receive a Nitro Crystal"]);
+
+mods.jei.JEI.addInfo(<item:minecraft:nether_star>, ["Feed a nether star to a panda to receive a nether star crystal"]);
+
+mods.jei.JEI.addInfo(<item:mysticalagradditions:dragon_scale>, ["Feed a Dragon Scale to a panda to receive a Dragon Scale"]);
+

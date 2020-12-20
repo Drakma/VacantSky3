@@ -61,7 +61,11 @@ var removeandhideItems = [
   <item:thermal:bronze_dust>,
   <item:thermal:lumium_dust>,
   <item:thermal:constantan_dust>,
-  <item:thermal:signalum_dust>
+  <item:thermal:signalum_dust>,
+  <item:pickletweaks:emerald_leggings>,
+  <item:pickletweaks:emerald_boots>,
+  <item:pickletweaks:emerald_helmet>,
+  <item:pickletweaks:emerald_chestplate>
 ];
 
 for Item in removeandhideItems {
@@ -161,7 +165,8 @@ var hideItems = [
   <item:mysticalagriculture:emerald_seeds>,
   <item:mysticalagriculture:netherite_seeds>,
   <item:mysticalagriculture:wither_skeleton_seeds>,
-  <item:mysticalagriculture:terrasteel_seeds>
+  <item:mysticalagriculture:terrasteel_seeds>,
+  <item:resourcepandas:resource_panda_spawn_egg>
 ];
 
 for Item in hideItems {
@@ -193,7 +198,23 @@ var removeRecipes = [
   "thermal:storage/invar_ingot",
   "extendedcrafting:black_iron_ingot",
   "extendedcrafting:redstone_ingot",
-  "extendedcrafting:ender_ingot"
+  "extendedcrafting:ender_ingot",
+  "pickletweaks:flint_helmet",
+  "pickletweaks:flint_chestplate",
+  "pickletweaks:flint_leggings",
+  "pickletweaks:flint_boots",
+  "minecraft:iron_boots",
+  "minecraft:iron_chestplate",
+  "minecraft:iron_helmet",
+  "minecraft:iron_leggings",
+  "mekanismtools:lapis_lazuli/armor/boots",
+  "mekanismtools:lapis_lazuli/armor/chestplate",
+  "mekanismtools:lapis_lazuli/armor/helmet",
+  "mekanismtools:lapis_lazuli/armor/leggings",
+  "botania:manasteel_boots",
+  "botania:manasteel_chestplate",
+  "botania:manasteel_helmet",
+  "botania:manasteel_leggings"
 ];
 
 for Recipe in removeRecipes {
@@ -240,6 +261,26 @@ var removeSeeds = [
 
 for Seeds in removeSeeds {
   mods.mysticalagriculture.InfusionCrafting.remove(Seeds);
+}
+
+
+/* ========================================================================== */
+/* Mystical Agriculture Seeds                                                 */
+/* ========================================================================== */
+var removeAndHideSeeds = [
+  <item:mysticalagriculture:nitro_crystal_seeds>,
+  <item:mysticalagriculture:uraninite_seeds>,
+  <item:mysticalagriculture:spirited_crystal_seeds>,
+  <item:mysticalagriculture:niotic_crystal_seeds>,
+  <item:mysticalagriculture:enderium_seeds>,
+  <item:mysticalagriculture:dragon_egg_seeds>,
+  <item:mysticalagriculture:nether_star_seeds>
+];
+
+for Seeds in removeAndHideSeeds {
+  mods.mysticalagriculture.InfusionCrafting.remove(Seeds);
+    mods.jei.JEI.hideItem(Seeds);
+
 }
 
 

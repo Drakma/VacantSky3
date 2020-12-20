@@ -1,0 +1,10 @@
+{
+    "id": "dragon_scale_panda",
+    "inputs": [
+        "item:mysticalagradditions:dragon_scale"
+    ],
+    "output": "mysticalagradditions:dragon_scale",
+    "hexColor": "#363636",
+    "chance": 0.3,
+    "alpha": 1.0
+}
