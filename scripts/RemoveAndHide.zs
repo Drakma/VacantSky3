@@ -66,10 +66,10 @@ var removeandhideItems = [
   <item:pickletweaks:emerald_boots>,
   <item:pickletweaks:emerald_helmet>,
   <item:pickletweaks:emerald_chestplate>,
-  <mekanismtools:bronze_boots>,
-  <mekanismtools:bronze_chestplate>,
-  <mekanismtools:bronze_helmet>,
-  <mekanismtools:bronze_leggings>
+  <item:mekanismtools:bronze_boots>,
+  <item:mekanismtools:bronze_chestplate>,
+  <item:mekanismtools:bronze_helmet>,
+  <item:mekanismtools:bronze_leggings>
 
 ];
 
