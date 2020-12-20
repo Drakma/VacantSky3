@@ -445,7 +445,7 @@
 	[tools.mobArmorSpawnRate]
 		#The chance that Mekanism Armor can spawn on mobs.
 		#Range: 0.0 ~ 1.0
-		general = 0.03
+		general = 0.0
 
 		#Spawn chances for pieces of Steel gear. Note: These values are after the general mobArmorSpawnRate has been checked, and after an even split between armor types has been done.
 		[tools.mobArmorSpawnRate.steel]

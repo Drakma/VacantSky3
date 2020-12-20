@@ -1,0 +1,19 @@
+{
+    "type": "extendedcrafting:shaped_table",
+    "pattern": [
+        "ABA",
+        "AAA",
+        "AAA"
+    ],
+    "key": {
+        "A": {
+            "tag": "forge:gems/diamond"
+        },
+        "B": {
+            "item": "mekanismtools:osmium_chestplate"
+        }
+    },
+    "result": {
+        "item": "minecraft:diamond_chestplate"
+    }
+}

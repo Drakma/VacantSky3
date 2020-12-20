@@ -1,0 +1,19 @@
+{
+    "type": "extendedcrafting:shaped_table",
+    "pattern": [
+        "ABA",
+        "AAA",
+        "AAA"
+    ],
+    "key": {
+        "A": {
+            "tag": "forge:ingots/manasteel"
+        },
+        "B": {
+            "item": "mekanismtools:lapis_lazuli_chestplate"
+        }
+    },
+    "result": {
+        "item": "botania:manasteel_chestplate"
+    }
+}

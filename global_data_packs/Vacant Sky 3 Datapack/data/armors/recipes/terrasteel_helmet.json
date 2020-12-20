@@ -1,0 +1,26 @@
+{
+    "type": "extendedcrafting:shaped_table",
+    "pattern": [
+        "C D C",
+        "AAAAA",
+        "AAAAA",
+        "AABAA"
+    ],
+    "key": {
+        "A": {
+            "tag": "forge:ingots/terrasteel"
+        },
+        "B": {
+            "item": "minecraft:diamond_helmet"
+        },
+        "C": {
+            "item": "botania:livingwood_twig"
+        },
+        "D": {
+            "tag": "botania:runes/summer"
+        }
+    },
+    "result": {
+        "item": "botania:terrasteel_helmet"
+    }
+}

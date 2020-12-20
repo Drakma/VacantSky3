@@ -1,0 +1,19 @@
+{
+    "type": "extendedcrafting:shaped_table",
+    "pattern": [
+        "ABA",
+        "AAA",
+        "AAA"
+    ],
+    "key": {
+        "A": {
+            "tag": "forge:ingots/elementium"
+        },
+        "B": {
+            "item": "botania:manasteel_chestplate"
+        }
+    },
+    "result": {
+        "item": "botania:elementium_chestplate"
+    }
+}

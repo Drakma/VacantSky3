@@ -65,7 +65,12 @@ var removeandhideItems = [
   <item:pickletweaks:emerald_leggings>,
   <item:pickletweaks:emerald_boots>,
   <item:pickletweaks:emerald_helmet>,
-  <item:pickletweaks:emerald_chestplate>
+  <item:pickletweaks:emerald_chestplate>,
+  <mekanismtools:bronze_boots>,
+  <mekanismtools:bronze_chestplate>,
+  <mekanismtools:bronze_helmet>,
+  <mekanismtools:bronze_leggings>
+
 ];
 
 for Item in removeandhideItems {
@@ -214,7 +219,24 @@ var removeRecipes = [
   "botania:manasteel_boots",
   "botania:manasteel_chestplate",
   "botania:manasteel_helmet",
-  "botania:manasteel_leggings"
+  "botania:manasteel_leggings",
+  "botania:elementium_boots",
+  "botania:elementium_chestplate",
+  "botania:elementium_helmet",
+  "botania:elementium_leggings",
+  "mekanismtools:osmium/armor/boots",
+  "mekanismtools:osmium/armor/chestplate",
+  "mekanismtools:osmium/armor/helmet",
+  "mekanismtools:osmium/armor/leggings",
+  "minecraft:diamond_boots",
+  "minecraft:diamond_chestplate",
+  "minecraft:diamond_helmet",
+  "minecraft:diamond_leggings",
+  "botania:terrasteel_boots",
+  "botania:terrasteel_chestplate",
+  "botania:terrasteel_helmet",
+  "botania:terrasteel_leggings"
+
 ];
 
 for Recipe in removeRecipes {

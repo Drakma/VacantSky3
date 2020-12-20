@@ -1,0 +1,18 @@
+{
+    "type": "extendedcrafting:shaped_table",
+    "pattern": [
+        "A A",
+        "ABA"
+    ],
+    "key": {
+        "A": {
+            "tag": "forge:ingots/osmium"
+        },
+        "B": {
+            "item": "botania:elementium_boots"
+        }
+    },
+    "result": {
+        "item": "mekanismtools:osmium_boots"
+    }
+}

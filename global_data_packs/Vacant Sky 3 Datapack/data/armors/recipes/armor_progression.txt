@@ -7,7 +7,6 @@ E1    Elementium
 E1    Osmium
 E1    Diamond 
 E2    Terrasteel
-E2    Bronze
 E2    Netherite
 E2    Inferium
 E3    Steel

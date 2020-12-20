@@ -1,0 +1,19 @@
+{
+    "type": "extendedcrafting:shaped_table",
+    "pattern": [
+        "ABA",
+        "AAA",
+        "AAA"
+    ],
+    "key": {
+        "A": {
+            "tag": "forge:ingots/osmium"
+        },
+        "B": {
+            "item": "botania:elementium_chestplate"
+        }
+    },
+    "result": {
+        "item": "mekanismtools:osmium_chestplate"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "type": "extendedcrafting:shaped_table",
+    "pattern": [
+        "AAA",
+        "ABA",
+        "A A"
+    ],
+    "key": {
+        "A": {
+            "tag": "forge:ingots/manasteel"
+        },
+        "B": {
+            "item": "mekanismtools:lapis_lazuli_leggings"
+        }
+    },
+    "result": {
+        "item": "botania:manasteel_leggings"
+    }
+}
