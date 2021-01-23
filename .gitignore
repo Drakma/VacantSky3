@@ -22,3 +22,7 @@
 /.vscode
 /.mixin.out
 /coremods
+/ESM
+/natives
+/schematics
+/local

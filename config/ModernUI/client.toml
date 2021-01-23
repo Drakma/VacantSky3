@@ -23,15 +23,17 @@
 	highPrecision = true
 	#The resolution level of font, higher levels would better work with high resolution monitors.
 	#Reference: 1 (Standard, 1.5K Fullscreen), 2 (High, 2K~3K Fullscreen), 3 (Ultra, 4K Fullscreen)
+	#This should match your GUI scale. Scale -> Level: [1,2] -> 1; [3,4] -> 2; [5,) -> 3
 	#Range: 1 ~ 3
 	resolutionLevel = 2
-	#Replace the default font renderer of vanilla to that of Modern UI.
+	#Apply Modern UI font renderer (including text layouts) to the entire game rather than only Modern UI itself.
 	globalRenderer = true
 	#The default font size for texts with no size specified.
+	#The font size feature is provided by Modern UI, and other mod's are achieved by matrix transformation.
 	#Range: 12 ~ 20
 	defaultFontSize = 16
 	#The font with the highest priority to use, the built-in font is always the second choice.
-	#This can be font name if you want to use fonts that installed on your PC, for instance: Microsoft YaHei
+	#This can be font family name if you want to use fonts that installed on your PC, for instance: Microsoft YaHei
 	#Or can be file path if you want to use external fonts, for instance: D:/Fonts/biliw.otf
 	#Or can be resource location if you want to use fonts in resource packs, for instance: modernui:font/biliw.otf
 	preferredFont = ""
@@ -42,4 +44,16 @@
 	allowShadow = true
 	#Enable mipmap for font textures, this makes font will not be blurred when scaling down.
 	enableMipmap = true
+
+#Tooltip Config
+[tooltip]
+	#Enable Modern UI's tooltip style.
+	enable = true
+	#The tooltip frame color. Format: 0xRRGGBB. Default value: 0xAADCF0
+	frameColor = "0xAADCF0"
+
+#General Config
+[general]
+	#Play a sound effect when the game is loaded.
+	ding = true
 
