@@ -3,7 +3,7 @@
     "from": [
         "minecraft:overworld"
     ],
-    "to": "vs3_dimensions:always_sunny",
+    "to": "vs_things:sunny_dim",
     "reversable": true,
     "form": {
         "type": "imm_ptl:flipping_floor_square",

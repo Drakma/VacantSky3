@@ -3,7 +3,7 @@
     "from": [
         "minecraft:overworld"
     ],
-    "to": "vs3_dimensions:long_dark",
+    "to": "vs_things:deep_freeze_dim",
     "reversable": true,
     "form": {
         "type": "imm_ptl:flipping_floor_square",

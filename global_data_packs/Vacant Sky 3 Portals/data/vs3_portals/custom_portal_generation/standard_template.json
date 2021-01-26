@@ -3,7 +3,7 @@
     "from": [
         "minecraft:overworld"
     ],
-    "to": "vs3_dimensions:hell_hole",
+    "to": "vs_things:hell_dim",
     "reversable": true,
     "form": {
         "type": "imm_ptl:classical",

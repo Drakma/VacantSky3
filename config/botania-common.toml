@@ -48,7 +48,7 @@ worldgen = true
 	#Range: 1 ~ 512
 	islandScaleMultiplier = 8
 	#Set this to false to disable spawning with a Lexica Botania in Garden of Glass worlds, if you are modifying the modpack's progression to not start with Botania.
-	spawnWithLexicon = true
+	spawnWithLexicon = false
 
 [rannuncarpus]
 	#List of item registry names that will be ignored by rannuncarpuses when placing blocks.

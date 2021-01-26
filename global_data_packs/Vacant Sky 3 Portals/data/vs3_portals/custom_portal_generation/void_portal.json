@@ -3,7 +3,7 @@
     "from": [
         "minecraft:overworld"
     ],
-    "to": "vs3_dimensions:void",
+    "to": "vs_things:void_dim",
     "reversable": true,
     "form": {
         "type": "imm_ptl:flipping_floor_square",
