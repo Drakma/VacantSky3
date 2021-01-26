@@ -1,0 +1,12 @@
+{
+    "type": "exnihilosequentia:fluid_item",
+    "fluid": {
+        "fluid": "vs_things:inferium"
+    },
+    "input": {
+        "item": "minecraft:farmland"
+    },
+    "result": {
+        "item": "mysticalagriculture:inferium_farmland"
+    }
+}

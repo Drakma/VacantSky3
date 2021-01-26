@@ -1,0 +1,9 @@
+TO DO 
+
+
+DONE 
+
+- Gears consolidated
+- Cobblefordays upgrade recipes created 
+- Removed Woodenbuckets
+- Removed OreReeds

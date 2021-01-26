@@ -1,0 +1,10 @@
+{
+    "type": "astralsorcery:lightwell",
+    "input": {
+        "item": "mysticalagriculture:supremium_essence"
+    },
+    "output": "vs_things:supremium",
+    "productionMultiplier": 0.2,
+    "shatterMultiplier": 40.0,
+    "color": -16734209
+}

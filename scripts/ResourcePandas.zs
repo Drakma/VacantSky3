@@ -21,6 +21,12 @@ mods.jei.JEI.addInfo(<item:elementalcraft:inertcrystal>, ["Feed purified certus 
 mods.jei.JEI.addInfo(<item:mekanism:ingot_uranium>, ["Feed Uranium to a panda to receive Uraninite"]);
 mods.jei.JEI.addInfo(<item:silents_mechanisms:uranium_ingot>, ["Feed Uranium to a panda to receive Uraninite"]);
 mods.jei.JEI.addInfo(<item:exnihilosequentia:ingot_uranium>, ["Feed Uranium to a panda to receive Uraninite"]);
+mods.jei.JEI.addInfo(<item:powah:uraninite_raw_poor>, ["Feed Uranium to a panda to receive Uraninite"]);
+mods.jei.JEI.addInfo(<item:powah:uraninite_raw>, ["Feed Uranium to a panda to receive Uraninite"]);
+mods.jei.JEI.addInfo(<item:powah:uraninite_raw_dense>, ["Feed Uranium to a panda to receive Uraninite"]);
+mods.jei.JEI.addInfo(<item:powah:uraninite_ore_poor>, ["Feed Uranium to a panda to receive Uraninite"]);
+mods.jei.JEI.addInfo(<item:powah:uraninite_ore>, ["Feed Uranium to a panda to receive Uraninite"]);
+mods.jei.JEI.addInfo(<item:powah:uraninite_ore_dense>, ["Feed Uranium to a panda to receive Uraninite"]);
 
 mods.jei.JEI.addInfo(<item:powah:crystal_nitro>, ["Feed a Nitro Crystal to a panda to receive a Nitro Crystal"]);
 

@@ -1,0 +1,20 @@
+{
+    "schema_version": "imm_ptl:v1",
+    "from": [
+        "minecraft:overworld"
+    ],
+    "to": "vs_things:temp_dim",
+    "reversable": true,
+    "form": {
+        "type": "imm_ptl:flipping_floor_square",
+        "length": 2,
+        "frame_block": "minecraft:oak_log",
+        "area_block": "vs_things:inferium",
+        "generate_frame_if_not_found": true
+    },
+    "trigger": {
+        "type": "imm_ptl:throw_item",
+        "item": "minecraft:grass"
+    },
+    "post_invoke_commands": ["/summon minecraft:lightning_bolt ~ ~ ~", "/particle minecraft:white_ash ~ ~ ~ 0 1 0 1 8000"]
+}

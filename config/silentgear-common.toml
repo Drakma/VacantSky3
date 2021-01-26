@@ -41,6 +41,10 @@
 			crimson = 0.44999998807907104
 			#Range: 0.0 ~ 10.0
 			azure = 0.5
+			#Repair efficiency with loose materials if no repair kit is used.
+			#Setting a value greater than zero makes repair kits optional.
+			#Range: 0.0 ~ 10.0
+			missing = 0.0
 
 	[item.netherwood_charcoal]
 		#Burn time of netherwood charcoal, in ticks. Vanilla charcoal is 1600.

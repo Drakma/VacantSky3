@@ -178,7 +178,7 @@
 			#Region size for non-vanilla dimensions.
 			#Overworld gems will attempt to spawn, but may be unable to depending on the stone in the world.
 			#Range: > 0
-			others = 8
+			others = 0
 
 		#Number of veins of gems to spawn per chunk, by dimension. 'others' is all non-vanilla dimensions.
 		[world.generation.veinCounts]
@@ -189,7 +189,7 @@
 			#Range: 0 ~ 100
 			the_end = 10
 			#Range: 0 ~ 100
-			others = 10
+			others = 0
 
 		#Gem weights control how frequently certain gems are selected over others when generating ores.
 		#Higher values increase the chances of that gem being selecting, lower values decrease chances.
@@ -302,37 +302,37 @@
 			#All non-vanilla dimensions. Gems will only replace stone.
 			[world.generation.gemWeights.mod_dims]
 				#Range: > 0
-				ruby = 10
+				ruby = 0
 				#Range: > 0
-				garnet = 10
+				garnet = 0
 				#Range: > 0
-				topaz = 10
+				topaz = 0
 				#Range: > 0
-				amber = 10
+				amber = 0
 				#Range: > 0
-				heliodor = 10
+				heliodor = 0
 				#Range: > 0
-				peridot = 10
+				peridot = 0
 				#Range: > 0
-				green_sapphire = 10
+				green_sapphire = 0
 				#Range: > 0
-				phosphophyllite = 10
+				phosphophyllite = 0
 				#Range: > 0
-				aquamarine = 10
+				aquamarine = 0
 				#Range: > 0
-				sapphire = 10
+				sapphire = 0
 				#Range: > 0
-				tanzanite = 10
+				tanzanite = 0
 				#Range: > 0
-				amethyst = 10
+				amethyst = 0
 				#Range: > 0
-				agate = 10
+				agate = 0
 				#Range: > 0
-				morganite = 10
+				morganite = 0
 				#Range: > 0
-				onyx = 10
+				onyx = 0
 				#Range: > 0
-				opal = 10
+				opal = 0
 
 	[world.chaos]
 

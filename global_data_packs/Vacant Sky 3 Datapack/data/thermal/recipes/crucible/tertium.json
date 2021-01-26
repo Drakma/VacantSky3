@@ -1,0 +1,11 @@
+{
+    "type": "thermal:crucible",
+    "ingredient": {
+        "item": "mysticalagriculture:tertium_block"
+    },
+    "result": [{
+        "fluid": "vs_things:tertium",
+        "amount": 500
+    }],
+    "energy": 200000
+}

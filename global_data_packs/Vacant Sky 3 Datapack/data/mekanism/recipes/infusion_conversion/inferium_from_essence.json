@@ -1,0 +1,12 @@
+{
+    "type": "mekanism:infusion_conversion",
+    "input": {
+        "ingredient": {
+            "item": "mysticalagriculture:inferium_essence"
+        }
+    },
+    "output": {
+        "infuse_type": "mekanism:inferium",
+        "amount": 100
+    }
+}

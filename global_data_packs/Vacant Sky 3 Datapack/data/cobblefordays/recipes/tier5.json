@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "AAA",
+        "ABA",
+        "AAA"
+    ],
+    "key": {
+        "A": {
+            "tag": "forge:gems/diamond"
+        },
+        "B": {
+            "item": "cobblefordays:tier_4"
+        }
+    },
+    "result": {
+        "item": "cobblefordays:tier_5",
+        "count": 1
+    }
+}

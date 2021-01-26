@@ -1,0 +1,20 @@
+{
+    "type": "interactio:item_fluid_transform",
+    "inputs": [{
+            "item": "minecraft:diamond",
+            "count": 1
+        },
+        {
+            "item": "mysticalagriculture:prosperity_shard",
+            "count": 4
+        }
+    ],
+    "fluid": {
+        "fluid": "vs_things:imperium"
+    },
+    "output": {
+        "item": "mysticalagriculture:imperium_gemstone",
+        "count": 1
+    },
+    "consume_fluid": 0.40
+}

@@ -1,0 +1,12 @@
+{
+    "type": "exnihilosequentia:fluid_item",
+    "fluid": {
+        "fluid": "vs_things:insanium"
+    },
+    "input": {
+        "item": "mysticalagriculture:supremium_farmland"
+    },
+    "result": {
+        "item": "mysticalagradditions:insanium_farmland"
+    }
+}

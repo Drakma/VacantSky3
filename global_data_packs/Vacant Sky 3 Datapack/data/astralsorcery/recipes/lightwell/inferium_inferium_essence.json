@@ -1,0 +1,10 @@
+{
+    "type": "astralsorcery:lightwell",
+    "input": {
+        "item": "mysticalagriculture:inferium_essence"
+    },
+    "output": "vs_things:inferium",
+    "productionMultiplier": 0.5,
+    "shatterMultiplier": 15.0,
+    "color": -16734209
+}

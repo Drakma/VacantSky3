@@ -317,6 +317,17 @@
 			#Range: 0.0 ~ 2400.0
 			oreShrinePeriode = 200.0
 
+		[elementalcraft.shrines.groveShrine]
+			#The range of the wild grove Shrine.
+			#Range: 0 ~ 100
+			groveShrineRange = 5
+			#The amount of element consumed by the wild grove Shrine.
+			#Range: 0 ~ 10000
+			groveShrineConsumeAmount = 500
+			#The nember of tick betwenn two wild grove Shrine activations.
+			#Range: 0.0 ~ 2400.0
+			groveShrinePeriode = 200.0
+
 	#Items config
 	[elementalcraft.items]
 		#The max number of spells on a focus.

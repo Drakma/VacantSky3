@@ -5,7 +5,7 @@
 'feet' : '',
 0 : '{id:"minecraft:oak_sapling",Count:1b}',
 1 : '{id:"minecraft:torch",Count:1b}',
-2 : '{id:"theoneprobe:probenote",Count:1b}',
+2 : '',
 3 : '',
 4 : '',
 5 : '',

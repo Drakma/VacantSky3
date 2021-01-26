@@ -1,0 +1,21 @@
+{
+    "type": "thermal:smelter",
+    "input": [{
+            "item": "mysticalagriculture:supremium_essence"
+        },
+        {
+            "tag": "forge:ingot/iron"
+        },
+        {
+            "value": {
+                "item": "mysticalagriculture:prosperity_shard"
+            },
+            "count": 4
+        }
+    ],
+    "result": [{
+        "item": "mysticalagriculture:supremium_ingot",
+        "count": 1
+    }],
+    "energy": 75000
+}

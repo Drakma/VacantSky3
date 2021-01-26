@@ -1,0 +1,11 @@
+{
+    "type": "thermal:crucible",
+    "ingredient": {
+        "item": "mysticalagradditions:insanium_block"
+    },
+    "result": [{
+        "fluid": "vs_things:insanium",
+        "amount": 100
+    }],
+    "energy": 200000
+}

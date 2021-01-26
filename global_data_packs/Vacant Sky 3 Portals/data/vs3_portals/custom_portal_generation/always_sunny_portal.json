@@ -5,12 +5,13 @@
     ],
     "to": "vs_things:sunny_dim",
     "reversable": true,
+    "space_ratio_from": 1,
+    "space_ratio_to": 1,
     "form": {
         "type": "imm_ptl:flipping_floor_square",
         "length": 2,
         "frame_block": "minecraft:sandstone",
         "area_block": "minecraft:water",
-        "up_frame_block": "botania:floating_thermalily",
         "generate_frame_if_not_found": true
     },
     "trigger": {

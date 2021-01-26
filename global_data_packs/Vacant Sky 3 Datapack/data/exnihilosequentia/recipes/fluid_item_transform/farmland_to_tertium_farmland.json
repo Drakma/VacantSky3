@@ -1,0 +1,12 @@
+{
+    "type": "exnihilosequentia:fluid_item",
+    "fluid": {
+        "fluid": "vs_things:tertium"
+    },
+    "input": {
+        "item": "mysticalagriculture:prudentium_farmland"
+    },
+    "result": {
+        "item": "mysticalagriculture:tertium_farmland"
+    }
+}

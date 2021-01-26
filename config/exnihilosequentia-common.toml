@@ -51,7 +51,7 @@
 	ticksBetweenMelts = 20
 	#Number of buckets the crucible will hold (Default: 4)
 	#Range: > 1
-	crucibleNumberOfBuckets = 4
+	crucibleNumberOfBuckets = 8
 
 	#Wooden Crucible Configs
 	[crucible.wood]
@@ -89,7 +89,7 @@
 #Ore Configs
 [ore]
 	#Allows ores to be enabled or disabled by this config file. (Default: false)
-	enableOreOverride = false
+	enableOreOverride = true
 	#Enable copper ore pieces, chunks and ingots if they exist. 'enableOreOverride' must be true for this to work. (Default: true)
 	enableCopper = true
 	#Enable lead ore pieces, chunks and ingots if they exist. 'enableOreOverride' must be true for this to work. (Default: true)

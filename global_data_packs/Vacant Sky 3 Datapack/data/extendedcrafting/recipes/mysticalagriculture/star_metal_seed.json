@@ -1,0 +1,35 @@
+{
+    "type": "extendedcrafting:combination",
+    "powerCost": 100000,
+    "input": {
+        "item": "mysticalagriculture:prosperity_seed_base"
+    },
+    "ingredients": [{
+            "item": "mysticalagriculture:tertium_essence"
+        },
+        {
+            "item": "astralsorcery:stardust"
+        },
+        {
+            "item": "mysticalagriculture:tertium_essence"
+        },
+        {
+            "item": "astralsorcery:stardust"
+        },
+        {
+            "item": "mysticalagriculture:tertium_essence"
+        },
+        {
+            "item": "astralsorcery:stardust"
+        },
+        {
+            "item": "mysticalagriculture:tertium_essence"
+        },
+        {
+            "item": "astralsorcery:stardust"
+        }
+    ],
+    "result": {
+        "item": "mysticalagriculture:star_metal_seeds"
+    }
+}

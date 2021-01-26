@@ -1,0 +1,10 @@
+{
+    "type": "astralsorcery:lightwell",
+    "input": {
+        "item": "mysticalagriculture:imperium_essence"
+    },
+    "output": "vs_things:imperium",
+    "productionMultiplier": 0.4,
+    "shatterMultiplier": 20.0,
+    "color": -16734209
+}

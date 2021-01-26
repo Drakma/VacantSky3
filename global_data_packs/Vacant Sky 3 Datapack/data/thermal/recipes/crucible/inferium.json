@@ -1,0 +1,11 @@
+{
+    "type": "thermal:crucible",
+    "ingredient": {
+        "item": "mysticalagriculture:inferium_block"
+    },
+    "result": [{
+        "fluid": "vs_things:inferium",
+        "amount": 1000
+    }],
+    "energy": 200000
+}

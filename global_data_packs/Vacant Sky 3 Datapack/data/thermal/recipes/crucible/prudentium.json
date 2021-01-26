@@ -1,0 +1,11 @@
+{
+    "type": "thermal:crucible",
+    "ingredient": {
+        "item": "mysticalagriculture:prudentium_block"
+    },
+    "result": [{
+        "fluid": "vs_things:prudentium",
+        "amount": 1000
+    }],
+    "energy": 200000
+}

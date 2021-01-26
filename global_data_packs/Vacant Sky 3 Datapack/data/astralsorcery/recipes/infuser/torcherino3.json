@@ -1,0 +1,16 @@
+{
+    "type": "astralsorcery:infuser",
+    "fluidInput": "vs_things:insanium",
+    "input": {
+        "item": "torcherino:compressed_torcherino"
+    },
+    "output": {
+        "item": "torcherino:double_compressed_torcherino",
+        "count": 1
+    },
+    "consumptionChance": 0.95,
+    "duration": 600,
+    "consumeMultipleFluids": true,
+    "acceptChaliceInput": true,
+    "copyNBTToOutputs": false
+}

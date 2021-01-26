@@ -1,0 +1,19 @@
+
+[rabbit]
+	#width of the rabbit hitbox
+	#Range: 0.0 ~ 10.0
+	width = 0.8
+	#height of the rabbit hitbox
+	#Range: 0.0 ~ 10.0
+	height = 1.0
+
+[silverfish]
+	#whether or not silverfish should also be affected
+	modify_silverfish = true
+	#width of the silverfish hitbox
+	#Range: 0.0 ~ 10.0
+	width = 1.3
+	#height of the silverfish hitbox
+	#Range: 0.0 ~ 10.0
+	height = 1.0
+

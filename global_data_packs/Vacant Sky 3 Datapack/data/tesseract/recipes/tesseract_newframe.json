@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "IGI",
+        "GTG",
+        "IGI"
+    ],
+    "key": {
+        "G": {
+            "item": "botania:ender_hand"
+        },
+        "I": {
+            "tag": "forge:ingots/steel"
+        },
+        "T": {
+            "item": "thermal:machine_frame"
+        }
+    },
+    "result": {
+        "item": "tesseract:tesseract"
+    }
+}

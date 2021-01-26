@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "BA",
+        "AB"
+    ],
+    "key": {
+        "A": {
+            "item": "mysticalagriculture:water_essence"
+        },
+        "B": {
+            "item": "mysticalagriculture:dust_essence"
+        }
+    },
+    "result": {
+        "item": "minecraft:clay",
+        "count": 1
+    }
+}

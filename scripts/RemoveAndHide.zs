@@ -69,8 +69,8 @@ var removeandhideItems = [
   <item:mekanismtools:bronze_boots>,
   <item:mekanismtools:bronze_chestplate>,
   <item:mekanismtools:bronze_helmet>,
-  <item:mekanismtools:bronze_leggings>
-
+  <item:mekanismtools:bronze_leggings>,
+  <item:electrodynamics:ingotsteel>
 ];
 
 for Item in removeandhideItems {
@@ -157,7 +157,12 @@ var removeItems = [
   <item:mythicbotany:wither_aconite_floating>,
   <item:mythicbotany:aquapanthus_floating>,
   <item:mythicbotany:hellebore_floating>,
-  <item:mythicbotany:raindeletia_floating>
+  <item:mythicbotany:raindeletia_floating>,
+  <item:mysticalagriculture:prudentium_farmland>,
+  <item:mysticalagriculture:tertium_farmland>,
+  <item:mysticalagriculture:imperium_farmland>,
+  <item:mysticalagriculture:supremium_farmland>,
+  <item:mysticalagradditions:insanium_farmland>
 ];
 
 for Item in removeItems {
@@ -235,8 +240,25 @@ var removeRecipes = [
   "botania:terrasteel_boots",
   "botania:terrasteel_chestplate",
   "botania:terrasteel_helmet",
-  "botania:terrasteel_leggings"
-
+  "botania:terrasteel_leggings",
+  "torcherino:torcherino",
+  "torcherino:compressed_torcherino",
+  "torcherino:double_compressed_torcherino",
+  "silentgear:blaze_gold_ingot",
+  "silentgear:azure_electrum_ingot",
+  "mysticalagriculture:inferium_gemstone",
+  "mysticalagriculture:prudentium_gemstone",
+  "mysticalagriculture:tertium_gemstone",
+  "mysticalagriculture:imperium_gemstone",
+  "mysticalagriculture:supremium_gemstone",
+  "mysticalagradditions:insanium_gemstone",
+  "tesseract:tesseract",
+  "electrodynamics:ingotsteel_ingot_smelting",
+  "electrodynamics:dustbronze",
+  "electrodynamics:geariron",
+  "electrodynamics:gearcopper",
+  "electrodynamics:geartin",
+  "electrodynamics:gearbronze",
 ];
 
 for Recipe in removeRecipes {
@@ -278,7 +300,8 @@ var removeSeeds = [
   <item:mysticalagriculture:experience_seeds>,
   <item:mysticalagriculture:end_seeds>,
   <item:mysticalagriculture:lapis_lazuli_seeds>,
-  <item:mysticalagriculture:gold_seeds>
+  <item:mysticalagriculture:gold_seeds>,
+  <item:mysticalagriculture:rock_crystal_seeds>,
 ];
 
 for Seeds in removeSeeds {
