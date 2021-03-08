@@ -1,0 +1,13 @@
+{
+    "type": "exnihilosequentia:sieve",
+    "rolls": [{
+        "chance": 0.04,
+        "mesh": "netherite"
+    }],
+    "input": {
+        "item": "vs_things:netherite_dust"
+    },
+    "result": {
+        "item": "minecraft:netherite_scrap"
+    }
+}

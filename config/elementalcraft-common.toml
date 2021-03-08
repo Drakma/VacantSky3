@@ -146,6 +146,14 @@
 			#Range: 0 ~ 10
 			inscriberMaxRunes = 3
 
+		[elementalcraft.instruments.sorter]
+			#The amount of tick between two ordered sorter item transpher.
+			#Range: 0 ~ 100
+			sorterCooldown = 10
+			#The max amount of items an order sorter can filter.
+			#Range: 0 ~ 100
+			sorterMaxItem = 15
+
 	[elementalcraft.infusion]
 		#The bonus to movement speed provided by the air infusion on leggings.
 		#Range: 0.0 ~ 1.0
@@ -167,6 +175,12 @@
 		#CSource Altar genreration distance setting.
 		#Range: 0 ~ 100
 		sourceAltarDistance = 0
+		#Chance to add a source in an ocean biome (the small the more frequante).
+		#Range: 1 ~ 10000
+		oceanSourceSpawnChance = 150
+		#Chance to add a source in world ingoring biome elemen type (the small the more frequante).
+		#Range: 1 ~ 10000
+		randomSourceSpawnChance = 300
 
 		[elementalcraft.worldgen.inertCrystal]
 			#Number of inert crystal vein.
@@ -355,6 +369,9 @@
 		#Define chisel durablility (0 for unbreakable).
 		#Range: 0 ~ 1000
 		chiselDurability = 250
+		#Define improved source receptacle durablility (0 for unbreakable).
+		#Range: 0 ~ 1000
+		improvedReceptacleDurability = 20
 
 	#Pure Infusser and pedestals config
 	[elementalcraft.pureInfuser]
@@ -372,4 +389,21 @@
 			#The element capacity of a pedestal.
 			#Range: 0 ~ 100000000
 			pedestalCapacity = 10000
+
+	#Source config
+	[elementalcraft.source]
+		#set to true to make sources infinite.
+		disableSourceExhaustion = false
+		#The minimum element capacity of a source.
+		#Range: 0 ~ 10000000
+		sourceCapacityMin = 500000
+		#The maximum element capacity of a source.
+		#Range: 0 ~ 10000000
+		sourceCapacityMax = 1000000
+		#The minimum element a source can generate per tick.
+		#Range: 0 ~ 100
+		sourceRecoverRateMin = 5
+		#The maximum element a source can generate per tick.
+		#Range: 0 ~ 100
+		sourceRecoverRateMax = 15
 

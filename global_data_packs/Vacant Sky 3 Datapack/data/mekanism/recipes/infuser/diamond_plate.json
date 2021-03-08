@@ -1,0 +1,15 @@
+{
+    "type": "mekanism:metallurgic_infusing",
+    "itemInput": {
+        "ingredient": {
+            "tag": "forge:plates/iron"
+        }
+    },
+    "infusionInput": {
+        "amount": 800,
+        "tag": "mekanism:diamond"
+    },
+    "output": {
+        "item": "vs_things:diamond_plate"
+    }
+}

@@ -12,7 +12,7 @@
   "forge:ingots/invar": "silents_mechanisms:invar_ingot",
   "forge:ingots/chrome": "null",
   "forge:ingots/electrum": "silents_mechanisms:electrum_ingot",
-  "forge:silicon": "null",
+  "forge:silicon": "appliedenergistics2:silicon",
   "forge:ingots/brass": "silents_mechanisms:brass_ingot",
   "forge:ingots/silver": "silents_mechanisms:silver_ingot",
   "forge:dusts/saltpeter": "null",

@@ -259,6 +259,15 @@ var removeRecipes = [
   "electrodynamics:gearcopper",
   "electrodynamics:geartin",
   "electrodynamics:gearbronze",
+  "pipez:item_pipe",
+  "pipez:basic_upgrade",
+  "pipez:improved_upgrade",
+  "pipez:advanced_upgrade",
+  "pipez:ultimate_upgrade",
+  "electrodynamics:plateiron",
+  "electrodynamics:platesteel",
+  "electrodynamics:platelead",
+  "electrodynamics:platebronze",
 ];
 
 for Recipe in removeRecipes {

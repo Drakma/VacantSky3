@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing",
+    "base": {
+        "item": "vs_things:diamond_plate"
+    },
+    "addition": {
+        "tag": "forge:storage_blocks/netherite"
+    },
+    "result": {
+        "item": "vs_things:netherite_plate"
+    }
+}

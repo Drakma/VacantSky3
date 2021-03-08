@@ -127,4 +127,6 @@
 		coal = false
 		# Enable or disable the Rainbow Content
 		rainbow = true
+		# Show furnace settings errors in chat, used for debugging
+		errors = false
 

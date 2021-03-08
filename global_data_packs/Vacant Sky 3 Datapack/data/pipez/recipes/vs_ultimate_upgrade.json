@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "LRL",
+        "RXR",
+        "LRL"
+    ],
+    "key": {
+        "X": {
+            "item": "vs_things:netherite_plate"
+        },
+        "L": {
+            "tag": "forge:honeycombs/diamond"
+        },
+        "R": {
+            "tag": "forge:honeycombs/redstone"
+        }
+    },
+    "result": {
+        "item": "pipez:ultimate_upgrade",
+        "count": 1
+    }
+}

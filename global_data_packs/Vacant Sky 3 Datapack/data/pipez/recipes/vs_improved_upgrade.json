@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "LRL",
+        "RXR",
+        "LRL"
+    ],
+    "key": {
+        "X": {
+            "tag": "forge:plates/bronze"
+        },
+        "L": {
+            "tag": "forge:plates/lapis_lazuli"
+        },
+        "R": {
+            "tag": "forge:ingots/redstone_alloy"
+        }
+    },
+    "result": {
+        "item": "pipez:improved_upgrade",
+        "count": 1
+    }
+}
