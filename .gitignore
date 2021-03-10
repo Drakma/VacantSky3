@@ -33,4 +33,4 @@ config.json
 /journeymap/icon
 /journeymap/server
 /journeymap/journeymap.log
-/config/*.bak
+/config/*.toml.bak
