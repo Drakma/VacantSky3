@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "result": {
+        "item": "simplyjetpacks:armorplating_mek3"
+    },
+    "pattern": [
+        "OCO",
+        "COC",
+        "OCO"
+    ],
+    "key": {
+        "O": {
+            "item": "vs_things:osmium_plate"
+        },
+        "C": {
+            "tag": "forge:circuits/elite"
+        }
+    }
+}

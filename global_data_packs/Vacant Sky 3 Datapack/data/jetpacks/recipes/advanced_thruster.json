@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "result": {
+        "item": "simplyjetpacks:thruster_mek2"
+    },
+    "pattern": [
+        "OCO",
+        "PEP",
+        "OTO"
+    ],
+    "key": {
+        "O": {
+            "tag": "forge:ingots/osmium"
+        },
+        "C": {
+            "tag": "forge:circuits/advanced"
+        },
+        "P": {
+            "item": "mekanism:advanced_universal_cable"
+        },
+        "E": {
+            "item": "mekanism:advanced_energy_cube"
+        },
+        "T": {
+            "item": "simplyjetpacks:thruster_mek1"
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "elementalcraft:pureinfusion",
+    "element_amount": 50000,
+    "ingredients": [{
+            "item": "vs_things:empty_philo_stone"
+        },
+        {
+            "item": "elementalcraft:watercrystal"
+        },
+        {
+            "item": "elementalcraft:firecrystal"
+        },
+        {
+            "item": "elementalcraft:earthcrystal"
+        },
+        {
+            "item": "elementalcraft:aircrystal"
+        }
+    ],
+    "output": {
+        "item": "projecte:philosophers_stone"
+    }
+}

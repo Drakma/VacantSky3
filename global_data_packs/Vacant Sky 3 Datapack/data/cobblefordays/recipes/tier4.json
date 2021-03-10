@@ -1,16 +1,28 @@
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
-        "AAA",
-        "ABA",
-        "AAA"
+        "ACA",
+        "WBL",
+        "AIA"
     ],
     "key": {
         "A": {
-            "tag": "forge:ingots/gold"
+            "tag": "forge:plates/gold"
         },
         "B": {
-            "item": "cobblefordays:tier_3"
+            "tag": "forge:glass/colorless"
+        },
+        "W": {
+            "item": "minecraft:water_bucket"
+        },
+        "L": {
+            "item": "minecraft:lava_bucket"
+        },
+        "C": {
+            "tag": "forge:storage_blocks/redstone"
+        },
+        "I": {
+            "tag": "forge:storage_blocks/diamond"
         }
     },
     "result": {

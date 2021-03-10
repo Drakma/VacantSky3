@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "result": {
+        "item": "simplyjetpacks:thruster_vanilla3"
+    },
+    "pattern": [
+        "NDN",
+        "DFD",
+        "DBD"
+    ],
+    "key": {
+        "N": {
+            "tag": "forge:ingots/netherite"
+        },
+        "D": {
+            "item": "vs_things:diamond_plate"
+        },
+        "F": {
+            "tag": "forge:furnaces/obsidian"
+        },
+        "B": {
+            "item": "minecraft:blaze_powder"
+        }
+    }
+}

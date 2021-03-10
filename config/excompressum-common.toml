@@ -80,7 +80,7 @@
 
 [tools]
 	#If true, hitting a chicken with a stick will turn it into an Angry Chicken, which will drop a Chicken Stick when killed.
-	allowChickenStickCreation = true
+	allowChickenStickCreation = false
 	#The chance for the chicken stick to make sounds when breaking blocks. Set to 0 to disable.
 	#Range: 0.0 ~ 1.0
 	chickenStickSoundChance = 0.20000000298023224

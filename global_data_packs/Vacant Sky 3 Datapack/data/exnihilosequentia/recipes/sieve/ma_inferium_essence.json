@@ -1,0 +1,26 @@
+{
+    "type": "exnihilosequentia:sieve",
+    "rolls": [{
+            "chance": 0.05,
+            "mesh": "iron"
+        },
+        {
+            "chance": 0.10,
+            "mesh": "diamond"
+        },
+        {
+            "chance": 0.15,
+            "mesh": "emerald"
+        },
+        {
+            "chance": 0.20,
+            "mesh": "netherite"
+        }
+    ],
+    "input": {
+        "item": "exnihilosequentia:crushed_granite"
+    },
+    "result": {
+        "item": "mysticalagriculture:inferium_essence"
+    }
+}

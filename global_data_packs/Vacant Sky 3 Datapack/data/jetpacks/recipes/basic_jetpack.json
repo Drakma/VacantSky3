@@ -1,0 +1,35 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "result": {
+        "item": "simplyjetpacks:jetpack_mek1"
+    },
+    "pattern": [
+        "OCO",
+        "OBO",
+        "TFT"
+    ],
+    "key": {
+        "O": {
+            "tag": "forge:ingots/osmium"
+        },
+        "C": {
+            "tag": "forge:circuits/basic"
+        },
+        "B": {
+            "item": "simplyjetpacks:leather_strap"
+        },
+        "T": {
+            "item": "simplyjetpacks:thruster_mek1"
+        },
+        "F": {
+            "type": "forge:nbt",
+            "item": "thermal:flux_capacitor",
+            "nbt": {
+                "Enchantments": [{
+                    "lvl": "1s",
+                    "id": "cofh_core:holding"
+                }]
+            }
+        }
+    }
+}

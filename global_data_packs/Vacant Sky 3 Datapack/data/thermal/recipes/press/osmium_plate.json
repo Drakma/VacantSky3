@@ -1,0 +1,9 @@
+{
+    "type": "thermal:press",
+    "ingredient": {
+        "item": "mekanism:ingot_osmium"
+    },
+    "result": [{
+        "item": "vs_things:osmium_plate"
+    }]
+}

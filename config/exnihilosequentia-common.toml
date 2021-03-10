@@ -36,10 +36,10 @@
 [crook]
 	#Maximum additional string that a crook will drop from infested leaves in addition to the minimum string count (Default: 3)
 	#Range: > 0
-	maxBonusStringCount = 3
+	maxBonusStringCount = 4
 	#Minimum string that a crook will drop from infested leaves (Default: 2)
 	#Range: > 1
-	minStringCount = 2
+	minStringCount = 1
 	#Number of times the crook will "break" a leaf block to get drops (Default: 3)
 	#Range: > 1
 	vanillaDropSimulateCount = 3
@@ -51,7 +51,7 @@
 	ticksBetweenMelts = 20
 	#Number of buckets the crucible will hold (Default: 4)
 	#Range: > 1
-	crucibleNumberOfBuckets = 8
+	crucibleNumberOfBuckets = 4
 
 	#Wooden Crucible Configs
 	[crucible.wood]
@@ -63,7 +63,7 @@
 [infested_leaves]
 	#Number of seconds to for leaves to become completely infested (Default: 10)
 	#Range: > 1
-	secondsToTransformLeaves = 10
+	secondsToTransformLeaves = 20
 	#Number of ticks between infested leave spread attempts (Default: 100)
 	#Range: > 1
 	ticksBetweenSpreadAttempt = 100
@@ -74,7 +74,7 @@
 #Sieve Configs
 [sieve]
 	#Sieve will get results for all mesh tiers below the one in the sieve (Default: true)
-	flattenSieveRecipes = true
+	flattenSieveRecipes = false
 	#Meshes will have durability and can break. (Default: false)
 	enableMeshDurability = false
 	#Defines the radius that a sieve will attempt to activate other sieves (Default: 2)
@@ -120,22 +120,22 @@
 	[durability.hammer]
 		#Durability of Wooden Hammer (Default: 128)
 		#Range: > 1
-		hammerWoodValue = 128
+		hammerWoodValue = 256
 		#Durability of Stone Hammer (Default: 256)
 		#Range: > 1
-		hammerStoneValue = 256
+		hammerStoneValue = 512
 		#Durability of Iron Hammer (Default: 512)
 		#Range: > 1
-		hammerIronValue = 512
+		hammerIronValue = 1024
 		#Durability of Gold Hammer (Default: 64)
 		#Range: > 1
-		hammerGoldValue = 64
+		hammerGoldValue = 128
 		#Durability of Diamond Hammer (Default: 4096)
 		#Range: > 1
-		hammerDiamondValue = 4096
+		hammerDiamondValue = 8192
 		#Durability of Netherite Hammer (Default: 8192)
 		#Range: > 1
-		hammerNetheriteValue = 8192
+		hammerNetheriteValue = 99999999
 
 	#Durability of Crooks
 	[durability.crook]
@@ -162,7 +162,7 @@
 		crookIronValue = 512
 		#Durability of Diamond Crook (Default: 2048)
 		#Range: > 1
-		crookDiamondValue = 2048
+		crookDiamondValue = 4096
 		#Durability of Bone Crook (Default: 256)
 		#Range: > 1
 		crookBoneValue = 256

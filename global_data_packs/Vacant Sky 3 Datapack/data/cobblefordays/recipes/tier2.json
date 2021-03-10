@@ -1,8 +1,8 @@
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
-        "AAA",
-        "ABA",
+        "ACA",
+        "WBL",
         "AAA"
     ],
     "key": {
@@ -10,7 +10,16 @@
             "tag": "forge:cobblestone"
         },
         "B": {
-            "item": "cobblefordays:tier_1"
+            "tag": "forge:glass/colorless"
+        },
+        "W": {
+            "item": "minecraft:water_bucket"
+        },
+        "L": {
+            "item": "minecraft:lava_bucket"
+        },
+        "C": {
+            "tag": "forge:storage_blocks/redstone"
         }
     },
     "result": {

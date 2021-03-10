@@ -1,0 +1,14 @@
+{
+    "type": "thermal:bottler",
+    "ingredient": [{
+            "item": "vs_things:tesseract_frame"
+        },
+        {
+            "fluid": "vs_things:molten_ender",
+            "amount": 2000
+        }
+    ],
+    "result": [{
+        "item": "tesseract:tesseract"
+    }]
+}

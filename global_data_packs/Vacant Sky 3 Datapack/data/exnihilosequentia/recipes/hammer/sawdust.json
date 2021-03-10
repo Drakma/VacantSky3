@@ -1,0 +1,22 @@
+{
+    "type": "exnihilosequentia:hammer",
+    "results": [{
+            "item": "mekanism:sawdust",
+            "chance": 1.0,
+            "count": 3
+        },
+        {
+            "item": "mekanism:sawdust",
+            "chance": 0.50,
+            "count": 2
+        },
+        {
+            "item": "mekanism:sawdust",
+            "chance": 0.20,
+            "count": 2
+        }
+    ],
+    "input": {
+        "tag": "minecraft:logs"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "type": "extendedcrafting:combination",
+    "powerCost": 100000,
+    "input": {
+        "type": "forge:nbt",
+        "item": "botania:mana_ring",
+        "nbt": {
+            "mana": 500000
+        }
+    },
+    "ingredients": [{
+            "item": "extendedcrafting:enhanced_ender_ingot"
+        },
+        {
+            "item": "silentgems:chaos_ruby"
+        },
+        {
+            "item": "extendedcrafting:enhanced_ender_ingot"
+        },
+        {
+            "item": "silentgems:chaos_sapphire"
+        },
+        {
+            "item": "extendedcrafting:enhanced_ender_ingot"
+        },
+        {
+            "item": "silentgems:chaos_malachite"
+        },
+        {
+            "item": "extendedcrafting:enhanced_ender_ingot"
+        },
+        {
+            "item": "silentgems:chaos_jasper"
+        }
+    ],
+    "result": {
+        "item": "vs_things:empty_philo_stone"
+    }
+}
