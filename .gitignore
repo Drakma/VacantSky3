@@ -34,3 +34,8 @@ config.json
 /journeymap/server
 /journeymap/journeymap.log
 /config/*.toml.bak
+/background.png
+/config.json
+/imm_ptl_state.json
+/optionsof.txt
+/optionsshaders.txt
