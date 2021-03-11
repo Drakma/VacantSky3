@@ -3,44 +3,30 @@
 ## Table of Contents
 
 - [About](#about)
-- [Getting Started](#getting_started)
-- [Usage](#usage)
-- [Contributing](../CONTRIBUTING.md)
+- [Dimensions/Biomes](#dims)
 
 ## About <a name = "about"></a>
 
-Write about 1-2 paragraphs describing the purpose of your project.
+Vacant Sky 3 is a complete re-imaging of Vacant Sky 1/2 in Minecraft 1.16.5.  This pack is supposed to be moderately difficult but not so difficult that you'll rage quit.
 
-## Getting Started <a name = "getting_started"></a>
+As you start standing on the top of a tree, navigate your way through the different mods in sandbox style gameplay.  alternatively, the Quest Book will guide you through each mod and give you and "End Game."
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
+Discover new dimensions and biomes.  From the cold and lifeless Deep Dark to the dark and creepy Hell biomes you will discover new places to travel and build.
 
-### Prerequisites
+The adventure is up to you!
 
-What things you need to install the software and how to install them.
+## Dimensions & Biomes <a name = "dims"></a>
 
-```
-Give examples
-```
+Hell- This biome is like The Nether, but has a skybox.
 
-### Installing
+Sunny - A new Desert setting that is void of life.
 
-A step by step series of examples that tell you how to get a development env running.
+Temperate - Creatures flourish in these 3 new biomes because there are no hostile mobs to kill them
 
-Say what the step will be
+Deep Dark - These biomes have no sun and are extremely cold.  Only the toughest of creatures survive in these icy biomes.
 
-```
-Give the example
-```
+Panda Park - Panda! Panda's Everywhere.  You don't know why, but you need this new dimension.
 
-And repeat
+All of the above dimensions/biomes are made specifically to generate creatures only and no mobs.  There is no ore generations either.
 
-```
-until finished
-```
 
-End with an example of getting some data out of the system or using it for a little demo.
-
-## Usage <a name = "usage"></a>
-
-Add notes about how to use the system.
