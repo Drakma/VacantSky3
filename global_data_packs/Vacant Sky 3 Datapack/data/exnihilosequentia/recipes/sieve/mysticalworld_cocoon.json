@@ -1,0 +1,13 @@
+{
+    "type": "exnihilosequentia:sieve",
+    "rolls": [{
+        "chance": 0.075,
+        "mesh": "string"
+    }],
+    "input": {
+        "tag": "minecraft:leaves"
+    },
+    "result": {
+        "item": "mysticalworld:silk_cocoon"
+    }
+}

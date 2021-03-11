@@ -1,0 +1,13 @@
+{
+    "type": "exnihilosequentia:sieve",
+    "rolls": [{
+        "chance": 0.30,
+        "mesh": "string"
+    }],
+    "input": {
+        "item": "minecraft:dirt"
+    },
+    "result": {
+        "item": "mysticalworld:aubergine_seeds"
+    }
+}

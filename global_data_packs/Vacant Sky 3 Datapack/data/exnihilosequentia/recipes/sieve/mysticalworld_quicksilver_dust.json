@@ -1,0 +1,30 @@
+{
+    "type": "exnihilosequentia:sieve",
+    "rolls": [{
+            "chance": 0.01,
+            "mesh": "flint"
+        },
+        {
+            "chance": 0.03,
+            "mesh": "iron"
+        },
+        {
+            "chance": 0.06,
+            "mesh": "diamond"
+        },
+        {
+            "chance": 0.09,
+            "mesh": "emerald"
+        },
+        {
+            "chance": 0.12,
+            "mesh": "netherite"
+        }
+    ],
+    "input": {
+        "tag": "forge:gravel"
+    },
+    "result": {
+        "item": "mysticalworld:quicksilver_dust"
+    }
+}

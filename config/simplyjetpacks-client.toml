@@ -28,10 +28,10 @@
 		hudTextPosition = "TOP_LEFT"
 		#HUD Position X Offset
 		#Range: > -2147483648
-		hudXOffset = 0
+		hudXOffset = 1
 		#HUD Position Y Offset
 		#Range: > -2147483648
-		hudYOffset = 20
+		hudYOffset = 21
 		#HUD Scale
 		#Range: 1 ~ 100
 		hudScale = 1

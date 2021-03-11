@@ -1,0 +1,12 @@
+{
+    "type": "exnihilosequentia:crook",
+    "results": [{
+        "chance": 0.04,
+        "item": "mysticalworld:silkworm_egg",
+        "count": 1
+    }],
+    "input": {
+        "tag": "minecraft:leaves"
+
+    }
+}
