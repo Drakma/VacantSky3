@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "WWW",
+        "WXW",
+        "WWW"
+    ],
+    "key": {
+        "W": {
+            "item": "compactmachines:wall"
+        },
+        "X": {
+            "item": "ironchest:diamond_chest"
+        }
+    },
+    "result": {
+        "item": "compactmachines:machine_tiny",
+        "count": 1
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "BAB",
+        "ATA",
+        "BCB"
+    ],
+    "key": {
+        "A": {
+            "tag": "forge:plastic"
+        },
+        "C": {
+            "item": "create:integrated_circuit"
+        },
+        "B": {
+            "item": "minecraft:ender_eye"
+        },
+        "T": {
+            "item": "mekanism:teleporter_frame"
+        }
+    },
+    "result": {
+        "item": "compactmachines:personal_shrinking_device",
+        "count": 1
+    }
+}

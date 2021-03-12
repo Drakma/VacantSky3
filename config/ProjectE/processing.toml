@@ -7,7 +7,7 @@
 
 	#Reduces the EMC value the more damaged an item is.
 	[processors.DamageProcessor]
-		enabled = true
+		enabled = false
 
 	#Increases the EMC value to take into account any enchantments on an item.
 	[processors.EnchantmentProcessor]

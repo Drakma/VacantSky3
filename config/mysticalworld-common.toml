@@ -6,7 +6,7 @@
 	[oregen.Copper_oregen]
 		#Number of veins per chunk (set to 0 to disable).
 		#Range: 0 ~ 256
-		oreChances = 0
+		oreChances = 8
 		#Max size of the vein.
 		#Range: 1 ~ 256
 		veinSize = 12
@@ -23,7 +23,7 @@
 	[oregen.Tin_oregen]
 		#Number of veins per chunk (set to 0 to disable).
 		#Range: 0 ~ 256
-		oreChances = 0
+		oreChances = 8
 		#Max size of the vein.
 		#Range: 1 ~ 256
 		veinSize = 8
@@ -40,7 +40,7 @@
 	[oregen.Silver_oregen]
 		#Number of veins per chunk (set to 0 to disable).
 		#Range: 0 ~ 256
-		oreChances = 0
+		oreChances = 4
 		#Max size of the vein.
 		#Range: 1 ~ 256
 		veinSize = 8
@@ -128,21 +128,7 @@
 	[mob_spawns.Deer_spawn]
 		#Chance to spawn (set to 0 to disable).
 		#Range: 0 ~ 256
-		spawnChance = 80
-		#Min to spawn in a group.
-		#Range: 0 ~ 256
-		min = 4
-		#Max to spawn in a group.
-		#Range: 0 ~ 256
-		max = 8
-		#List of biome types to spawn.
-		biomes = "forest,icy,taiga,plains,birch_forest,bamboo_jungle,birch_forest_hills,dark_forest,dark_forest_hills,flower_forest,giant_spruce_taiga,giant_spruce_taiga_hills,jungle,jungle_edge,jungle_hills,mountains,mushroom_fields,river,savanna,shattered_savanna,sunflower_plains,wooded_hills,wooded_mountains,"
-
-	#Sprout spawn config.
-	[mob_spawns.Sprout_spawn]
-		#Chance to spawn (set to 0 to disable).
-		#Range: 0 ~ 256
-		spawnChance = 10
+		spawnChance = 6
 		#Min to spawn in a group.
 		#Range: 0 ~ 256
 		min = 2
@@ -150,13 +136,27 @@
 		#Range: 0 ~ 256
 		max = 4
 		#List of biome types to spawn.
-		biomes = "forest,icy,taiga,plains,birch_forest,bamboo_jungle,birch_forest_hills,dark_forest,dark_forest_hills,flower_forest,giant_spruce_taiga,giant_spruce_taiga_hills,jungle,jungle_edge,jungle_hills,mountains,mushroom_fields,river,savanna,shattered_savanna,sunflower_plains,wooded_hills,wooded_mountains,"
+		biomes = "forest,icy,taiga,plains,"
+
+	#Sprout spawn config.
+	[mob_spawns.Sprout_spawn]
+		#Chance to spawn (set to 0 to disable).
+		#Range: 0 ~ 256
+		spawnChance = 2
+		#Min to spawn in a group.
+		#Range: 0 ~ 256
+		min = 2
+		#Max to spawn in a group.
+		#Range: 0 ~ 256
+		max = 4
+		#List of biome types to spawn.
+		biomes = "jungle,river,forest,beach,"
 
 	#Hell Sprout spawn config.
 	[mob_spawns."Hell Sprout_spawn"]
 		#Chance to spawn (set to 0 to disable).
 		#Range: 0 ~ 256
-		spawnChance = 10
+		spawnChance = 2
 		#Min to spawn in a group.
 		#Range: 0 ~ 256
 		min = 1
@@ -164,16 +164,16 @@
 		#Range: 0 ~ 256
 		max = 1
 		#List of biome types to spawn.
-		biomes = "warped_forest,soul_sand_valley,nether_wastes,crimson_forest,basalt_deltas,nether,"
+		biomes = "nether,"
 		#how often a hell sprout should attempt to plant nether wart (1 in X, 0 for never)
 		#Range: > 0
-		chance = 50
+		chance = 100
 
 	#Silver Fox spawn config.
 	[mob_spawns."Silver Fox_spawn"]
 		#Chance to spawn (set to 0 to disable).
 		#Range: 0 ~ 256
-		spawnChance = 10
+		spawnChance = 4
 		#Min to spawn in a group.
 		#Range: 0 ~ 256
 		min = 1
@@ -181,13 +181,13 @@
 		#Range: 0 ~ 256
 		max = 3
 		#List of biome types to spawn.
-		biomes = "forest,icy,taiga,snowy,snowy_beach,snowy_taiga,snowy_tundra"
+		biomes = "forest,icy,taiga,"
 
 	#Beetle spawn config.
 	[mob_spawns.Beetle_spawn]
 		#Chance to spawn (set to 0 to disable).
 		#Range: 0 ~ 256
-		spawnChance = 20
+		spawnChance = 5
 		#Min to spawn in a group.
 		#Range: 0 ~ 256
 		min = 2
@@ -201,7 +201,7 @@
 	[mob_spawns.Frog_spawn]
 		#Chance to spawn (set to 0 to disable).
 		#Range: 0 ~ 256
-		spawnChance = 20
+		spawnChance = 6
 		#Min to spawn in a group.
 		#Range: 0 ~ 256
 		min = 2
@@ -209,7 +209,7 @@
 		#Range: 0 ~ 256
 		max = 4
 		#List of biome types to spawn.
-		biomes = "forest,icy,taiga,plains,birch_forest,bamboo_jungle,birch_forest_hills,dark_forest,dark_forest_hills,flower_forest,giant_spruce_taiga,giant_spruce_taiga_hills,jungle,jungle_edge,jungle_hills,mountains,mushroom_fields,river,savanna,shattered_savanna,sunflower_plains,wooded_hills,wooded_mountains,"
+		biomes = "swamp,jungle,beach,river,"
 
 	#Endermini spawn config.
 	[mob_spawns.Endermini_spawn]
@@ -229,7 +229,7 @@
 	[mob_spawns.Owl_spawn]
 		#Chance to spawn (set to 0 to disable).
 		#Range: 0 ~ 256
-		spawnChance = 40
+		spawnChance = 9
 		#Min to spawn in a group.
 		#Range: 0 ~ 256
 		min = 1
@@ -243,7 +243,7 @@
 	[mob_spawns."Lava Cat_spawn"]
 		#Chance to spawn (set to 0 to disable).
 		#Range: 0 ~ 256
-		spawnChance = 20
+		spawnChance = 2
 		#Min to spawn in a group.
 		#Range: 0 ~ 256
 		min = 1
@@ -251,7 +251,7 @@
 		#Range: 0 ~ 256
 		max = 1
 		#List of biome types to spawn.
-		biomes = "warped_forest,soul_sand_valley,nether_wastes,crimson_forest,basalt_deltas,nether"
+		biomes = "nether,"
 
 	#Silkworm spawn config.
 	[mob_spawns.silkworm_spawn]
@@ -476,14 +476,14 @@
 	#Structure Generation
 	[feature_spawns.hut]
 		#List of biome types to spawn (default [SAVANNA,PLAINS], pass empty list for every biome
-		biomes = ""
+		biomes = "SAVANNA,PLAINS"
 		#Which biome types this structure shouldn't spawn in (default END, NETHER)
 		biomeRestrictions = "NETHER,END"
 
 	#Structure Generation
 	[feature_spawns.barrow]
 		#List of biome types to spawn (default [SAVANNA,PLAINS], pass empty list for every biome
-		biomes = ""
+		biomes = "SAVANNA,PLAINS"
 		#Which biome types this structure shouldn't spawn in (default END, NETHER)
 		biomeRestrictions = "NETHER,END"
 

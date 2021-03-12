@@ -213,6 +213,20 @@ var removeandhideItems = [
   <item:mysticalworld:silver_ore>,
   <item:mysticalworld:lead_ore>,
   <item:mysticalworld:tin_ore>,
+  <item:mysticalpowers:tin_power_cell>,
+  <item:mysticalpowers:lead_power_cell>,
+  <item:mysticalpowers:copper_power_cell>,
+  <item:mysticalpowers:silver_power_cell>,
+  <item:mysticalpowers:quicksilver_power_cell>,
+  <item:mysticalpowers:cookie_generator>,
+  <item:mysticalpowers:infinity_generator>,
+  <item:mysticalpowers:red_sand_fabricator>,
+  <item:mysticalpowers:clay_fabricator>,
+  <item:mysticalpowers:slime_fabricator>,
+  <item:mysticalpowers:ice_fabricator>,
+  <item:mysticalpowers:lapis_machine_frame>,
+  <item:mysticalpowers:slime_machine_frame>,
+  <item:mysticalpowers:wood_machine_frame>,
 ];
 
 for Item in removeandhideItems {
@@ -305,6 +319,8 @@ var removeItems = [
   <item:mysticalagriculture:imperium_farmland>,
   <item:mysticalagriculture:supremium_farmland>,
   <item:mysticalagradditions:insanium_farmland>,
+  <item:projecte:philosophers_stone>,
+  <item:thermal:ruby_block>,
 ];
 
 for Item in removeItems {
@@ -417,6 +433,22 @@ var removeRecipes = [
   "simplyjetpacks:mek/jetpack_mek2",
   "simplyjetpacks:mek/jetpack_mek3",
   "simplyjetpacks:mek/jetpack_mek4",
+  "compactmachines:personal_shrinking_device",
+  "compactmachines:wall",
+  "compactmachines:machine_tiny",
+  "compactmachines:machine_small",
+  "compactmachines:machine_normal",
+  "compactmachines:machine_large",
+  "compactmachines:machine_giant",
+  "compactmachines:machine_maximum",
+  "mysticalpowers:chorus_machine_frame",
+  "mysticalpowers:nether_machine_frame",
+  "mysticalpowers:quicksilver_machine_frame",
+  "mysticalpowers:red_nether_machine_frame",
+  "mysticalpowers:reinforced_machine_frame",
+  "mysticalpowers:stone_machine_frame",
+  "mysticalpowers:terracotta_machine_frame",
+  "mysticalpowers:water_fabricator",
 ];
 
 for Recipe in removeRecipes {
@@ -482,8 +514,7 @@ var removeAndHideSeeds = [
 
 for Seeds in removeAndHideSeeds {
   mods.mysticalagriculture.InfusionCrafting.remove(Seeds);
-    mods.jei.JEI.hideItem(Seeds);
-
+  mods.jei.JEI.hideItem(Seeds);
 }
 
 

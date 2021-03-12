@@ -2,7 +2,7 @@
 #Omni Configuration
 ["Cavier Caves"]
 	#Range: 0 ~ 1000
-	malachite_geode_spawn_chance = 48
+	malachite_geode_spawn_chance = 0
 	malachite_biome_blacklist = ""
 	geode_shell_outer_block = "minecraft:granite"
 	geode_shell_inner_block = "minecraft:diorite"

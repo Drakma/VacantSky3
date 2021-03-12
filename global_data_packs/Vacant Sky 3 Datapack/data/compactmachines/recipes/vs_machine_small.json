@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "WWW",
+        "WXW",
+        "WWW"
+    ],
+    "key": {
+        "W": {
+            "item": "compactmachines:wall"
+        },
+        "X": {
+            "item": "silents_mechanisms:alloy_machine_frame"
+        }
+    },
+    "result": {
+        "item": "compactmachines:machine_small",
+        "count": 1
+    }
+}

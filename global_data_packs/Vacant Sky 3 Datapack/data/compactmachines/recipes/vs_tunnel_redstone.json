@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "RRR",
+        "RWR",
+        "RRR"
+    ],
+    "key": {
+        "R": {
+            "tag": "forge:dusts/redstone"
+        },
+        "W": {
+            "item": "compactmachines:wall"
+        }
+    },
+    "result": {
+        "type": "forge:nbt",
+        "item": "compactmachines:tunnel",
+        "nbt": {
+            "definition": {
+                "id": "compactmachines:redstone_in"
+            }
+        },
+        "count": 1
+    }
+}

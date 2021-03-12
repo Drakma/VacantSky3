@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "WWW",
+        "WXW",
+        "WWW"
+    ],
+    "key": {
+        "W": {
+            "item": "compactmachines:wall"
+        },
+        "X": {
+            "item": "thermal:machine_frame"
+        }
+    },
+    "result": {
+        "item": "compactmachines:machine_large",
+        "count": 1
+    }
+}

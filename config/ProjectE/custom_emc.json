@@ -1,4 +1,208 @@
 {
-  "entries": [],
-  "__comment": "Use the in-game commands to edit this file"
+  "entries": [
+    {
+      "item": "silents_mechanisms:redstone_alloy_ingot",
+      "emc": 384
+    },
+    {
+      "item": "mysticalworld:soft_obsidian",
+      "emc": 64
+    },
+    {
+      "item": "botania:mana_pearl",
+      "emc": 1092
+    },
+    {
+      "item": "botania:livingrock",
+      "emc": 128
+    },
+    {
+      "item": "extendedcrafting:ender_ingot",
+      "emc": 1344
+    },
+    {
+      "item": "extendedcrafting:ender_star",
+      "emc": 146432
+    },
+    {
+      "item": "extendedcrafting:enhanced_ender_ingot",
+      "emc": 37952
+    },
+    {
+      "item": "silentgems:chaos_crystal_shard",
+      "emc": 192
+    },
+    {
+      "item": "minecraft:charcoal",
+      "emc": 128
+    },
+    {
+      "item": "silentgems:enriched_chaos_crystal",
+      "emc": 8704
+    },
+    {
+      "item": "silentgems:chaos_ruby",
+      "emc": 105472
+    },
+    {
+      "item": "silentgems:chaos_sapphire",
+      "emc": 105472
+    },
+    {
+      "item": "silentgems:chaos_malachite",
+      "emc": 105472
+    },
+    {
+      "item": "silentgems:chaos_jasper",
+      "emc": 105472
+    },
+    {
+      "item": "botania:manasteel_ingot",
+      "emc": 256
+    },
+    {
+      "item": "vs_things:empty_philo_stone",
+      "emc": 673696
+    },
+    {
+      "item": "projecte:philosophers_stone",
+      "emc": 923696
+    },
+    {
+      "item": "elementalcraft:inertcrystal",
+      "emc": 256
+    },
+    {
+      "item": "elementalcraft:firecrystal",
+      "emc": 1092
+    },
+    {
+      "item": "elementalcraft:watercrystal",
+      "emc": 1092
+    },
+    {
+      "item": "elementalcraft:earthcrystal",
+      "emc": 1092
+    },
+    {
+      "item": "elementalcraft:aircrystal",
+      "emc": 1092
+    },
+    {
+      "item": "elementalcraft:drenched_iron_ingot",
+      "emc": 256
+    },
+    {
+      "item": "elementalcraft:element_holder_fire{Damage:1000}",
+      "emc": 14583
+    },
+    {
+      "item": "elementalcraft:element_holder_water{Damage:1000}",
+      "emc": 14583
+    },
+    {
+      "item": "elementalcraft:element_holder_earth{Damage:1000}",
+      "emc": 14583
+    },
+    {
+      "item": "elementalcraft:element_holder_air{Damage:1000}",
+      "emc": 14583
+    },
+    {
+      "item": "elementalcraft:swift_alloy_ingot",
+      "emc": 3460
+    },
+    {
+      "item": "botania:mana_diamond",
+      "emc": 8192
+    },
+    {
+      "item": "silents_mechanisms:invar_ingot",
+      "emc": 1536
+    },
+    {
+      "item": "thermal:invar_ingot",
+      "emc": 1536
+    },
+    {
+      "item": "silents_mechanisms:zinc_ingot",
+      "emc": 128
+    },
+    {
+      "item": "exnihilosequentia:ingot_zinc",
+      "emc": 128
+    },
+    {
+      "item": "create:zinc_ingot",
+      "emc": 128
+    },
+    {
+      "item": "silentgear:template_board",
+      "emc": 5
+    },
+    {
+      "item": "industrialforegoing:plastic",
+      "emc": 1024
+    },
+    {
+      "item": "silents_mechanisms:plastic_sheet",
+      "emc": 1024
+    },
+    {
+      "item": "industrialforegoing:machine_frame_simple",
+      "emc": 28754
+    },
+    {
+      "item": "industrialforegoing:machine_frame_advanced",
+      "emc": 128711
+    },
+    {
+      "item": "industrialforegoing:machine_frame_supreme",
+      "emc": 2989245
+    },
+    {
+      "item": "thermal:constantan_ingot",
+      "emc": 576
+    },
+    {
+      "item": "thermal:diamond_dust",
+      "emc": 8192
+    },
+    {
+      "item": "silents_mechanisms:enderium_ingot",
+      "emc": 11776
+    },
+    {
+      "item": "thermal:enderium_ingot",
+      "emc": 5888
+    },
+    {
+      "item": "silents_mechanisms:electrum_ingot",
+      "emc": 768
+    },
+    {
+      "item": "thermal:electrum_ingot",
+      "emc": 768
+    },
+    {
+      "item": "silents_mechanisms:signalum_ingot",
+      "emc": 288
+    },
+    {
+      "item": "thermal:signalum_ingot",
+      "emc": 288
+    },
+    {
+      "item": "silents_mechanisms:lumium_ingot",
+      "emc": 512
+    },
+    {
+      "item": "thermal:lumium_ingot",
+      "emc": 512
+    },
+    {
+      "item": "pamhc2foodcore:basichamburgeritem",
+      "emc": 0
+    }
+  ]
 }

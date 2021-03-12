@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "WWW",
+        "WFW",
+        "WWW"
+    ],
+    "key": {
+        "W": {
+            "item": "mysticalagriculture:water_essence"
+        },
+        "F": {
+            "item": "mysticalpowers:reinforced_machine_frame"
+        }
+    },
+    "result": {
+        "item": "mysticalpowers:water_fabricator",
+        "count": 1
+    }
+}

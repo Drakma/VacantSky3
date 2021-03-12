@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "WWW",
+        "WFW",
+        "WWW"
+    ],
+    "key": {
+        "W": {
+            "tag": "forge:ingots/steel"
+        },
+        "F": {
+            "item": "silents_mechanisms:alloy_machine_frame"
+        }
+    },
+    "result": {
+        "item": "mysticalpowers:reinforced_machine_frame",
+        "count": 1
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "WWW",
+        "WXW",
+        "WWW"
+    ],
+    "key": {
+        "W": {
+            "tag": "forge:storage_blocks/iron"
+        },
+        "X": {
+            "item": "mekanism:teleporter_frame"
+        }
+    },
+    "result": {
+        "item": "compactmachines:wall",
+        "count": 16
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "IBI",
+        "BFB",
+        "IBI"
+    ],
+    "key": {
+        "I": {
+            "tag": "forge:ingots/steel"
+        },
+        "B": {
+            "tag": "forge:stone"
+        },
+        "F": {
+            "item": "thermal:machine_frame"
+        }
+    },
+    "result": {
+        "item": "mysticalpowers:stone_machine_frame",
+        "count": 1
+    }
+}

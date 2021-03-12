@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "WWW",
+        "WXW",
+        "WWW"
+    ],
+    "key": {
+        "W": {
+            "item": "compactmachines:wall"
+        },
+        "X": {
+            "item": "vs_things:tesseract_frame"
+        }
+    },
+    "result": {
+        "item": "compactmachines:machine_giant",
+        "count": 1
+    }
+}

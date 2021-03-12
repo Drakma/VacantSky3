@@ -1,7 +1,7 @@
 
 #Omni Configuration
 ["Cavier Caves"]
-	budding_malachite_growth_chance = 5
+	budding_malachite_growth_chance = 0
 	speleothems_fall_by_projectiles = true
 	speleothems_fall = true
 	speleothems_fill_cauldrons = true
@@ -17,10 +17,10 @@
 	flower_field_spawn_weight = 1
 
 [Deserted]
-	red_rock_gen_size = 36
+	red_rock_gen_size = 0
 
 [Forestry]
-	red_rock_gen_size = true
+	red_rock_gen_size = false
 
 [Paradise]
 	rideable_seahorses = true

@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "IBI",
+        "BFB",
+        "IBI"
+    ],
+    "key": {
+        "I": {
+            "tag": "forge:ingots/steel"
+        },
+        "B": {
+            "tag": "forge:red_nether_bricks"
+        },
+        "F": {
+            "item": "thermal:machine_frame"
+        }
+    },
+    "result": {
+        "item": "mysticalpowers:red_nether_machine_frame",
+        "count": 1
+    }
+}
