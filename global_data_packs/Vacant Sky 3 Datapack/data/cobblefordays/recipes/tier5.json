@@ -19,7 +19,7 @@
             "item": "minecraft:lava_bucket"
         },
         "C": {
-            "tag": "forge:storage_blocks/redstone"
+            "item": "compressium:cobblestone_8"
         },
         "I": {
             "tag": "forge:storage_blocks/emerald"

@@ -1,11 +1,14 @@
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
-        "IBI",
+        "IXI",
         "BFB",
         "IBI"
     ],
     "key": {
+        "X": {
+            "item": "compressium:endstone_4"
+        },
         "I": {
             "tag": "forge:ingots/steel"
         },

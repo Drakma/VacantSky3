@@ -1,0 +1,22 @@
+{
+    "type": "mysticalagriculture:infusion",
+    "input": {
+        "tag": "minecraft:saplings"
+    },
+    "ingredients": [{
+            "item": "tconstruct:sky_slime_ball"
+        },
+        {
+            "item": "tconstruct:sky_slime_ball"
+        },
+        {
+            "item": "tconstruct:sky_slime_ball"
+        },
+        {
+            "item": "tconstruct:sky_slime_ball"
+        }
+    ],
+    "result": {
+        "item": "tconstruct:sky_slime_sapling"
+    }
+}

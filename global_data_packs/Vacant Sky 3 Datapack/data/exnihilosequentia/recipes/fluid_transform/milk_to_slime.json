@@ -1,0 +1,12 @@
+{
+    "type": "exnihilosequentia:fluid_transform",
+    "fluidInTank": {
+        "fluid": "minecraft:milk"
+    },
+    "catalyst": {
+        "item": "minecraft:mycelium"
+    },
+    "result": {
+        "fluid": "tconstruct:earth_slime"
+    }
+}

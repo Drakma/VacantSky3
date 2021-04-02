@@ -44,7 +44,7 @@
 
 ["Dimensions Settings"]
 	#Enter a dimension id to whitelist feature generation
-	white_dim = ["minecraft:overworld"]
+	white_dim = ["minecraft:overworld", "vs_things:temp_dim", "vs_things:deep_blue_dim", "vs_things:deep_freeze_dim", "vs_things:hell_dim", "vs_things:panda_dim", "vs_things:sunny_dim"]
 	#Enter a dimension id to blacklist feature generation
 	black_dim = ["minecraft:the_end", "minecraft:the_nether"]
 

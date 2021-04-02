@@ -1,0 +1,12 @@
+{
+    "type": "exnihilosequentia:fluid_transform",
+    "fluidInTank": {
+        "fluid": "minecraft:milk"
+    },
+    "catalyst": {
+        "item": "appliedenergistics2:sky_stone_block"
+    },
+    "result": {
+        "fluid": "tconstruct:sky_slime"
+    }
+}

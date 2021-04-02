@@ -43,4 +43,6 @@
 	"Tool Blacklist" = []
 	#Blocks blacklisted from being excavated
 	"Block Blacklist" = []
+	#Allows excavation undo function to work through liquids and other replaceable blocks
+	"Undo Replaceables " = true
 

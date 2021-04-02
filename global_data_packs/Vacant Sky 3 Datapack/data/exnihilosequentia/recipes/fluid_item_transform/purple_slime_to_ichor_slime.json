@@ -1,0 +1,12 @@
+{
+    "type": "exnihilosequentia:fluid_item",
+    "fluid": {
+        "fluid": "tconstruct:ender_slime"
+    },
+    "input": {
+        "tag": "forge:fruits/orange"
+    },
+    "result": {
+        "item": "tconstruct:ichor_slime"
+    }
+}

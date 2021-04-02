@@ -1,0 +1,15 @@
+{
+    "x": 105,
+    "y": 33,
+    "width": 20,
+    "height": 20,
+    "u": 0,
+    "v": 0,
+    "anchor": "MIDDLE_LEFT",
+    "hoverU": 0,
+    "hoverV": 20,
+    "texWidth": 20,
+    "texHeight": 40,
+    "texture": "packmenu:textures/gui/reload.png",
+    "action": "RELOAD"
+}

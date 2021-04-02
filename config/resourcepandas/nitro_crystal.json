@@ -1,10 +1,11 @@
 {
     "id": "nitro_crystal_panda",
+    "name": "Nitro Crystal",
     "inputs": [
         "powah:crystal_nitro"
     ],
     "output": "powah:crystal_nitro",
     "hexColor": "#B6292B",
-    "chance": 0.3,
+    "chance": 0.175,
     "alpha": 1.0
 }

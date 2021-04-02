@@ -1,0 +1,13 @@
+{
+    "type": "botania:mana_infusion",
+    "input": {
+        "item": "tconstruct:ichor_slime"
+    },
+    "output": {
+        "item": "tconstruct:ichor_slime_dirt"
+    },
+    "mana": 10000,
+    "catalyst": {
+        "name": "botania:alchemy_catalyst"
+    }
+}

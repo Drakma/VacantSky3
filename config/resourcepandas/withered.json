@@ -1,10 +1,11 @@
 {
     "id": "withered_panda",
+    "name": "Withered",
     "inputs": [
-        "item:productivebees:honeycomb_withered"
+        "productivebees:honeycomb_withered"
     ],
     "output": "mysticalagriculture:wither_skeleton_essence",
     "hexColor": "#050505",
-    "chance": 0.6,
+    "chance": 0.15,
     "alpha": 1.0
 }

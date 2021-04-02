@@ -32,7 +32,7 @@
 /journeymap/icon
 /journeymap/server
 /journeymap/journeymap.log
-/config/*.toml.bak
+/config/**/*.toml.bak
 /background.png
 /config.json
 /imm_ptl_state.json

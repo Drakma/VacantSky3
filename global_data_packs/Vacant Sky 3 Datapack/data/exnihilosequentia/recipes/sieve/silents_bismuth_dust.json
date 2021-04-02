@@ -1,0 +1,30 @@
+{
+    "type": "exnihilosequentia:sieve",
+    "rolls": [{
+            "chance": 0.01,
+            "mesh": "flint"
+        },
+        {
+            "chance": 0.02,
+            "mesh": "iron"
+        },
+        {
+            "chance": 0.04,
+            "mesh": "diamond"
+        },
+        {
+            "chance": 0.08,
+            "mesh": "emerald"
+        },
+        {
+            "chance": 0.12,
+            "mesh": "netherite"
+        }
+    ],
+    "input": {
+        "item": "minecraft:sand"
+    },
+    "result": {
+        "item": "silents_mechanisms:bismuth_dust"
+    }
+}

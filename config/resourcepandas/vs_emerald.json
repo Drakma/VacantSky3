@@ -1,0 +1,11 @@
+{
+    "id": "emerald_panda",
+    "name": "Emerald",
+    "inputs": [
+        "tag:forge:storage_blocks/emerald"
+    ],
+    "output": "thermal:emerald_dust",
+    "hexColor": "#239F3E",
+    "chance": 0.1,
+    "alpha": 1.0
+}

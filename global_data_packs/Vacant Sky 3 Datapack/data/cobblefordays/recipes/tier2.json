@@ -7,7 +7,7 @@
     ],
     "key": {
         "A": {
-            "tag": "forge:cobblestone"
+            "item": "compressium:cobblestone_2"
         },
         "B": {
             "tag": "forge:glass/colorless"

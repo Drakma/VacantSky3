@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "A"
+    ],
+    "key": {
+        "A": {
+            "tag": "forge:workbenches"
+        }
+    },
+    "result": {
+        "item": "tconstruct:crafting_station",
+        "count": 1
+    }
+}

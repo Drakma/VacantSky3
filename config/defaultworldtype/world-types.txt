@@ -1,4 +1,4 @@
-10 possible world types found:
+9 possible world types found:
 - default
 - flat
 - large_biomes
@@ -7,5 +7,4 @@
 - single_biome_caves
 - single_biome_floating_islands
 - debug_all_block_states
-- botania-skyblock
 - skyblockbuilder.custom_skyblock

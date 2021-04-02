@@ -213,3 +213,10 @@
 			#RECIPE IDS HERE.  Block these recipe ids from being reversed, but do not block all recipes for this output item
 			ignore_recipes = ["botania:cobweb", "minecraft:magma_cream", "minecraft:beacon", "minecraft:stick_from_bamboo_item", "minecraft:netherite_ingot_from_netherite_block", "mysticalagriculture:essence*", "mysticalagriculture:farmland_till", "refinedstorage:coloring_recipes*"]
 
+	#####################################################################################
+	# Worldgen settings  
+	#####################################################################################
+	[cyclic.worldgen]
+		#Does this generate in the world
+		flower_cyan = true
+

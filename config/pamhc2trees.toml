@@ -2,13 +2,13 @@
 ["Tweak World Generation Rates"]
 	#Chance of temperate fruit trees generating in the world. Higher numbers indicate a lower probability (Default: 5000)
 	#Range: 1 ~ 1000000000
-	"Probability of temperate fruit trees generating" = 5000
+	"Probability of temperate fruit trees generating" = 50000000
 	#Chance of warm fruit trees generating in the world. Higher numbers indicate a lower probability (Default: 5000)
 	#Range: 1 ~ 1000000000
-	"Probability of warm fruit trees generating" = 5000
+	"Probability of warm fruit trees generating" = 50000000
 	#Chance of cold fruit trees generating in the world. Higher numbers indicate a lower probability (Default: 5000)
 	#Range: 1 ~ 1000000000
-	"Probability of cold fruit trees generating" = 5000
+	"Probability of cold fruit trees generating" = 50000000
 
 ["Miscellaneous Features"]
 	#Disable/enable right-click harvesting of crops.
@@ -126,7 +126,7 @@
 
 ["Dimensions Settings"]
 	#Enter a dimension id to whitelist feature generation
-	white_dim = ["minecraft:overworld"]
+	white_dim = ["minecraft:overworld", "vs_things:temp_dim", "vs_things:deep_blue_dim", "vs_things:deep_freeze_dim", "vs_things:hell_dim", "vs_things:panda_dim", "vs_things:sunny_dim"]
 	#Enter a dimension id to blacklist feature generation
 	black_dim = ["minecraft:the_end", "minecraft:the_nether"]
 

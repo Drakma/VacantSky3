@@ -1,0 +1,41 @@
+
+["Shears Settings"]
+	#Should Grass Blocks be shearable ?  Default: true
+	ShearGrass = true
+	#Should Chickens randomly drop feathers ?  Default: false
+	ChickenFeatherDrop = false
+	#Should babies (Chickens/Rabbits/Pigs) be shearable ?  Default: false
+	ShearBabies = false
+	#Should Spiders be shearable ?  Default: true
+	ShearSpider = true
+	#Should Rabbits be shearable ?  Default: true
+	ShearRabbit = true
+	#Should Chickens be shearable ?  Default: true
+	ShearChicken = true
+	#Should Parrots be shearable ?  Default: true
+	ShearParrot = true
+	#Should Guardians be shearable ?  Default: true
+	ShearGuardian = true
+	#Should Zombies/Husks be shearable ?  Default: true
+	ShearZombie = true
+	#Should Horses be shearable ?  Default: true
+	ShearHorse = true
+	#Should Pigs be shearable ?  Default: true
+	ShearPig = true
+	#Should Skeletons be shearable ?  Default: true
+	ShearSkeleton = true
+	#Should Skeleton Horses be shearable ?  Default: true
+	ShearSkeletonHorse = true
+	#Should Creepers be shearable ?  Default: true
+	ShearCreeper = true
+	#Should Zombie Horses be shearable ?  Default: true
+	ShearZombieHorse = true
+	#Should Squid be shearable ?  Default: true
+	ShearSquid = true
+	#Should Piglins/Piglin Brutes be shearable ?  Default: true
+	ShearPiglin = true
+	#Should Hoglins/Zoglins be shearable ?  Default: true
+	ShearHogZog = true
+	#Should Cows be shearable ?  Default: true
+	ShearCow = true
+

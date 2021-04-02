@@ -203,6 +203,654 @@
     {
       "item": "pamhc2foodcore:basichamburgeritem",
       "emc": 0
+    },
+    {
+      "item": "minecraft:wheat",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:bread",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:porkchop",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:cooked_porkchop",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:apple",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:egg",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:cod",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:salmon",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:tropical_fish",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:sweet_berries",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:beetroot_seeds",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:beetroot",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:cooked_mutton",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:mutton",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:cooked_rabbit",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:rabbit",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:baked_potato",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:potato",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:cooked_cod",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:cooked_salmon",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:melon_slice",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:cookie",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:beef",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:cooked_beef",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:chicken",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:cooked_chicken",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:carrot",
+      "emc": 0
+    },
+    {
+      "item": "pamhc2foodcore:flouritem",
+      "emc": 0
+    },
+    {
+      "item": "pamhc2foodcore:doughitem",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:pumpkin",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:cocoa_beans",
+      "emc": 0
+    },
+    {
+      "item": "pamhc2foodcore:cocoapowderitem",
+      "emc": 0
+    },
+    {
+      "item": "pamhc2foodcore:yogurtitem",
+      "emc": 0
+    },
+    {
+      "item": "botania:white_petal",
+      "emc": 0
+    },
+    {
+      "item": "botania:orange_petal",
+      "emc": 0
+    },
+    {
+      "item": "botania:magenta_petal",
+      "emc": 0
+    },
+    {
+      "item": "botania:light_blue_petal",
+      "emc": 0
+    },
+    {
+      "item": "botania:yellow_petal",
+      "emc": 0
+    },
+    {
+      "item": "botania:lime_petal",
+      "emc": 0
+    },
+    {
+      "item": "botania:pink_petal",
+      "emc": 0
+    },
+    {
+      "item": "botania:gray_petal",
+      "emc": 0
+    },
+    {
+      "item": "botania:light_gray_petal",
+      "emc": 0
+    },
+    {
+      "item": "botania:orange_mystical_flower",
+      "emc": 0
+    },
+    {
+      "item": "botania:white_mystical_flower",
+      "emc": 0
+    },
+    {
+      "item": "botania:black_petal",
+      "emc": 0
+    },
+    {
+      "item": "botania:red_petal",
+      "emc": 0
+    },
+    {
+      "item": "botania:green_petal",
+      "emc": 0
+    },
+    {
+      "item": "botania:brown_petal",
+      "emc": 0
+    },
+    {
+      "item": "botania:blue_petal",
+      "emc": 0
+    },
+    {
+      "item": "botania:purple_petal",
+      "emc": 0
+    },
+    {
+      "item": "botania:cyan_petal",
+      "emc": 0
+    },
+    {
+      "item": "botania:magenta_mystical_flower",
+      "emc": 0
+    },
+    {
+      "item": "botania:light_blue_mystical_flower",
+      "emc": 0
+    },
+    {
+      "item": "botania:yellow_mystical_flower",
+      "emc": 0
+    },
+    {
+      "item": "botania:lime_mystical_flower",
+      "emc": 0
+    },
+    {
+      "item": "botania:pink_mystical_flower",
+      "emc": 0
+    },
+    {
+      "item": "botania:gray_mystical_flower",
+      "emc": 0
+    },
+    {
+      "item": "botania:light_gray_mystical_flower",
+      "emc": 0
+    },
+    {
+      "item": "botania:cyan_mystical_flower",
+      "emc": 0
+    },
+    {
+      "item": "botania:purple_mystical_flower",
+      "emc": 0
+    },
+    {
+      "item": "botania:black_mystical_flower",
+      "emc": 0
+    },
+    {
+      "item": "botania:red_mystical_flower",
+      "emc": 0
+    },
+    {
+      "item": "botania:green_mystical_flower",
+      "emc": 0
+    },
+    {
+      "item": "botania:brown_mystical_flower",
+      "emc": 0
+    },
+    {
+      "item": "botania:blue_mystical_flower",
+      "emc": 0
+    },
+    {
+      "item": "botania:white_shiny_flower",
+      "emc": 0
+    },
+    {
+      "item": "botania:orange_shiny_flower",
+      "emc": 0
+    },
+    {
+      "item": "botania:magenta_shiny_flower",
+      "emc": 0
+    },
+    {
+      "item": "botania:light_blue_shiny_flower",
+      "emc": 0
+    },
+    {
+      "item": "botania:yellow_shiny_flower",
+      "emc": 0
+    },
+    {
+      "item": "botania:lime_shiny_flower",
+      "emc": 0
+    },
+    {
+      "item": "botania:pink_shiny_flower",
+      "emc": 0
+    },
+    {
+      "item": "botania:gray_shiny_flower",
+      "emc": 0
+    },
+    {
+      "item": "botania:light_gray_shiny_flower",
+      "emc": 0
+    },
+    {
+      "item": "botania:orange_mushroom",
+      "emc": 0
+    },
+    {
+      "item": "botania:white_mushroom",
+      "emc": 0
+    },
+    {
+      "item": "botania:black_shiny_flower",
+      "emc": 0
+    },
+    {
+      "item": "botania:red_shiny_flower",
+      "emc": 0
+    },
+    {
+      "item": "botania:green_shiny_flower",
+      "emc": 0
+    },
+    {
+      "item": "botania:brown_shiny_flower",
+      "emc": 0
+    },
+    {
+      "item": "botania:blue_shiny_flower",
+      "emc": 0
+    },
+    {
+      "item": "botania:purple_shiny_flower",
+      "emc": 0
+    },
+    {
+      "item": "botania:cyan_shiny_flower",
+      "emc": 0
+    },
+    {
+      "item": "botania:magenta_mushroom",
+      "emc": 0
+    },
+    {
+      "item": "botania:light_blue_mushroom",
+      "emc": 0
+    },
+    {
+      "item": "botania:yellow_mushroom",
+      "emc": 0
+    },
+    {
+      "item": "botania:lime_mushroom",
+      "emc": 0
+    },
+    {
+      "item": "botania:pink_mushroom",
+      "emc": 0
+    },
+    {
+      "item": "botania:gray_mushroom",
+      "emc": 0
+    },
+    {
+      "item": "botania:light_gray_mushroom",
+      "emc": 0
+    },
+    {
+      "item": "botania:cyan_mushroom",
+      "emc": 0
+    },
+    {
+      "item": "botania:purple_mushroom",
+      "emc": 0
+    },
+    {
+      "item": "botania:black_mushroom",
+      "emc": 0
+    },
+    {
+      "item": "botania:red_mushroom",
+      "emc": 0
+    },
+    {
+      "item": "botania:green_mushroom",
+      "emc": 0
+    },
+    {
+      "item": "botania:brown_mushroom",
+      "emc": 0
+    },
+    {
+      "item": "botania:blue_mushroom",
+      "emc": 0
+    },
+    {
+      "item": "botania:orange_double_flower",
+      "emc": 0
+    },
+    {
+      "item": "botania:white_double_flower",
+      "emc": 0
+    },
+    {
+      "item": "botania:magenta_double_flower",
+      "emc": 0
+    },
+    {
+      "item": "botania:light_blue_double_flower",
+      "emc": 0
+    },
+    {
+      "item": "botania:yellow_double_flower",
+      "emc": 0
+    },
+    {
+      "item": "botania:lime_double_flower",
+      "emc": 0
+    },
+    {
+      "item": "botania:pink_double_flower",
+      "emc": 0
+    },
+    {
+      "item": "botania:gray_double_flower",
+      "emc": 0
+    },
+    {
+      "item": "botania:light_gray_double_flower",
+      "emc": 0
+    },
+    {
+      "item": "botania:tangleberrie",
+      "emc": 0
+    },
+    {
+      "item": "botania:jiyuulia",
+      "emc": 0
+    },
+    {
+      "item": "botania:rannuncarpus",
+      "emc": 0
+    },
+    {
+      "item": "botania:rannuncarpus_chibi",
+      "emc": 0
+    },
+    {
+      "item": "botania:hyacidus",
+      "emc": 0
+    },
+    {
+      "item": "botania:pollidisiac",
+      "emc": 0
+    },
+    {
+      "item": "botania:clayconia",
+      "emc": 0
+    },
+    {
+      "item": "botania:clayconia_chibi",
+      "emc": 0
+    },
+    {
+      "item": "botania:loonium",
+      "emc": 0
+    },
+    {
+      "item": "botania:solegnolia",
+      "emc": 0
+    },
+    {
+      "item": "botania:bubbell_chibi",
+      "emc": 0
+    },
+    {
+      "item": "botania:bubbell",
+      "emc": 0
+    },
+    {
+      "item": "botania:marimorphosis_chibi",
+      "emc": 0
+    },
+    {
+      "item": "botania:marimorphosis",
+      "emc": 0
+    },
+    {
+      "item": "botania:medumone",
+      "emc": 0
+    },
+    {
+      "item": "botania:spectranthemum",
+      "emc": 0
+    },
+    {
+      "item": "botania:vinculotus",
+      "emc": 0
+    },
+    {
+      "item": "botania:daffomill",
+      "emc": 0
+    },
+    {
+      "item": "botania:cyan_double_flower",
+      "emc": 0
+    },
+    {
+      "item": "botania:purple_double_flower",
+      "emc": 0
+    },
+    {
+      "item": "botania:blue_double_flower",
+      "emc": 0
+    },
+    {
+      "item": "botania:brown_double_flower",
+      "emc": 0
+    },
+    {
+      "item": "botania:green_double_flower",
+      "emc": 0
+    },
+    {
+      "item": "botania:red_double_flower",
+      "emc": 0
+    },
+    {
+      "item": "botania:black_double_flower",
+      "emc": 0
+    },
+    {
+      "item": "botania:orechid_ignem",
+      "emc": 0
+    },
+    {
+      "item": "botania:solegnolia_chibi",
+      "emc": 0
+    },
+    {
+      "item": "botania:hopperhock_chibi",
+      "emc": 0
+    },
+    {
+      "item": "botania:hopperhock",
+      "emc": 0
+    },
+    {
+      "item": "botania:agricarnation_chibi",
+      "emc": 0
+    },
+    {
+      "item": "botania:agricarnation",
+      "emc": 0
+    },
+    {
+      "item": "botania:exoflame",
+      "emc": 0
+    },
+    {
+      "item": "botania:fallen_kanade",
+      "emc": 0
+    },
+    {
+      "item": "botania:orechid",
+      "emc": 0
+    },
+    {
+      "item": "botania:jaded_amaranthus",
+      "emc": 0
+    },
+    {
+      "item": "botania:tigerseye",
+      "emc": 0
+    },
+    {
+      "item": "botania:heisei_dream",
+      "emc": 0
+    },
+    {
+      "item": "botania:dreadthorn",
+      "emc": 0
+    },
+    {
+      "item": "botania:bergamute",
+      "emc": 0
+    },
+    {
+      "item": "botania:bellethorn_chibi",
+      "emc": 0
+    },
+    {
+      "item": "botania:bellethorn",
+      "emc": 0
+    },
+    {
+      "item": "botania:shulk_me_not",
+      "emc": 0
+    },
+    {
+      "item": "botania:rafflowsia",
+      "emc": 0
+    },
+    {
+      "item": "botania:dandelifeon",
+      "emc": 0
+    },
+    {
+      "item": "botania:spectrolus",
+      "emc": 0
+    },
+    {
+      "item": "botania:narslimmus",
+      "emc": 0
+    },
+    {
+      "item": "botania:gourmaryllis",
+      "emc": 0
+    },
+    {
+      "item": "botania:kekimurus",
+      "emc": 0
+    },
+    {
+      "item": "botania:entropinnyum",
+      "emc": 0
+    },
+    {
+      "item": "botania:munchdew",
+      "emc": 0
+    },
+    {
+      "item": "botania:rosa_arcana",
+      "emc": 0
+    },
+    {
+      "item": "botania:thermalily",
+      "emc": 0
+    },
+    {
+      "item": "botania:endoflame",
+      "emc": 0
+    },
+    {
+      "item": "botania:hydroangeas",
+      "emc": 0
+    },
+    {
+      "item": "botania:manastar",
+      "emc": 0
+    },
+    {
+      "item": "botania:pure_daisy",
+      "emc": 0
     }
   ]
 }

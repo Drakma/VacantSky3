@@ -1,10 +1,11 @@
 {
     "id": "urananite_panda",
+    "name": "Urananite",
     "inputs": [
         "tag:forge:ingots/uranium"
     ],
     "output": "powah:uraninite",
     "hexColor": "#00CF11",
-    "chance": 0.3,
+    "chance": 0.20,
     "alpha": 1.0
 }

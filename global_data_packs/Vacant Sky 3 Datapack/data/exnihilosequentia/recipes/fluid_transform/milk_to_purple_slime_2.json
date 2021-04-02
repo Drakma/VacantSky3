@@ -1,0 +1,12 @@
+{
+    "type": "exnihilosequentia:fluid_transform",
+    "fluidInTank": {
+        "fluid": "tconstruct:earth_slime"
+    },
+    "catalyst": {
+        "tag": "forge:storage_blocks/enderium"
+    },
+    "result": {
+        "fluid": "tconstruct:ender_slime"
+    }
+}

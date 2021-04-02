@@ -1,11 +1,14 @@
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
-        "WWW",
+        "WXW",
         "WFW",
         "WWW"
     ],
     "key": {
+        "X": {
+            "item": "compressium:iron_3"
+        },
         "W": {
             "tag": "forge:ingots/steel"
         },

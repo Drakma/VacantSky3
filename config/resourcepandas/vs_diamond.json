@@ -1,0 +1,11 @@
+{
+    "id": "diamond_panda",
+    "name": "Diamond",
+    "inputs": [
+        "tag:forge:storage_blocks/diamond"
+    ],
+    "output": "thermal:diamond_dust",
+    "hexColor": "#18B7DA",
+    "chance": 0.1,
+    "alpha": 1.0
+}
