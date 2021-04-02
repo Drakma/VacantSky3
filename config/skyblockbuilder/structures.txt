@@ -21,9 +21,9 @@ astralsorcery:desert_shrine
 astralsorcery:small_shrine
 elementalcraft:source_altar
 appliedenergistics2:meteorite
+mysticalworld:ruined_hut
 mysticalworld:hut
 mysticalworld:barrow
-mysticalworld:ruined_hut
 tconstruct:overworld_slime_island
 tconstruct:nether_slime_island
 tconstruct:end_slime_island
