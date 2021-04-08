@@ -533,6 +533,9 @@ var removeRecipes = [
   "tconstruct:tables/crafting_station",
   "tconstruct:tables/crafting_station_from_logs",
   "angelring:itemring",
+  "ring_of_growth:ring_of_growth",
+  "ring_of_repair:ring_of_repair",
+  "ring_of_attraction:ring_of_attraction",
 ];
 
 for Recipe in removeRecipes {

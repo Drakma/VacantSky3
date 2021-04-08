@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "BFE",
+        "PCP",
+        "EFB"
+    ],
+    "key": {
+        "C": {
+            "item": "curios:ring"
+        },
+        "B": {
+            "item": "minecraft:bone_meal"
+        },
+        "P": {
+            "item": "thermal:phytogro"
+        },
+        "E": {
+            "item": "xreliquary:fertile_essence"
+        },
+        "F": {
+            "item": "mysticalagriculture:mystical_fertilizer"
+        }
+    },
+    "result": {
+        "item": "ring_of_growth:ring_of_growth"
+    }
+}

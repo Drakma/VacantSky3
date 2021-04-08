@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "LPR",
+        "LCR",
+        "LIR"
+    ],
+    "key": {
+        "C": {
+            "item": "curios:ring"
+        },
+        "P": {
+            "tag": "forge:ingots/copper"
+        },
+        "L": {
+            "tag": "forge:gems/lapis"
+        },
+        "R": {
+            "tag": "forge:dusts/redstone"
+        },
+        "I": {
+            "tag": "forge:ingots/iron"
+        }
+    },
+    "result": {
+        "item": "ring_of_attraction:ring_of_attraction"
+    }
+}

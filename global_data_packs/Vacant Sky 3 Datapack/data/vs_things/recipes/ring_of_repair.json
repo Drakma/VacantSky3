@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "EAD",
+        "MCM",
+        "DAE"
+    ],
+    "key": {
+        "C": {
+            "item": "curios:ring"
+        },
+        "E": {
+            "tag": "forge:gems/emerald"
+        },
+        "D": {
+            "tag": "forge:gems/diamond"
+        },
+        "M": {
+            "item": "cyclic:anvil_magma"
+        },
+        "A": {
+            "item": "minecraft:anvil"
+        }
+    },
+    "result": {
+        "item": "ring_of_repair:ring_of_repair"
+    }
+}
