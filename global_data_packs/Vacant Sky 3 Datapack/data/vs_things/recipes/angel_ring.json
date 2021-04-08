@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "FGF",
+        "HDB",
+        "LGL"
+    ],
+    "key": {
+        "F": {
+            "item": "xreliquary:angelic_feather"
+        },
+        "G": {
+            "item": "productivebees:comb_gold"
+        },
+        "H": {
+            "item": "mysticalagriculture:ghast_essence"
+        },
+        "D": {
+            "item": "angelring:itemdiamondring"
+        },
+        "L": {
+            "item": "mysticalagriculture:blaze_essence"
+        },
+        "B": {
+            "item": "mysticalagriculture:ghast_essence"
+        }
+    },
+    "result": {
+        "item": "angelring:itemring"
+    }
+}

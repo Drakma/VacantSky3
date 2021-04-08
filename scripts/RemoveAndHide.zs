@@ -532,6 +532,7 @@ var removeRecipes = [
   "thermal:press_gear_die",
   "tconstruct:tables/crafting_station",
   "tconstruct:tables/crafting_station_from_logs",
+  "angelring:itemring",
 ];
 
 for Recipe in removeRecipes {
