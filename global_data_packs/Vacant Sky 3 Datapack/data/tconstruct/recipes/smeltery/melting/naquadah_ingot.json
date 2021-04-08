@@ -1,0 +1,12 @@
+{
+    "type": "tconstruct:melting",
+    "ingredient": {
+        "item": "jaopca:silents_mechanisms_chunks.naquadah"
+    },
+    "result": {
+        "fluid": "mekanismmatter:liquid_naquadah",
+        "amount": 144
+    },
+    "temperature": 500,
+    "time": 50
+}

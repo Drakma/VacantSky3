@@ -1,0 +1,11 @@
+{
+    "type": "tconstruct:casting_basin",
+    "fluid": {
+        "name": "mekanismmatter:liquid_naquadah",
+        "amount": 1296
+    },
+    "result": {
+        "item": "mekanismmatter:naquadah_block"
+    },
+    "cooling_time": 200
+}

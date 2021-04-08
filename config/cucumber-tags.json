@@ -15,7 +15,7 @@
   "forge:silicon": "appliedenergistics2:silicon",
   "forge:ingots/brass": "silents_mechanisms:brass_ingot",
   "forge:ingots/silver": "silents_mechanisms:silver_ingot",
-  "forge:dusts/saltpeter": "null",
+  "forge:dusts/saltpeter": "immersiveengineering:dust_saltpeter",
   "forge:ingots/steel": "silents_mechanisms:steel_ingot",
   "forge:ingots/titanium": "null",
   "forge:rubber": "null",

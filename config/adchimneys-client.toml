@@ -14,7 +14,7 @@
 	#Use retro smoke particles instead of modern ones
 	retroSmokeParticles = false
 	#Completely disables vanilla cozy smoke particles from a campfire
-	disableVanillaCampfireSmoke = true
+	disableVanillaCampfireSmoke = false
 
 [MaterialGroups]
 

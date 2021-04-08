@@ -1,0 +1,14 @@
+{
+    "type": "tconstruct:casting_table",
+    "cast": {
+        "item": "tconstruct:ingot_cast"
+    },
+    "fluid": {
+        "name": "mekanismmatter:liquid_naquadah",
+        "amount": 144
+    },
+    "result": {
+        "item": "mekanismmatter:naquadah"
+    },
+    "cooling_time": 120
+}

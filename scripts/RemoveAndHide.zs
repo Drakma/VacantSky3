@@ -1,4 +1,5 @@
 import crafttweaker.api.BracketHandlers;
+import crafttweaker.api.tag.MCTag;
 
 /* ========================================================================== */
 /* Remove & Hide By Item                                                        */
@@ -228,20 +229,6 @@ var removeandhideItems = [
   <item:thermal:invar_dust>,
   <item:thermal:lumium_dust>,
   <item:thermal:signalum_dust>,
-  <item:grinder:grindstone_iesnium>,
-  <item:grinder:grindstone_tungsten>,
-  <item:grinder:grindstone_starmetal>,
-  <item:grinder:grindstone_rainbow>,
-  <item:grinder:grindstone_zitrite>,
-  <item:grinder:grindstone_ardite>,
-  <item:grinder:grindstone_neptunium>,
-  <item:grinder:tungsten_dust>,
-  <item:grinder:starmetal_dust>,
-  <item:grinder:iesnium_dust>,
-  <item:grinder:rainbow_dust>,
-  <item:grinder:zitrite_dust>,
-  <item:grinder:ardite_dust>,
-  <item:grinder:neptunium_dust>,
   <item:tconstruct:blood_slime_grass_seeds>,
   <item:tconstruct:ender_slime_grass_seeds>,
   <item:tconstruct:sky_slime_grass_seeds>,

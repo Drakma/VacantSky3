@@ -2,7 +2,7 @@
 #Client Config. This config only exists on the client
 [client]
 	#Play sounds for Jetpack/Gas Mask/Flamethrower/Radiation (all players).
-	enablePlayerSounds = true
+	enablePlayerSounds = false
 	#If enabled machines play their sounds while running.
 	enableMachineSounds = true
 	#Christmas/New Years greetings in chat.
