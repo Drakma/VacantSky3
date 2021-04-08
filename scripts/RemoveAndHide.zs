@@ -1,6 +1,10 @@
 import crafttweaker.api.BracketHandlers;
 import crafttweaker.api.tag.MCTag;
 
+<recipetype:minecraft:blasting>.removeByName("silents_mechanisms:blasting/steel_ingot");
+<recipetype:mekanism:metallurgic_infusing>.removeByName("mekanism:processing/steel/enriched_iron_to_dust");
+#<recipetype:silents_mechanisms:alloy_smelting>.removeByName("silents_mechanisms:alloy_smelting/steel_ingot");
+
 /* ========================================================================== */
 /* Remove & Hide By Item                                                        */
 /* ========================================================================== */
@@ -257,12 +261,39 @@ var removeandhideItems = [
   <item:tconstruct:sky_slime_vine>,
   <item:tconstruct:cobalt_ore>,
   <item:tconstruct:copper_ore>,
+  <item:silents_mechanisms:steel_ingot>,
+  <item:excompressum:compressed_hammer_wood>,
+  <item:excompressum:compressed_hammer_stone>,
+  <item:excompressum:compressed_hammer_iron>,
+  <item:excompressum:compressed_hammer_gold>,
+  <item:excompressum:compressed_hammer_diamond>,
+  <item:excompressum:compressed_hammer_netherite>,
+  <item:excompressum:iron_mesh>,
+  <item:excompressum:compressed_dust>,
+  <item:excompressum:compressed_cobblestone>,
+  <item:excompressum:compressed_gravel>,
+  <item:excompressum:compressed_sand>,
+  <item:excompressum:compressed_dirt>,
+  <item:excompressum:compressed_flint>,
+  <item:excompressum:compressed_nether_gravel>,
+  <item:excompressum:compressed_ender_gravel>,
+  <item:excompressum:compressed_soul_sand>,
+  <item:excompressum:compressed_netherrack>,
+  <item:excompressum:compressed_end_stone>,
+  <item:excompressum:compressed_diorite>,
+  <item:excompressum:compressed_andesite>,
+  <item:excompressum:compressed_granite>,
+  <item:excompressum:compressed_crushed_diorite>,
+  <item:excompressum:compressed_crushed_andesite>,
+  <item:excompressum:compressed_crushed_granite>,
 ];
 
 for Item in removeandhideItems {
   craftingTable.removeRecipe(Item);
   mods.jei.JEI.hideItem(Item);
 }
+
+<tag:items:forge:ingots/steel>.remove(<item:silents_mechanisms:steel_ingot>);
 
 /* ========================================================================== */
 /* Remove & Hide By Item                                                        */
