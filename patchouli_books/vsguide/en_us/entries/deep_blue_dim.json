@@ -1,0 +1,11 @@
+{
+    "name": "Deep Blue",
+    "icon": "minecraft:cod",
+    "category": "dimensions",
+    "sortnum": 1001,
+
+    "pages": [{
+        "type": "text",
+        "text": "Small sand bars and vast oceans.  Get your fish on."
+    }]
+}

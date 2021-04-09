@@ -343,7 +343,7 @@
 #Worldgen config
 [worldgen]
 	#Disable all elementalcraft world gen.
-	disableWorldGen = false
+	disableWorldGen = true
 	#Chance to add a source in world (the small the more frequante).
 	#Range: 1 ~ 10000
 	sourceSpawnChance = 30

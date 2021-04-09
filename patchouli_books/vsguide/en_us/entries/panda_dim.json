@@ -1,0 +1,10 @@
+{
+    "name": "Panda Sanctuary",
+    "icon": "minecraft:bamboo",
+    "category": "dimensions",
+    "sortnum": 1004,
+    "pages": [{
+        "type": "text",
+        "text": "The Panda Sanctuary is a safe place for the Pandas to live without fear of predatorys."
+    }]
+}

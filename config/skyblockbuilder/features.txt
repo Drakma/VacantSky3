@@ -141,3 +141,4 @@ appliedenergistics2:charged_quartz_ore
 mekanismmatter:naquadah_ore
 mysticalagriculture:soulstone
 tconstruct:slime_tree
+vs_things:inferium_lakes

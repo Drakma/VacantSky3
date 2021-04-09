@@ -1,0 +1,10 @@
+{
+    "name": "It's Always Sunny",
+    "icon": "minecraft:sand",
+    "category": "dimensions",
+    "sortnum": 1005,
+    "pages": [{
+        "type": "text",
+        "text": "This hot and dry dimension is useful for finding oil."
+    }]
+}

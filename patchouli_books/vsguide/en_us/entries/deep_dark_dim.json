@@ -1,0 +1,10 @@
+{
+    "name": "Deep Dark",
+    "icon": "minecraft:ice",
+    "category": "dimensions",
+    "sortnum": 1002,
+    "pages": [{
+        "type": "text",
+        "text": "Dark and cold.  Not much can survive here.  Come here for all your chilling needs."
+    }]
+}

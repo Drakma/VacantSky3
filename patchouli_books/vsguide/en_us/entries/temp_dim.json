@@ -1,0 +1,10 @@
+{
+    "name": "Temperate Paradise",
+    "icon": "minecraft:grass_block",
+    "category": "dimensions",
+    "sortnum": 1006,
+    "pages": [{
+        "type": "text",
+        "text": "You'll find plenty of peaceful creatures inhabiting this paradise.  What lurks deep inside the Echanted Forest?"
+    }]
+}

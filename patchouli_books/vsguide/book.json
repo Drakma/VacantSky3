@@ -1,0 +1,9 @@
+{
+    "name": "Vacant Sky Guide",
+    "landing_text": "In this guide you will find information needed to complete certain tasks.  Not all things are in JEI and you will need this book to advance.",
+    "version": 1,
+    "book_texture": "patchouli:textures/gui/book_purple.png",
+    "show_progress": "false",
+    "show_toasts": "false",
+    "model": "patchouli:book_purple"
+}

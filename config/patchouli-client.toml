@@ -9,5 +9,5 @@
 	#Set this to the ID of a book to have it show up in players' inventories, replacing the recipe book.
 	"Inventory Button Book" = ""
 	#Enable testing mode. By default this doesn't do anything, but you can use the config flag in your books if you want. Config Flag: testing_mode
-	"Testing Mode" = false
+	"Testing Mode" = true
 

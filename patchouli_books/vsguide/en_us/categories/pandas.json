@@ -1,0 +1,6 @@
+{
+    "name": "Panda Crafting",
+    "description": "Feeding pandas certain items will make them produce resources for you.  Visit the Panda Dimension or craft a panda egg to get started",
+    "icon": "minecraft:panda_spawn_egg",
+    "sortnum": 3000
+}

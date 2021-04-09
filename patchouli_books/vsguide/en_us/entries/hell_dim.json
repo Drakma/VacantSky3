@@ -1,0 +1,10 @@
+{
+    "name": "Hell",
+    "icon": "minecraft:netherrack",
+    "category": "dimensions",
+    "sortnum": 1003,
+    "pages": [{
+        "type": "text",
+        "text": "Hot and Hellish.  Mob free for your hot crafting needs."
+    }]
+}

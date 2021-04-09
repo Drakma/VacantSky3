@@ -1,0 +1,10 @@
+{
+    "name": "Nothing to See Here",
+    "icon": "minecraft:black_stained_glass",
+    "category": "dimensions",
+    "sortnum": 1007,
+    "pages": [{
+        "type": "text",
+        "text": "You'll find plenty of peaceful creatures inhabiting this paradise.  What lurks deep inside the Echanted Forest?"
+    }]
+}
