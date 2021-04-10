@@ -6,7 +6,7 @@
 	[oregen.Copper_oregen]
 		#Number of veins per chunk (set to 0 to disable).
 		#Range: 0 ~ 256
-		oreChances = 8
+		oreChances = 0
 		#Max size of the vein.
 		#Range: 1 ~ 256
 		veinSize = 12
@@ -23,7 +23,7 @@
 	[oregen.Tin_oregen]
 		#Number of veins per chunk (set to 0 to disable).
 		#Range: 0 ~ 256
-		oreChances = 8
+		oreChances = 0
 		#Max size of the vein.
 		#Range: 1 ~ 256
 		veinSize = 8
@@ -40,7 +40,7 @@
 	[oregen.Silver_oregen]
 		#Number of veins per chunk (set to 0 to disable).
 		#Range: 0 ~ 256
-		oreChances = 4
+		oreChances = 0
 		#Max size of the vein.
 		#Range: 1 ~ 256
 		veinSize = 8
@@ -57,7 +57,7 @@
 	[oregen.Lead_oregen]
 		#Number of veins per chunk (set to 0 to disable).
 		#Range: 0 ~ 256
-		oreChances = 4
+		oreChances = 0
 		#Max size of the vein.
 		#Range: 1 ~ 256
 		veinSize = 8
@@ -74,7 +74,7 @@
 	[oregen.Quicksilver_oregen]
 		#Number of veins per chunk (set to 0 to disable).
 		#Range: 0 ~ 256
-		oreChances = 3
+		oreChances = 0
 		#Max size of the vein.
 		#Range: 1 ~ 256
 		veinSize = 4
@@ -91,7 +91,7 @@
 	[oregen.Amethyst_oregen]
 		#Number of veins per chunk (set to 0 to disable).
 		#Range: 0 ~ 256
-		oreChances = 4
+		oreChances = 0
 		#Max size of the vein.
 		#Range: 1 ~ 256
 		veinSize = 3
@@ -108,7 +108,7 @@
 	[oregen.Quartz_oregen]
 		#Number of veins per chunk (set to 0 to disable).
 		#Range: 0 ~ 256
-		oreChances = 13
+		oreChances = 0
 		#Max size of the vein.
 		#Range: 1 ~ 256
 		veinSize = 4
@@ -128,7 +128,7 @@
 	[mob_spawns.Deer_spawn]
 		#Chance to spawn (set to 0 to disable).
 		#Range: 0 ~ 256
-		spawnChance = 6
+		spawnChance = 20
 		#Min to spawn in a group.
 		#Range: 0 ~ 256
 		min = 2
@@ -142,7 +142,7 @@
 	[mob_spawns.Sprout_spawn]
 		#Chance to spawn (set to 0 to disable).
 		#Range: 0 ~ 256
-		spawnChance = 2
+		spawnChance = 10
 		#Min to spawn in a group.
 		#Range: 0 ~ 256
 		min = 2
@@ -156,7 +156,7 @@
 	[mob_spawns."Hell Sprout_spawn"]
 		#Chance to spawn (set to 0 to disable).
 		#Range: 0 ~ 256
-		spawnChance = 2
+		spawnChance = 10
 		#Min to spawn in a group.
 		#Range: 0 ~ 256
 		min = 1
@@ -229,7 +229,7 @@
 	[mob_spawns.Owl_spawn]
 		#Chance to spawn (set to 0 to disable).
 		#Range: 0 ~ 256
-		spawnChance = 9
+		spawnChance = 30
 		#Min to spawn in a group.
 		#Range: 0 ~ 256
 		min = 1
@@ -237,7 +237,7 @@
 		#Range: 0 ~ 256
 		max = 3
 		#List of biome types to spawn.
-		biomes = "taiga,extreme_hills,forest,icy,"
+		biomes = "taiga,extreme_hills,forest,icy,plains"
 
 	#Lava Cat spawn config.
 	[mob_spawns."Lava Cat_spawn"]

@@ -3,7 +3,7 @@ import crafttweaker.api.tag.MCTag;
 
 <recipetype:minecraft:blasting>.removeByName("silents_mechanisms:blasting/steel_ingot");
 <recipetype:mekanism:metallurgic_infusing>.removeByName("mekanism:processing/steel/enriched_iron_to_dust");
-#<recipetype:silents_mechanisms:alloy_smelting>.removeByName("silents_mechanisms:alloy_smelting/steel_ingot");
+<recipetype:silents_mechanisms:alloy_smelting>.removeByName("silents_mechanisms:alloy_smelting/steel_ingot");
 
 /* ========================================================================== */
 /* Remove & Hide By Item                                                        */
@@ -493,18 +493,6 @@ var removeRecipes = [
   "thermal:fire_charge/invar_ingot_3",
   "thermal:fire_charge/lumium_ingot_4",
   "thermal:fire_charge/signalum_ingot_4",
-#  "thermal:storage/bronze_ingot",
-#  "thermal:storage/constantan_ingot",
-#  "thermal:storage/copper_ingot",
-#  "thermal:storage/electrum_ingot",
-#  "thermal:storage/enderium_ingot",
-#  "thermal:storage/invar_ingot",
-#  "thermal:storage/lead_ingot",
-#  "thermal:storage/lumium_ingot",
-#  "thermal:storage/nickel_ingot",
-#  "thermal:storage/signalum_ingot",
-#  "thermal:storage/silver_ingot",
-#  "thermal:storage/tin_ingot",
   "torcherino:compressed_torcherino",
   "torcherino:double_compressed_torcherino",
   "torcherino:torcherino",

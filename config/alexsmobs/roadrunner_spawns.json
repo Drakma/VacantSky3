@@ -1,28 +1,37 @@
 {
-  "biomes": [
-    [
-      {
-        "type": "BIOME_DICT",
-        "negate": false,
-        "value": "overworld"
-      },
-      {
-        "type": "BIOME_DICT",
-        "negate": false,
-        "value": "mesa"
-      }
-    ],
-    [
-      {
-        "type": "BIOME_DICT",
-        "negate": false,
-        "value": "overworld"
-      },
-      {
-        "type": "BIOME_CATEGORY",
-        "negate": false,
-        "value": "desert"
-      }
+    "biomes": [
+        [{
+            "type": "REGISTRY_NAME",
+            "negate": false,
+            "value": "vs_things:sunny"
+        }],
+        [{
+            "type": "REGISTRY_NAME",
+            "negate": false,
+            "value": "vs_things:sunny_2"
+        }],
+
+        [{
+                "type": "BIOME_DICT",
+                "negate": false,
+                "value": "overworld"
+            },
+            {
+                "type": "BIOME_DICT",
+                "negate": false,
+                "value": "mesa"
+            }
+        ],
+        [{
+                "type": "BIOME_DICT",
+                "negate": false,
+                "value": "overworld"
+            },
+            {
+                "type": "BIOME_CATEGORY",
+                "negate": false,
+                "value": "desert"
+            }
+        ]
     ]
-  ]
 }

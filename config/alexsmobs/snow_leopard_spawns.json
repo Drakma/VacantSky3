@@ -1,21 +1,32 @@
 {
-  "biomes": [
-    [
-      {
-        "type": "BIOME_DICT",
-        "negate": false,
-        "value": "overworld"
-      },
-      {
-        "type": "BIOME_DICT",
-        "negate": false,
-        "value": "mountain"
-      },
-      {
-        "type": "BIOME_DICT",
-        "negate": false,
-        "value": "snowy"
-      }
+    "biomes": [
+        [{
+            "type": "REGISTRY_NAME",
+            "negate": false,
+            "value": "vs_things:deep_freeze"
+        }],
+        [{
+            "type": "REGISTRY_NAME",
+            "negate": false,
+            "value": "vs_things:deep_freeze_2"
+        }],
+
+
+        [{
+                "type": "BIOME_DICT",
+                "negate": false,
+                "value": "overworld"
+            },
+            {
+                "type": "BIOME_DICT",
+                "negate": false,
+                "value": "mountain"
+            },
+            {
+                "type": "BIOME_DICT",
+                "negate": false,
+                "value": "snowy"
+            }
+        ]
     ]
-  ]
 }

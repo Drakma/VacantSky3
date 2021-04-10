@@ -3,11 +3,11 @@
 
 	[dimensions.nether]
 		#Should nether generate as in default world type? [default: false]
-		default = false
+		default = true
 
 	[dimensions.end]
 		#Should end generate as in default world type? [default: false]
-		default = false
+		default = true
 		#Should the main island be generated as normal? [default: true]
 		main-island = true
 
@@ -73,7 +73,7 @@
 	[world.single-biome]
 		#Should only one biome be generated? [default: false]
 		#WARNING: Some structures need a special biome, e.g. Mansion needs Dark Oak Forest! These structures will not be generated if you have only one biome!
-		enabled = false
+		enabled = true
 		#Specifies the biome for the whole world
 		biome = "minecraft:plains"
 

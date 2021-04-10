@@ -1,33 +1,37 @@
 {
-  "biomes": [
-    [
-      {
-        "type": "BIOME_DICT",
-        "negate": false,
-        "value": "overworld"
-      },
-      {
-        "type": "BIOME_DICT",
-        "negate": false,
-        "value": "beach"
-      }
-    ],
-    [
-      {
-        "type": "BIOME_DICT",
-        "negate": false,
-        "value": "overworld"
-      },
-      {
-        "type": "BIOME_DICT",
-        "negate": false,
-        "value": "ocean"
-      },
-      {
-        "type": "BIOME_DICT",
-        "negate": false,
-        "value": "snowy"
-      }
+    "biomes": [
+        [{
+            "type": "REGISTRY_NAME",
+            "negate": false,
+            "value": "vs_things:deep_blue"
+        }],
+
+        [{
+                "type": "BIOME_DICT",
+                "negate": false,
+                "value": "overworld"
+            },
+            {
+                "type": "BIOME_DICT",
+                "negate": false,
+                "value": "beach"
+            }
+        ],
+        [{
+                "type": "BIOME_DICT",
+                "negate": false,
+                "value": "overworld"
+            },
+            {
+                "type": "BIOME_DICT",
+                "negate": false,
+                "value": "ocean"
+            },
+            {
+                "type": "BIOME_DICT",
+                "negate": false,
+                "value": "snowy"
+            }
+        ]
     ]
-  ]
 }
