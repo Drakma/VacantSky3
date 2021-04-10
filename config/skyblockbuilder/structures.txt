@@ -16,14 +16,14 @@ minecraft:buried_treasure
 minecraft:village
 minecraft:nether_fossil
 minecraft:bastion_remnant
+mysticalworld:hut
+mysticalworld:barrow
+mysticalworld:ruined_hut
 astralsorcery:ancient_shrine
 astralsorcery:desert_shrine
 astralsorcery:small_shrine
 elementalcraft:source_altar
 appliedenergistics2:meteorite
-mysticalworld:ruined_hut
-mysticalworld:barrow
-mysticalworld:hut
 tconstruct:overworld_slime_island
 tconstruct:nether_slime_island
 tconstruct:end_slime_island
