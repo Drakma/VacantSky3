@@ -17,8 +17,8 @@ minecraft:village
 minecraft:nether_fossil
 minecraft:bastion_remnant
 mysticalworld:hut
-mysticalworld:barrow
 mysticalworld:ruined_hut
+mysticalworld:barrow
 astralsorcery:ancient_shrine
 astralsorcery:desert_shrine
 astralsorcery:small_shrine

@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "LSL",
+        "SBS",
+        "LSL"
+    ],
+    "key": {
+        "L": {
+            "tag": "forge:leather"
+        },
+        "S": {
+            "tag": "forge:string"
+        },
+        "B": {
+            "tag": "forge:barrels"
+        }
+    },
+    "result": {
+        "item": "cyclic:cask"
+    }
+}

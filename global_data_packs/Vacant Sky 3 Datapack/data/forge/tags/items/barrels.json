@@ -1,0 +1,13 @@
+{
+    "replace": false,
+    "values": [
+        "crumbs:warped_barrel",
+        "minecraft:barrel",
+        "crumbs:birch_barrel",
+        "crumbs:jungle_barrel",
+        "crumbs:acacia_barrel",
+        "crumbs:dark_oak_barrel",
+        "crumbs:oak_barrel",
+        "crumbs:crimson_barrel"
+    ]
+}

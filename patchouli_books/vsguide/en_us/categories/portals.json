@@ -1,6 +1,6 @@
 {
-    "name": "Portals",
-    "description": "How to Construct the Portals",
-    "icon": "minecraft:end_portal_frame",
-    "sortnum": 2000
+    "name": "Teams",
+    "description": "How to set up teams on a server",
+    "icon": "minecraft:golden_chestplate",
+    "sortnum": 4000
 }

@@ -524,6 +524,10 @@ var removeRecipes = [
   "ring_of_growth:ring_of_growth",
   "ring_of_repair:ring_of_repair",
   "ring_of_attraction:ring_of_attraction",
+  "dankstorage:1",
+  "storagenetwork:import_filter_kabel",
+  "cyclic:cask",
+  "engineersdecor:independent/fluid_barrel_recipe",
 ];
 
 for Recipe in removeRecipes {

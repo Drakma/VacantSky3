@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " M ",
+        "MBM",
+        " M "
+    ],
+    "key": {
+        "M": {
+            "item": "storagenetwork:import_kabel"
+        },
+        "B": {
+            "tag": "forge:barrels"
+        }
+    },
+    "result": {
+        "item": "storagenetwork:import_filter_kabel",
+        "count": 4
+    }
+}
