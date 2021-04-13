@@ -3,7 +3,7 @@ import crafttweaker.api.tag.MCTag;
 
 <recipetype:minecraft:blasting>.removeByName("silents_mechanisms:blasting/steel_ingot");
 <recipetype:mekanism:metallurgic_infusing>.removeByName("mekanism:processing/steel/enriched_iron_to_dust");
-<recipetype:silents_mechanisms:alloy_smelting>.removeByName("silents_mechanisms:alloy_smelting/steel_ingot");
+# <recipetype:silents_mechanisms:alloy_smelting>.removeByName("silents_mechanisms:alloy_smelting/steel_ingot");
 
 /* ========================================================================== */
 /* Remove & Hide By Item                                                        */
@@ -528,6 +528,8 @@ var removeRecipes = [
   "storagenetwork:import_filter_kabel",
   "cyclic:cask",
   "engineersdecor:independent/fluid_barrel_recipe",
+  "itemcollectors:advanced_collector",
+  "itemcollectors:basic_collector",
 ];
 
 for Recipe in removeRecipes {

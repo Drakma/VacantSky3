@@ -1,0 +1,17 @@
+{
+    "type": "tconstruct:alloy",
+    "inputs": [{
+            "name": "vs_things:imperium",
+            "amount": 1000
+        },
+        {
+            "name": "tconstruct:molten_ender",
+            "amount": 1000
+        }
+    ],
+    "result": {
+        "fluid": "vs_things:drakonium",
+        "amount": 1000
+    },
+    "temperature": 1000
+}

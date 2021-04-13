@@ -1,0 +1,12 @@
+{
+    "type": "tconstruct:melting",
+    "ingredient": {
+        "item": "mysticalagriculture:imperium_block"
+    },
+    "result": {
+        "fluid": "vs_things:imperium",
+        "amount": 1000
+    },
+    "temperature": 1000,
+    "time": 240
+}

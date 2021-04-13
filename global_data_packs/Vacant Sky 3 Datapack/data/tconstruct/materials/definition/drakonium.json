@@ -1,0 +1,13 @@
+{
+    "craftable": false,
+    "tier": 4,
+    "sortOrder": 0,
+    "fluid": "vs_things:drakonium",
+    "fluidPerUnit": 250,
+    "textColor": "#34401F",
+    "temperature": 800,
+    "traits": [{
+        "name": "tconstruct:reinforced",
+        "level": 3
+    }]
+}

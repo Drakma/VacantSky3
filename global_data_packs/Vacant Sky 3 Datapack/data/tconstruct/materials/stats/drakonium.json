@@ -1,0 +1,21 @@
+{
+    "materialId": "tconstruct:drakonium",
+    "stats": [{
+            "id": "tconstruct:head",
+            "durability": 1950,
+            "miningSpeed": 3.0,
+            "harvestLevel": 5,
+            "attack": 12.0
+        },
+        {
+            "id": "tconstruct:handle",
+            "durability": 2.5,
+            "miningSpeed": 1.8,
+            "attackSpeed": 1.0,
+            "attackDamage": 1.0
+        },
+        {
+            "id": "tconstruct:extra"
+        }
+    ]
+}
