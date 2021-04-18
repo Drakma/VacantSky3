@@ -16,7 +16,7 @@
             "item": "silents_mechanisms:alloy_machine_frame"
         },
         "S": {
-            "tag": "forge:ingots/steel"
+            "item": "immersiveengineering:ingot_steel"
         }
     }
 }

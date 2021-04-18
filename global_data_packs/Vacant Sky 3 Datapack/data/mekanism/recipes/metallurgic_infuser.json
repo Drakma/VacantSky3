@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "result": {
+        "item": "mekanism:metallurgic_infuser"
+    },
+    "pattern": [
+        "OFO",
+        "RSR",
+        "OFO"
+    ],
+    "key": {
+        "F": {
+            "tag": "forge:furnaces/emerald"
+        },
+        "O": {
+            "tag": "forge:ingots/osmium"
+        },
+        "R": {
+            "tag": "forge:ingots/redstone_alloy"
+        },
+        "S": {
+            "item": "mekanism:steel_casing"
+        }
+    }
+}

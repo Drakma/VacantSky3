@@ -1,7 +1,7 @@
 {
     "type": "exnihilosequentia:fluid_item",
     "fluid": {
-        "fluid": "industrialforegoing:milk"
+        "fluid": "minecraft:milk"
     },
     "input": {
         "item": "minecraft:stone"

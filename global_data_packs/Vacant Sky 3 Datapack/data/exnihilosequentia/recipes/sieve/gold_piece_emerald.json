@@ -1,0 +1,16 @@
+{
+    "type": "exnihilosequentia:sieve",
+    "rolls": [{
+        "chance": 0.50,
+        "mesh": "emerald"
+    }, {
+        "chance": 0.60,
+        "mesh": "netherite"
+    }],
+    "input": {
+        "item": "exnihilosequentia:crushed_netherrack"
+    },
+    "result": {
+        "item": "exnihilosequentia:piece_gold"
+    }
+}

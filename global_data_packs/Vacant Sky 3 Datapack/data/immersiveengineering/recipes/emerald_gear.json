@@ -1,0 +1,16 @@
+{
+    "type": "immersiveengineering:metal_press",
+    "mold": {
+        "item": "immersiveengineering:mold_gear"
+    },
+    "result": {
+        "item": "thermal:emerald_gear"
+    },
+    "input": {
+        "count": 8,
+        "base_ingredient": {
+            "tag": "forge:gems/emerald"
+        }
+    },
+    "energy": 2400
+}

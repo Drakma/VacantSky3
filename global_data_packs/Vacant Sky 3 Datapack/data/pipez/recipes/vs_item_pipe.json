@@ -7,7 +7,7 @@
     ],
     "key": {
         "I": {
-            "tag": "forge:ingots/iron"
+            "tag": "forge:plates/iron"
         },
         "C": {
             "tag": "forge:chests"
@@ -18,6 +18,6 @@
     },
     "result": {
         "item": "pipez:item_pipe",
-        "count": 16
+        "count": 8
     }
 }

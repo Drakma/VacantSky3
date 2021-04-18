@@ -1,0 +1,13 @@
+{
+    "type": "silents_mechanisms:compressing",
+    "process_time": 400,
+    "ingredient": {
+        "value": {
+            "tag": "forge:sand/red"
+        },
+        "count": 4
+    },
+    "result": {
+        "item": "minecraft:red_sandstone"
+    }
+}

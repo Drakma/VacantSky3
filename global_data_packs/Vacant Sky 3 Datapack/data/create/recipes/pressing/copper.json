@@ -1,0 +1,9 @@
+{
+    "type": "create:pressing",
+    "ingredients": [{
+        "tag": "forge:ingots/copper"
+    }],
+    "results": [{
+        "item": "thermal:copper_plate"
+    }]
+}

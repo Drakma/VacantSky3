@@ -8,7 +8,7 @@
     "form": {
         "type": "imm_ptl:flipping_floor_square",
         "length": 2,
-        "frame_block": "minecraft:nether_bricks",
+        "frame_block": "minecraft:obsidian",
         "area_block": "minecraft:lava",
         "generate_frame_if_not_found": true
     },

@@ -4,7 +4,7 @@
         "item": "tconstruct:gem_cast"
     },
     "fluid": {
-        "name": "tconstruct:molten_pearl",
+        "name": "tconstruct:molten_ender",
         "amount": 250
     },
     "result": "minecraft:ender_pearl",

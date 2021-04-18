@@ -3,7 +3,130 @@ import crafttweaker.api.tag.MCTag;
 
 <recipetype:minecraft:blasting>.removeByName("silents_mechanisms:blasting/steel_ingot");
 <recipetype:mekanism:metallurgic_infusing>.removeByName("mekanism:processing/steel/enriched_iron_to_dust");
-# <recipetype:silents_mechanisms:alloy_smelting>.removeByName("silents_mechanisms:alloy_smelting/steel_ingot");
+
+/* ========================================================================== */
+/* Remove & Hide Thermal Press Gears                                          */
+/* ========================================================================== */
+var removeandhideGears = [
+  "thermal:machine/press/press_iron_ingot_to_gear",
+  "thermal:machine/press/press_gold_ingot_to_gear",
+  "thermal:machine/press/press_copper_ingot_to_gear",
+  "thermal:machine/press/press_tin_ingot_to_gear",
+  "thermal:machine/press/press_lead_ingot_to_gear",
+  "thermal:machine/press/press_silver_ingot_to_gear",
+  "thermal:machine/press/press_nickel_ingot_to_gear",
+  "thermal:machine/press/press_bronze_ingot_to_gear",
+  "thermal:machine/press/press_electrum_ingot_to_gear",
+  "thermal:machine/press/press_invar_ingot_to_gear",
+  "thermal:machine/press/press_constantan_ingot_to_gear",
+  "thermal:machine/press/press_signalum_ingot_to_gear",
+  "thermal:machine/press/press_lumium_ingot_to_gear",
+  "thermal:machine/press/press_enderium_ingot_to_gear",
+];
+
+for Item in removeandhideGears {
+  <recipetype:thermal:press>.removeByName(Item);
+}
+
+<recipetype:immersiveengineering:metal_press>.removeByName("immersiveengineering:metalpress/gear_gold");
+<recipetype:immersiveengineering:metal_press>.removeByName("immersiveengineering:metalpress/gear_iron");
+
+/* ========================================================================== */
+/* Remove & Hide Thermal Press Gears                                          */
+/* ========================================================================== */
+var removeandhidePlates = [
+  "thermal:machine/press/press_iron_ingot_to_plate",
+  "thermal:machine/press/press_gold_ingot_to_plate",
+  "thermal:machine/press/press_copper_ingot_to_plate",
+  "thermal:machine/press/press_tin_ingot_to_plate",
+  "thermal:machine/press/press_lead_ingot_to_plate",
+  "thermal:machine/press/press_silver_ingot_to_plate",
+  "thermal:machine/press/press_nickel_ingot_to_plate",
+  "thermal:machine/press/press_bronze_ingot_to_plate",
+  "thermal:machine/press/press_electrum_ingot_to_plate",
+  "thermal:machine/press/press_invar_ingot_to_plate",
+  "thermal:machine/press/press_constantan_ingot_to_plate",
+  "thermal:machine/press/press_signalum_ingot_to_plate",
+  "thermal:machine/press/press_lumium_ingot_to_plate",
+  "thermal:machine/press/press_enderium_ingot_to_plate",
+  "jaopca:thermal_expansion.material_to_plate.aluminum",
+  "jaopca:thermal_expansion.material_to_plate.steel",
+  "jaopca:thermal_expansion.material_to_plate.brass",
+  "thermal:compat/immersiveengineering/press_ie_uranium_ingot_to_plate",
+];
+
+for Item in removeandhidePlates {
+  <recipetype:thermal:press>.removeByName(Item);
+}
+
+var removeandhidePlates2 = [
+  "immersiveengineering:metalpress/plate_copper",
+  "immersiveengineering:metalpress/plate_brass",
+  "immersiveengineering:metalpress/plate_aluminum",
+  "immersiveengineering:metalpress/plate_lead",
+  "immersiveengineering:metalpress/plate_silver",
+  "immersiveengineering:metalpress/plate_nickel",
+  "immersiveengineering:metalpress/plate_uranium",
+  "immersiveengineering:metalpress/plate_constantan",
+  "immersiveengineering:metalpress/plate_electrum",
+  "immersiveengineering:metalpress/plate_steel",
+  "immersiveengineering:metalpress/plate_iron",
+  "immersiveengineering:metalpress/plate_gold",
+  "immersiveengineering:metalpress/plate_invar",
+  "immersiveengineering:metalpress/plate_bronze",
+  "immersiveengineering:metalpress/plate_tin",
+  "jaopca:immersiveengineering.material_to_plate_press.lumium",
+  "jaopca:immersiveengineering.material_to_plate_press.signalum",
+  "jaopca:immersiveengineering.material_to_plate_press.enderium",
+];
+
+for Item in removeandhidePlates2 {
+  <recipetype:immersiveengineering:metal_press>.removeByName(Item);
+}
+
+
+var removeImmersiveAlloys = [
+  "immersiveengineering:alloysmelter/manyullyn",
+  "immersiveengineering:alloysmelter/brass",
+  "immersiveengineering:alloysmelter/rose_gold",
+  "immersiveengineering:alloysmelter/invar",
+  "immersiveengineering:alloysmelter/constantan",
+  "immersiveengineering:alloysmelter/electrum",
+  "immersiveengineering:alloysmelter/bronze",
+];
+
+for Item in removeImmersiveAlloys {
+  <recipetype:immersiveengineering:alloy>.removeByName(Item);
+}
+
+
+var removeImmersiveSilentsAlloy = [
+  "silents_mechanisms:alloy_smelting/steel_ingot",
+  "silents_mechanisms:alloy_smelting/bronze_ingot",
+  "silents_mechanisms:alloy_smelting/electrum_ingot",
+  "silents_mechanisms:alloy_smelting/signalum_ingot",
+  "silents_mechanisms:alloy_smelting/enderium_ingot",
+  "silents_mechanisms:alloy_smelting/lumium_ingot",
+];
+
+for Item in removeImmersiveSilentsAlloy {
+<recipetype:silents_mechanisms:alloy_smelting>.removeByName(Item);
+}
+
+var removeExNihiloFluidItem = [
+  "exnihilosequentia:fluid_item/ens_end_stone",
+  "exnihilosequentia:fluid_item/ens_soul_sand",
+  "exnihilosequentia:fluid_item/ens_netherrack",
+  "exnihilosequentia:fluid_item/ens_slime",
+];
+
+for Item in removeExNihiloFluidItem {
+  <recipetype:exnihilosequentia:fluid_item>.removeByName(Item);
+}
+
+
+<recipetype:appliedenergistics2:grinder>.removeByName("jaopca:appliedenergistics2.material_to_dust.diamond");
+<recipetype:minecraft:smithing>.removeByName("exnihilosequentia:ens_mesh_netherite");
 
 /* ========================================================================== */
 /* Remove & Hide By Item                                                        */
@@ -286,6 +409,9 @@ var removeandhideItems = [
   <item:excompressum:compressed_crushed_diorite>,
   <item:excompressum:compressed_crushed_andesite>,
   <item:excompressum:compressed_crushed_granite>,
+  <item:thermal:press_gear_die>,
+  <item:immersiveengineering:alloybrick>,
+  <item:immersiveengineering:slab_alloybrick>,
 ];
 
 for Item in removeandhideItems {
@@ -382,6 +508,27 @@ var removeItems = [
   <item:mythicbotany:wither_aconite_floating>,
   <item:projecte:philosophers_stone>,
   <item:thermal:ruby_block>,
+  <item:thermal:tin_plate>,
+  <item:thermal:bronze_plate>,
+  <item:thermal:invar_plate>,
+  <item:thermal:signalum_plate>,
+  <item:thermal:lumium_plate>,
+  <item:thermal:enderium_plate>,
+  <item:immersiveengineering:plate_copper>,
+  <item:immersiveengineering:plate_aluminum>,
+  <item:immersiveengineering:plate_lead>,
+  <item:immersiveengineering:plate_silver>,
+  <item:immersiveengineering:plate_nickel>,
+  <item:immersiveengineering:plate_uranium>,
+  <item:immersiveengineering:plate_constantan>,
+  <item:immersiveengineering:plate_electrum>,
+  <item:immersiveengineering:plate_steel>,
+  <item:immersiveengineering:plate_iron>,
+  <item:immersiveengineering:plate_gold>,
+  <item:create:brass_sheet>,
+  <item:exnihilosequentia:mesh_emerald>,
+  <item:minecraft:sandstone>,
+  <item:minecraft:red_sandstone>,
 ];
 
 for Item in removeItems {
@@ -472,6 +619,9 @@ var removeRecipes = [
   "pipez:improved_upgrade",
   "pipez:item_pipe",
   "pipez:ultimate_upgrade",
+  "pipez:fluid_pipe",
+  "pipez:energy_pipe",
+  "pipez:gas_pipe",
   "simplyjetpacks:mek/armorplating_mek1",
   "simplyjetpacks:mek/armorplating_mek2",
   "simplyjetpacks:mek/armorplating_mek3",
@@ -517,7 +667,6 @@ var removeRecipes = [
   "industrialforegoing:gold_gear",
   "industrialforegoing:iron_gear",
   "industrialforegoing:diamond_gear",
-  "thermal:press_gear_die",
   "tconstruct:tables/crafting_station",
   "tconstruct:tables/crafting_station_from_logs",
   "angelring:itemring",
@@ -530,6 +679,9 @@ var removeRecipes = [
   "engineersdecor:independent/fluid_barrel_recipe",
   "itemcollectors:advanced_collector",
   "itemcollectors:basic_collector",
+  "xreliquary:uncrafting/ghast_tear",
+  "exnihilosequentia:ens_mesh_diamond",
+  "silents_mechanisms:basic_alloy_smelter",
 ];
 
 for Recipe in removeRecipes {

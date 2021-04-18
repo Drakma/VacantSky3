@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "III",
+        "CRC",
+        "III"
+    ],
+    "key": {
+        "I": {
+            "tag": "forge:plates/iron"
+        },
+        "C": {
+            "tag": "forge:chests"
+        },
+        "R": {
+            "tag": "mekanism:alloys/infused"
+        }
+    },
+    "result": {
+        "item": "pipez:gas_pipe",
+        "count": 8
+    }
+}

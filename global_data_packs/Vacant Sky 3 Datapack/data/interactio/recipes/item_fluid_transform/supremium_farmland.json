@@ -1,0 +1,15 @@
+{
+    "type": "interactio:item_fluid_transform",
+    "inputs": [{
+        "item": "mysticalagriculture:imperium_farmland",
+        "count": 1
+    }],
+    "fluid": {
+        "fluid": "vs_things:supremium"
+    },
+    "output": {
+        "item": "mysticalagriculture:supremium_farmland",
+        "count": 1
+    },
+    "consume_fluid": 0.10
+}

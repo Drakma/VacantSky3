@@ -1,0 +1,15 @@
+{
+    "type": "interactio:item_fluid_transform",
+    "inputs": [{
+        "item": "mysticalagriculture:tertium_farmland",
+        "count": 1
+    }],
+    "fluid": {
+        "fluid": "vs_things:imperium"
+    },
+    "output": {
+        "item": "mysticalagriculture:imperium_farmland",
+        "count": 1
+    },
+    "consume_fluid": 0.10
+}

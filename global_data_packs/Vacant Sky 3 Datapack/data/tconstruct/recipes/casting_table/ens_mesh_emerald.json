@@ -1,0 +1,15 @@
+{
+    "type": "tconstruct:casting_table",
+    "cast": {
+        "item": "exnihilosequentia:mesh_diamond"
+    },
+    "cast_consumed": true,
+    "fluid": {
+        "name": "tconstruct:molten_emerald",
+        "amount": 1296
+    },
+    "result": {
+        "item": "exnihilosequentia:mesh_emerald"
+    },
+    "cooling_time": 140
+}

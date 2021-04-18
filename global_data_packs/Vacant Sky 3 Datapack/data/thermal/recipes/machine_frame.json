@@ -2,15 +2,18 @@
     "type": "minecraft:crafting_shaped",
     "pattern": [
         "IGI",
-        "GTG",
+        "OTO",
         "IGI"
     ],
     "key": {
         "G": {
-            "tag": "forge:glass"
+            "tag": "forge:ingots/refined_obsidian"
+        },
+        "O": {
+            "tag": "forge:ingots/refined_glowstone"
         },
         "I": {
-            "tag": "forge:ingots/iron"
+            "item": "immersiveengineering:ingot_steel"
         },
         "T": {
             "item": "mekanism:steel_casing"
