@@ -5,10 +5,10 @@
 	centrifugeProcessingTime = 300
 	#[UNUSED] Use items to change the type of a bee.
 	#If false, productive bees can only be obtained through breeding. Default false.
-	enableItemConverting = false
+	enableItemConverting = true
 	#Deprecated: Moved to spawning recipe.
 	#Range: > 20
-	nestRepopulationCooldown = 3600
+	nestRepopulationCooldown = 2000
 	#How much FE to use per tick for a powered centrifuge when processing an item. Default 10.
 	#Range: > 1
 	centrifugePowerUse = 10

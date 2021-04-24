@@ -1,0 +1,15 @@
+{
+    "type": "productivebees:bee_breeding",
+    "parent1": "productivebees:steel",
+    "parent2": "productivebees:lapis",
+    "offspring": [
+        "productivebees:cobalt"
+    ],
+    "breeding_items": [{
+            "item": "minecraft:netherrack"
+        },
+        {
+            "tag": "minecraft:soul_sand"
+        }
+    ]
+}

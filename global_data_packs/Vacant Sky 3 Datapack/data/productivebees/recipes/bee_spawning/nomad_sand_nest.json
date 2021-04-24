@@ -1,0 +1,13 @@
+{
+    "type": "productivebees:bee_spawning",
+    "ingredient": {
+        "item": "productivebees:sand_nest"
+    },
+    "results": [{
+        "bee": "productivebees:nomad_bee"
+    }],
+    "biomes": [
+        "desert"
+    ],
+    "repopulation_cooldown": 24000
+}
