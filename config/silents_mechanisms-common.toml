@@ -167,5 +167,5 @@
 		#Range: > 0
 		chance = 10
 		#The dimensions that oil lakes are not allow to generate in
-		dimensionBlacklist = ["minecraft:the_nether", "minecraft:the_end"]
+		dimensionBlacklist = ["minecraft:the_nether", "minecraft:the_end", "vs_things:deep_blue_dim", "vs_things:deep_freeze_dim", "vs_things:hell_dim", "vs_things:panda_dim", "vs_things:temp_dim"]
 

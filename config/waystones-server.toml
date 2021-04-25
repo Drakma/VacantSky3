@@ -18,7 +18,7 @@
 	[server.waystoneToWaystone]
 		#The multiplier applied to the base xp cost when teleporting from one waystone to another.
 		#Range: 0.0 ~ Infinity
-		waystoneXpCostMultiplier = 1.0
+		waystoneXpCostMultiplier = 0.0
 
 	#These options apply to the optional Waystones button displayed in the inventory.
 	[server.inventoryButton]
