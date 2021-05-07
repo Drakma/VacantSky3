@@ -1,0 +1,26 @@
+{
+    "type": "exnihilosequentia:sieve",
+    "rolls": [{
+            "chance": 0.12,
+            "mesh": "flint"
+        },
+        {
+            "chance": 0.15,
+            "mesh": "iron"
+        },
+        {
+            "chance": 0.175,
+            "mesh": "emerald"
+        },
+        {
+            "chance": 0.20,
+            "mesh": "netherite"
+        }
+    ],
+    "input": {
+        "item": "minecraft:soul_sand"
+    },
+    "result": {
+        "item": "minecraft:nether_wart"
+    }
+}

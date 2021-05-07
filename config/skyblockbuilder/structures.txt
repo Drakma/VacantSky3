@@ -20,6 +20,7 @@ supplementaries:way_sign
 mysticalworld:ruined_hut
 mysticalworld:barrow
 mysticalworld:hut
+mythicbotany:andwari_cave
 astralsorcery:ancient_shrine
 astralsorcery:desert_shrine
 astralsorcery:small_shrine

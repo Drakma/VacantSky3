@@ -10,6 +10,8 @@
 	#How much fluid rain will fill per iteration (Default: 2)
 	#Range: > 1
 	rainFillAmount = 2
+	#Should Ex Nihilo show any Patricle?
+	showParticles = true
 
 	#Mob Spawn Configs
 	[barrel.mob_spawn]
@@ -187,4 +189,10 @@
 		#Durability of Netherite Mesh (Only useful if enableMeshDurability is true) (Default: 2031)
 		#Range: > 1
 		meshNetheriteValue = 2031
+
+#Pebble Configs
+[pebble]
+	#How much half hearts damage a pebble should do. (Default: 0)
+	#Range: > 0
+	pebbleDamage = 0
 

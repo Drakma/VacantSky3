@@ -57,6 +57,10 @@ mekanism:disk
 mekanism:ore
 mekanism:ore_retrogen
 mysticalworld:supplier_ore_feature
+mythicbotany:motif_flowers
+mythicbotany:mana_crystals
+mythicbotany:abandoned_apothecaries
+mythicbotany:wheat_fields
 immersiveengineering:mineral_vein
 immersiveengineering:ie_ore
 immersiveengineering:ore_retro

@@ -26,6 +26,8 @@
 [general]
 	#Play a sound effect when the game is loaded.
 	ding = true
+	#Show additional HUD bars added by ModernUI on the bottom-left of the screen.
+	hudBars = false
 
 #Font Engine Config
 [font]
@@ -35,7 +37,7 @@
 	#This can be font family name if you want to use fonts that installed on your PC, for instance: Microsoft YaHei
 	#Or can be file path if you want to use external fonts, for instance: D:/Fonts/biliw.otf
 	#Or can be resource location if you want to use fonts in resource packs, for instance: modernui:font/biliw.otf
-	preferredFont = ""
+	preferredFont = "Calibri"
 	#Allow global font renderer to draw text with shadow, setting to false can improve performance.
 	allowShadow = true
 	#Enable font anti-aliasing.
@@ -49,5 +51,5 @@
 	mipmapLevel = 4
 	#The default font size for texts with no size specified. (deprecated, to be removed)
 	#Range: 12 ~ 20
-	defaultFontSize = 16
+	defaultFontSize = 18
 

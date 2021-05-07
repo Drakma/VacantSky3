@@ -1,0 +1,8 @@
+{
+    "primaryColor": "#1d77eb",
+    "secondaryColor": "#0c5abe",
+    "particleColor": "#1d77eb",
+    "description": "Heavy Metal.",
+    "createComb": false,
+    "flowerTag": "forge:storage_blocks/lapis"
+}

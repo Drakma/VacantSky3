@@ -510,7 +510,7 @@ var hideItems = [
   <item:mysticalagriculture:netherite_seeds>,
   <item:mysticalagriculture:terrasteel_seeds>,
   <item:mysticalagriculture:wither_skeleton_seeds>,
-  <item:resourcepandas:resource_panda_spawn_egg>
+  <item:resourcepandas:resource_panda_spawn_egg>,
 ];
 
 for Item in hideItems {
