@@ -1,0 +1,15 @@
+{
+    "type": "thermal:smelter",
+    "input": [{
+            "item": "exnihilosequentia:mesh_diamond"
+        },
+        {
+            "tag": "forge:storage_blocks/emerald"
+        }
+    ],
+    "result": [{
+        "item": "exnihilosequentia:mesh_emerald",
+        "count": 1
+    }],
+    "energy": 40000
+}

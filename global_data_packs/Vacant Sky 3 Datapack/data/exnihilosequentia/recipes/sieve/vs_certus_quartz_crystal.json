@@ -1,0 +1,18 @@
+{
+    "type": "exnihilosequentia:sieve",
+    "rolls": [{
+            "chance": 0.80,
+            "mesh": "emerald"
+        },
+        {
+            "chance": 0.80,
+            "mesh": "netherite"
+        }
+    ],
+    "input": {
+        "item": "exnihiloae:crushed_skystone"
+    },
+    "result": {
+        "item": "appliedenergistics2:certus_quartz_crystal"
+    }
+}

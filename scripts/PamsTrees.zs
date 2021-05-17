@@ -56,7 +56,7 @@ var saplings = [
 var counter = 30000;
 
 for Item in saplings {
-  <recipetype:exnihilosequentia:sieve>.create(counter).setInput(<item:vs_things:leaves_enchanted>).addDrop(Item).addRoll("string", 0.0025).addRoll("flint", 0.005).addRoll("iron", 0.010);
+  <recipetype:exnihilosequentia:sieve>.create(counter).setInput(<item:vs_things:leaves_enchanted>).addDrop(Item).addRoll("string", 0.0025).addRoll("flint", 0.005).addRoll("iron", 0.010).addRoll("diamond", 0.0125).addRoll("emerald", 0.015).addRoll("netherite", 0.02);
   counter = counter + 1;
 }
 

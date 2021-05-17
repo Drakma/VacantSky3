@@ -7,7 +7,7 @@
     ],
     "key": {
         "D": {
-            "tag": "forge:dusts/diamond"
+            "tag": "mekanism:enriched/diamond"
         },
         "M": {
             "item": "exnihilosequentia:mesh_iron"

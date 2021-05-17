@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ILI",
+        "GMG",
+        "ILI"
+    ],
+    "key": {
+        "G": {
+            "tag": "forge:plates/gold"
+        },
+        "I": {
+            "tag": "forge:plates/iron"
+        },
+        "L": {
+            "tag": "forge:plates/lapis_lazuli"
+        },
+        "M": {
+            "item": "mekanism:steel_casing"
+        }
+    },
+    "result": {
+        "item": "rftoolsbase:machine_frame"
+    }
+}

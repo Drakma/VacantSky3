@@ -26,10 +26,10 @@
 	[item_pipe.amount]
 		#The amount of items transferred
 		#Range: > 1
-		no_upgrade = 16
+		no_upgrade = 8
 		#The amount of items transferred
 		#Range: > 1
-		basic = 32
+		basic = 16
 		#The amount of items transferred
 		#Range: > 1
 		improved = 32

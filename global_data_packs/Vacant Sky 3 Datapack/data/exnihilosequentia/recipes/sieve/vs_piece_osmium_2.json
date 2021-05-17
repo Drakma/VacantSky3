@@ -1,0 +1,18 @@
+{
+    "type": "exnihilosequentia:sieve",
+    "rolls": [{
+            "chance": 0.075,
+            "mesh": "emerald"
+        },
+        {
+            "chance": 0.10,
+            "mesh": "netherite"
+        }
+    ],
+    "input": {
+        "item": "minecraft:gravel"
+    },
+    "result": {
+        "item": "mekanism:fluorite_gem"
+    }
+}

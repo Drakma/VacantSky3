@@ -1,6 +1,7 @@
 import crafttweaker.api.BracketHandlers;
 import crafttweaker.api.tag.MCTag;
 
+<recipetype:exnihilosequentia:hammer>.removeByName("exnihiloae:hammer/ens_crushed_skystone");
 <recipetype:minecraft:blasting>.removeByName("silents_mechanisms:blasting/steel_ingot");
 <recipetype:mekanism:metallurgic_infusing>.removeByName("mekanism:processing/steel/enriched_iron_to_dust");
 
@@ -124,9 +125,67 @@ for Item in removeExNihiloFluidItem {
   <recipetype:exnihilosequentia:fluid_item>.removeByName(Item);
 }
 
-
 <recipetype:appliedenergistics2:grinder>.removeByName("jaopca:appliedenergistics2.material_to_dust.diamond");
 <recipetype:minecraft:smithing>.removeByName("exnihilosequentia:ens_mesh_netherite");
+
+var removetConstructGears = [
+  "tconstruct:smeltery/casting/metal/copper/gear_gold_cast",
+  "tconstruct:smeltery/casting/metal/copper/gear_sand_cast",
+  "tconstruct:smeltery/casting/metal/tin/gear_gold_cast",
+  "tconstruct:smeltery/casting/metal/tin/gear_sand_cast",
+  "tconstruct:smeltery/casting/metal/lead/gear_gold_cast",
+  "tconstruct:smeltery/casting/metal/lead/gear_sand_cast",
+  "tconstruct:smeltery/casting/metal/silver/gear_gold_cast",
+  "tconstruct:smeltery/casting/metal/silver/gear_sand_cast",
+  "tconstruct:smeltery/casting/metal/nickel/gear_gold_cast",
+  "tconstruct:smeltery/casting/metal/nickel/gear_sand_cast",
+  "tconstruct:smeltery/casting/metal/bronze/gear_gold_cast",
+  "tconstruct:smeltery/casting/metal/bronze/gear_sand_cast",
+  "tconstruct:smeltery/casting/metal/electrum/gear_gold_cast",
+  "tconstruct:smeltery/casting/metal/electrum/gear_sand_cast",
+  "tconstruct:smeltery/casting/metal/invar/gear_gold_cast",
+  "tconstruct:smeltery/casting/metal/invar/gear_sand_cast",
+  "tconstruct:smeltery/casting/metal/constantan/gear_gold_cast",
+  "tconstruct:smeltery/casting/metal/constantan/gear_sand_cast",
+  "tconstruct:smeltery/casting/metal/gold/gear_gold_cast",
+  "tconstruct:smeltery/casting/metal/gold/gear_sand_cast",
+  "tconstruct:smeltery/casting/metal/iron/gear_gold_cast",
+  "tconstruct:smeltery/casting/metal/iron/gear_sand_cast",
+  "tconstruct:smeltery/casting/metal/copper/plate_gold_cast",
+  "tconstruct:smeltery/casting/metal/copper/plate_sand_cast",
+  "tconstruct:smeltery/casting/metal/tin/plate_gold_cast",
+  "tconstruct:smeltery/casting/metal/tin/plate_sand_cast",
+  "tconstruct:smeltery/casting/metal/lead/plate_gold_cast",
+  "tconstruct:smeltery/casting/metal/lead/plate_sand_cast",
+  "tconstruct:smeltery/casting/metal/silver/plate_gold_cast",
+  "tconstruct:smeltery/casting/metal/silver/plate_sand_cast",
+  "tconstruct:smeltery/casting/metal/nickel/plate_gold_cast",
+  "tconstruct:smeltery/casting/metal/nickel/plate_sand_cast",
+  "tconstruct:smeltery/casting/metal/bronze/plate_gold_cast",
+  "tconstruct:smeltery/casting/metal/bronze/plate_sand_cast",
+  "tconstruct:smeltery/casting/metal/electrum/plate_gold_cast",
+  "tconstruct:smeltery/casting/metal/electrum/plate_sand_cast",
+  "tconstruct:smeltery/casting/metal/invar/plate_gold_cast",
+  "tconstruct:smeltery/casting/metal/invar/plate_sand_cast",
+  "tconstruct:smeltery/casting/metal/constantan/plate_gold_cast",
+  "tconstruct:smeltery/casting/metal/constantan/plate_sand_cast",
+  "tconstruct:smeltery/casting/metal/gold/plate_gold_cast",
+  "tconstruct:smeltery/casting/metal/gold/plate_sand_cast",
+  "tconstruct:smeltery/casting/metal/iron/plate_gold_cast",
+  "tconstruct:smeltery/casting/metal/iron/plate_sand_cast",
+  "tconstruct:smeltery/casting/metal/steel/plate_gold_cast",
+  "tconstruct:smeltery/casting/metal/steel/plate_sand_cast",
+  "tconstruct:smeltery/casting/metal/brass/plate_gold_cast",
+  "tconstruct:smeltery/casting/metal/brass/plate_sand_cast",
+  "tconstruct:smeltery/casting/metal/aluminum/plate_gold_cast",
+  "tconstruct:smeltery/casting/metal/aluminum/plate_sand_cast",
+  "tconstruct:smeltery/casting/metal/uranium/plate_gold_cast",
+  "tconstruct:smeltery/casting/metal/uranium/plate_sand_cast",
+];
+
+for Item in removetConstructGears {
+<recipetype:tconstruct:casting_table>.removeByName(Item);
+}
 
 /* ========================================================================== */
 /* Remove & Hide By Item                                                        */
@@ -618,6 +677,7 @@ var removeRecipes = [
   "xreliquary:uncrafting/ghast_tear",
   "exnihilosequentia:ens_mesh_diamond",
   "silents_mechanisms:basic_alloy_smelter",
+  "rftoolsbase:machine_frame",
 ];
 
 for Recipe in removeRecipes {

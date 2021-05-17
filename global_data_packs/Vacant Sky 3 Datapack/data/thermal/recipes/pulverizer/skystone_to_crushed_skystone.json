@@ -1,0 +1,9 @@
+{
+    "type": "thermal:pulverizer",
+    "ingredient": {
+        "item": "appliedenergistics2:sky_stone_block"
+    },
+    "result": [{
+        "item": "exnihiloae:crushed_skystone"
+    }]
+}
