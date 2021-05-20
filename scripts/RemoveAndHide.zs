@@ -604,7 +604,6 @@ var hideItems = [
   <item:immersiveengineering:ingot_uranium>,
   <item:silents_mechanisms:zinc_ingot>,
   <item:create:zinc_ingot>,
-
 ];
 
 for Item in hideItems {
