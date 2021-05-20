@@ -7,7 +7,3 @@
 	#Hide info when drawer is concealed
 	hideConcealed = false
 
-[vanilla]
-	#Display Note Block pitch and instrument
-	showPitch = true
-

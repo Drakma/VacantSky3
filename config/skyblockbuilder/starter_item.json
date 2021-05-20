@@ -19,7 +19,11 @@
                 "akashictome:is_morphing": 1,
                 "akashictome:data": {
                     "tconstruct": {
-                        "id": "tconstruct:book",
+                        "id": "tconstruct:materials_and_you",
+                        "Count": 1
+                    },
+                    "tconstruct": {
+                        "id": "tconstruct:puny_smelting",
                         "Count": 1
                     },
                     "industrialforegoing": {
@@ -27,6 +31,13 @@
                         "Count": 1,
                         "tag": {
                             "patchouli:book": "industrialforegoing:industrial_foregoing"
+                        }
+                    },
+                    "woot": {
+                        "id": "patchouli:guide_book",
+                        "Count": 1,
+                        "tag": {
+                            "patchouli:book": "woot:wootguide"
                         }
                     },
                     "powah": {
@@ -47,10 +58,6 @@
                         "tag": {
                             "patchouli:book": "pneumaticcraft:book"
                         }
-                    },
-                    "alexsmobs": {
-                        "id": "alexsmobs:animal_dictionary",
-                        "Count": 1
                     },
                     "immersiveengineering": {
                         "id": "immersiveengineering:manual",

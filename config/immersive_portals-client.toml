@@ -1,5 +1,5 @@
 #Used for debugging
-compatibility_render_mode = false
+compatibility_render_mode = true
 #Reduced Portal Rendering
 reduced_portal_rendering = true
 #Used for debugging
@@ -10,7 +10,7 @@ max_portal_layer = 5
 #Render Yourself In Portal
 render_yourself_in_portal = true
 #...
-correct_cross_portal_entity_rendering = true
+correct_cross_portal_entity_rendering = false
 #Remove the glass texture on mirrors
 pure_mirror = false
 #Render Fewer Portals When Laggy

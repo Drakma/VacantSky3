@@ -11,10 +11,10 @@
 		maxTransfer = 5000
 		#Cost to create one sand per operation
 		#Range: > 0
-		operationCost = 50
+		operationCost = 40
 		#Frequency (in ticks) that sand is produced
 		#Range: > 0
-		frequency = 25
+		frequency = 20
 
 	#red_sand fabricator
 	[Fabricators.red_sand_fabricator]
@@ -41,10 +41,10 @@
 		maxTransfer = 5000
 		#Cost to create one clay per operation
 		#Range: > 0
-		operationCost = 400
+		operationCost = 200
 		#Frequency (in ticks) that clay is produced
 		#Range: > 0
-		frequency = 65
+		frequency = 50
 
 	#netherrack fabricator
 	[Fabricators.netherrack_fabricator]
@@ -56,10 +56,10 @@
 		maxTransfer = 5000
 		#Cost to create one netherrack per operation
 		#Range: > 0
-		operationCost = 50
+		operationCost = 30
 		#Frequency (in ticks) that netherrack is produced
 		#Range: > 0
-		frequency = 25
+		frequency = 20
 
 	#soul_sand fabricator
 	[Fabricators.soul_sand_fabricator]
@@ -71,10 +71,10 @@
 		maxTransfer = 5000
 		#Cost to create one soul_sand per operation
 		#Range: > 0
-		operationCost = 400
+		operationCost = 200
 		#Frequency (in ticks) that soul_sand is produced
 		#Range: > 0
-		frequency = 120
+		frequency = 40
 
 	#slime fabricator
 	[Fabricators.slime_fabricator]
@@ -143,13 +143,13 @@
 		maxFE = 1000000
 		#Maximum amount of FE that can be transferred into the block per tick
 		#Range: > 0
-		maxTransfer = 5000
+		maxTransfer = 10000
 		#Cost to create one gravel per operation
 		#Range: > 0
-		operationCost = 50
+		operationCost = 20
 		#Frequency (in ticks) that gravel is produced
 		#Range: > 0
-		frequency = 25
+		frequency = 10
 
 	#end_stone fabricator
 	[Fabricators.end_stone_fabricator]

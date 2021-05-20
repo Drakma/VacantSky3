@@ -1,0 +1,9 @@
+{
+    "type": "thermal:pulverizer",
+    "ingredient": {
+        "item": "minecraft:netherrack"
+    },
+    "result": [{
+        "item": "exnihilosequentia:crushed_netherrack"
+    }]
+}

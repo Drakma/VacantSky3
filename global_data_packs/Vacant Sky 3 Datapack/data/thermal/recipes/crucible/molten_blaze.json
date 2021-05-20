@@ -1,0 +1,11 @@
+{
+    "type": "thermal:crucible",
+    "ingredient": {
+        "item": "minecraft:blaze_rod"
+    },
+    "result": [{
+        "fluid": "tconstruct:molten_blaze",
+        "amount": 5
+    }],
+    "energy": 5000
+}

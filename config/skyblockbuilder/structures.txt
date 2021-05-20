@@ -18,8 +18,8 @@ minecraft:nether_fossil
 minecraft:bastion_remnant
 supplementaries:way_sign
 mysticalworld:ruined_hut
-mysticalworld:barrow
 mysticalworld:hut
+mysticalworld:barrow
 mythicbotany:andwari_cave
 astralsorcery:ancient_shrine
 astralsorcery:desert_shrine
