@@ -11,10 +11,10 @@
 		maxTransfer = 5000
 		#Cost to create one sand per operation
 		#Range: > 0
-		operationCost = 40
+		operationCost = 20
 		#Frequency (in ticks) that sand is produced
 		#Range: > 0
-		frequency = 20
+		frequency = 2
 
 	#red_sand fabricator
 	[Fabricators.red_sand_fabricator]
@@ -26,10 +26,10 @@
 		maxTransfer = 5000
 		#Cost to create one red_sand per operation
 		#Range: > 0
-		operationCost = 250
+		operationCost = 125
 		#Frequency (in ticks) that red_sand is produced
 		#Range: > 0
-		frequency = 45
+		frequency = 2
 
 	#clay fabricator
 	[Fabricators.clay_fabricator]
@@ -41,10 +41,10 @@
 		maxTransfer = 5000
 		#Cost to create one clay per operation
 		#Range: > 0
-		operationCost = 200
+		operationCost = 10
 		#Frequency (in ticks) that clay is produced
 		#Range: > 0
-		frequency = 50
+		frequency = 20
 
 	#netherrack fabricator
 	[Fabricators.netherrack_fabricator]
@@ -56,10 +56,10 @@
 		maxTransfer = 5000
 		#Cost to create one netherrack per operation
 		#Range: > 0
-		operationCost = 30
+		operationCost = 15
 		#Frequency (in ticks) that netherrack is produced
 		#Range: > 0
-		frequency = 20
+		frequency = 2
 
 	#soul_sand fabricator
 	[Fabricators.soul_sand_fabricator]
@@ -71,10 +71,10 @@
 		maxTransfer = 5000
 		#Cost to create one soul_sand per operation
 		#Range: > 0
-		operationCost = 200
+		operationCost = 25
 		#Frequency (in ticks) that soul_sand is produced
 		#Range: > 0
-		frequency = 40
+		frequency = 2
 
 	#slime fabricator
 	[Fabricators.slime_fabricator]
@@ -86,10 +86,10 @@
 		maxTransfer = 5000
 		#Cost to create one slime per operation
 		#Range: > 0
-		operationCost = 500
+		operationCost = 50
 		#Frequency (in ticks) that slime is produced
 		#Range: > 0
-		frequency = 70
+		frequency = 10
 
 	#ice fabricator
 	[Fabricators.ice_fabricator]
@@ -101,10 +101,10 @@
 		maxTransfer = 5000
 		#Cost to create one ice per operation
 		#Range: > 0
-		operationCost = 250
+		operationCost = 50
 		#Frequency (in ticks) that ice is produced
 		#Range: > 0
-		frequency = 95
+		frequency = 5
 
 	#snow fabricator
 	[Fabricators.snow_fabricator]
@@ -116,10 +116,10 @@
 		maxTransfer = 5000
 		#Cost to create one snow per operation
 		#Range: > 0
-		operationCost = 250
+		operationCost = 50
 		#Frequency (in ticks) that snow is produced
 		#Range: > 0
-		frequency = 95
+		frequency = 20
 
 	#dirt fabricator
 	[Fabricators.dirt_fabricator]
@@ -131,10 +131,10 @@
 		maxTransfer = 5000
 		#Cost to create one dirt per operation
 		#Range: > 0
-		operationCost = 50
+		operationCost = 5
 		#Frequency (in ticks) that dirt is produced
 		#Range: > 0
-		frequency = 25
+		frequency = 10
 
 	#gravel fabricator
 	[Fabricators.gravel_fabricator]
@@ -146,10 +146,10 @@
 		maxTransfer = 10000
 		#Cost to create one gravel per operation
 		#Range: > 0
-		operationCost = 20
+		operationCost = 10
 		#Frequency (in ticks) that gravel is produced
 		#Range: > 0
-		frequency = 10
+		frequency = 2
 
 	#end_stone fabricator
 	[Fabricators.end_stone_fabricator]
@@ -161,8 +161,8 @@
 		maxTransfer = 5000
 		#Cost to create one end_stone per operation
 		#Range: > 0
-		operationCost = 100
+		operationCost = 5
 		#Frequency (in ticks) that end_stone is produced
 		#Range: > 0
-		frequency = 25
+		frequency = 10
 

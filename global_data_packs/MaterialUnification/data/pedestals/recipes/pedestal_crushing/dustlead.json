@@ -1,0 +1,10 @@
+{
+    "type": "pedestals:pedestal_crushing",
+    "ingredient": {
+        "tag": "forge:ores/lead"
+    },
+    "result": {
+        "item": "thermal:dust_lead",
+        "count": 2
+    }
+}

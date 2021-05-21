@@ -1,6 +1,7 @@
 {
-    "replace": false,
+    "replace": true,
     "values": [
-        "silents_mechanisms:bauxite_ore"
+        "silents_mechanisms:bauxite_ore",
+        "exnihilosequentia:chunk_aluminum"
     ]
 }

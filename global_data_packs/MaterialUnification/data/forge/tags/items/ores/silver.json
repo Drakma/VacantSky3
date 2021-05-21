@@ -1,6 +1,7 @@
 {
-  "replace": true,
-  "values": [
-    "thermal:silver_ore"
-  ]
+    "replace": true,
+    "values": [
+        "thermal:silver_ore",
+        "exnihilosequentia:chunk_silver"
+    ]
 }

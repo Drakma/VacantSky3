@@ -1,0 +1,22 @@
+{
+    "type": "tconstruct:casting_table",
+    "conditions": [{
+        "value": {
+            "tag": "forge:ingots/aluminum",
+            "type": "forge:tag_empty"
+        },
+        "type": "forge:not"
+    }],
+    "cast": {
+        "tag": "tconstruct:casts/single_use/ingot"
+    },
+    "cast_consumed": true,
+    "fluid": {
+        "name": "tconstruct:molten_aluminum",
+        "amount": 144
+    },
+    "result": {
+        "item": "silents_mechanisms:aluminum_ingot"
+    },
+    "cooling_time": 47
+}

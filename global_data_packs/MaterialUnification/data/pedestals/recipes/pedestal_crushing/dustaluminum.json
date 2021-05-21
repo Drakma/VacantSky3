@@ -1,0 +1,14 @@
+{
+    "type": "pedestals:pedestal_crushing",
+    "ingredient": {
+        "tag": "forge:ores/aluminum"
+    },
+    "result": {
+        "item": "silents_mechanisms:aluminum_dust",
+        "count": 2
+    },
+    "conditions": [{
+        "type": "forge:mod_loaded",
+        "modid": "immersiveengineering"
+    }]
+}
