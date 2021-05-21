@@ -1,0 +1,12 @@
+{
+    "type": "immersiveengineering:arc_furnace",
+    "results": [{
+        "item": "mekanism:ingot_steel"
+    }],
+    "additives": [],
+    "input": {
+        "tag": "forge:dusts/steel"
+    },
+    "time": 100,
+    "energy": 51200
+}

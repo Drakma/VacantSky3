@@ -1,0 +1,10 @@
+{
+    "type": "silents_mechanisms:crushing",
+    "process_time": 200,
+    "ingredient": {
+        "tag": "forge:ingots/uranium"
+    },
+    "results": [{
+        "item": "mekanism:dust_uranium"
+    }]
+}

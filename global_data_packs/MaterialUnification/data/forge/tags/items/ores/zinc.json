@@ -1,6 +1,7 @@
 {
-  "replace": true,
-  "values": [
-    "create:zinc_ore"
-  ]
+    "replace": true,
+    "values": [
+        "create:zinc_ore",
+        "silents_mechanisms:zinc_ore"
+    ]
 }

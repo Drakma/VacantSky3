@@ -1,0 +1,12 @@
+{
+    "type": "immersiveengineering:arc_furnace",
+    "results": [{
+        "item": "thermal:electrum_ingot"
+    }],
+    "additives": [],
+    "input": {
+        "tag": "forge:dusts/electrum"
+    },
+    "time": 100,
+    "energy": 51200
+}

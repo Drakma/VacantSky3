@@ -1,6 +1,6 @@
 {
-  "replace": true,
-  "values": [
-    "thermal:niter_block"
-  ]
+    "replace": true,
+    "values": [
+        "thermal:niter_block"
+    ]
 }

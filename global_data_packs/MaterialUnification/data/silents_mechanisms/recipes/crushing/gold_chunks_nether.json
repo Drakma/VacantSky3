@@ -1,0 +1,16 @@
+{
+    "type": "silents_mechanisms:crushing",
+    "process_time": 400,
+    "ingredient": {
+        "item": "minecraft:nether_gold_ore"
+    },
+    "results": [{
+            "item": "thermal:gold_dust",
+            "count": 2
+        },
+        {
+            "item": "minecraft:netherrack",
+            "chance": 0.1
+        }
+    ]
+}

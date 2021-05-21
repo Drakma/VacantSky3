@@ -1,20 +1,23 @@
 {
-  "replace": true,
-  "values": [
-    "#forge:ingots/bronze",
-    "#forge:ingots/constantan",
-    "#forge:ingots/copper",
-    "#forge:ingots/electrum",
-    "#forge:ingots/enderium",
-    "#forge:ingots/gold",
-    "#forge:ingots/invar",
-    "#forge:ingots/iron",
-    "#forge:ingots/lead",
-    "#forge:ingots/lumium",
-    "#forge:ingots/netherite",
-    "#forge:ingots/nickel",
-    "#forge:ingots/signalum",
-    "#forge:ingots/silver",
-    "#forge:ingots/tin"
-  ]
+    "replace": true,
+    "values": [
+        "#forge:ingots/aluminum",
+        "#forge:ingots/bronze",
+        "#forge:ingots/constantan",
+        "#forge:ingots/copper",
+        "#forge:ingots/electrum",
+        "#forge:ingots/enderium",
+        "#forge:ingots/gold",
+        "#forge:ingots/invar",
+        "#forge:ingots/iron",
+        "#forge:ingots/lead",
+        "#forge:ingots/lumium",
+        "#forge:ingots/netherite",
+        "#forge:ingots/nickel",
+        "#forge:ingots/platinum",
+        "#forge:ingots/signalum",
+        "#forge:ingots/silver",
+        "#forge:ingots/steel",
+        "#forge:ingots/tin"
+    ]
 }
