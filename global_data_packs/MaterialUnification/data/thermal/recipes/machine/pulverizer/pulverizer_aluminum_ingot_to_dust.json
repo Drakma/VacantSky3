@@ -1,0 +1,11 @@
+{
+    "type": "thermal:pulverizer",
+    "ingredient": {
+        "tag": "forge:ingots/aluminum"
+    },
+    "result": [{
+        "item": "silents:aluminum_dust",
+        "count": 1
+    }],
+    "energy_mod": 0.5
+}

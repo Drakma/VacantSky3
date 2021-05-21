@@ -1,0 +1,11 @@
+{
+    "type": "thermal:smelter",
+    "ingredient": {
+        "tag": "forge:dusts/aluminum"
+    },
+    "result": [{
+        "item": "silents:aluminum_ingot",
+        "count": 1
+    }],
+    "energy_mod": 0.5
+}
