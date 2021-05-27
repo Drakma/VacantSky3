@@ -10,14 +10,14 @@
             "tag": "forge:plates/iron"
         },
         "C": {
-            "tag": "forge:chests"
+            "tag": "forge:glass/colorless"
         },
         "R": {
             "tag": "mekanism:alloys/infused"
         }
     },
     "result": {
-        "item": "pipez:gas_pipe",
+        "item": "mekanism:basic_pressurized_tube",
         "count": 8
     }
 }

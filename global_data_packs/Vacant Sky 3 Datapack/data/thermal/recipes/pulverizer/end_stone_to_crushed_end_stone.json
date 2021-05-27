@@ -1,0 +1,9 @@
+{
+    "type": "thermal:pulverizer",
+    "ingredient": {
+        "item": "minecraft:end_stone"
+    },
+    "result": [{
+        "item": "exnihilosequentia:crushed_end_stone"
+    }]
+}

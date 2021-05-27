@@ -1,0 +1,11 @@
+{
+    "items": [
+        "mekanism:basic_logistical_transporter",
+        "mekanism:advanced_logistical_transporter",
+        "mekanism:elite_logistical_transporter",
+        "mekanism:ultimate_logistical_transporter"
+    ],
+    "tooltips": [
+        ["", { "text": "Item Pipe : ", "color": "blue" }, { "text": "Used to transport items and blocks", "color": "white" }]
+    ]
+}

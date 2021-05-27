@@ -1,0 +1,18 @@
+{
+    "items": [
+        "thermal:wrench",
+        "cyclic:cable_wrench",
+        "thermal:wrench",
+        "mekanism:configurator",
+        "appliedenergistics2:certus_quartz_wrench",
+        "appliedenergistics2:nether_quartz_wrench",
+        "create:wrench",
+        "powah:wrench",
+        "rftoolsbase:smartwrench",
+        "silents_mechanisms:wrench",
+        "pneumaticcraft:pneumatic_wrench"
+    ],
+    "tooltips": [
+        ["", { "text": "Wrench : ", "color": "blue" }, { "text": "Can be used to configure pipes and blocks", "color": "white" }]
+    ]
+}

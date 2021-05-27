@@ -1,7 +1,7 @@
 {
     "type": "tconstruct:alloy",
     "inputs": [{
-            "name": "vs_things:imperium",
+            "name": "vs_things:insanium",
             "amount": 1000
         },
         {
@@ -13,5 +13,5 @@
         "fluid": "vs_things:drakonium",
         "amount": 1000
     },
-    "temperature": 1000
+    "temperature": 1400
 }

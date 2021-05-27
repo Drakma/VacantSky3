@@ -1,6 +1,7 @@
 {
-  "replace": true,
-  "values": [
-    "thermal:coal_coke_block"
-  ]
+    "replace": true,
+    "values": [
+        "thermal:coal_coke_block",
+        "immersiveengineering:coke"
+    ]
 }

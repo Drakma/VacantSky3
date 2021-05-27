@@ -7,16 +7,16 @@
     ],
     "key": {
         "I": {
-            "item": "pipez:item_pipe"
+            "item": "mekanism:basic_logistical_transporter"
         },
         "F": {
-            "item": "pipez:fluid_pipe"
+            "item": "mekanism:basic_mechanical_pipe"
         },
         "E": {
-            "item": "pipez:energy_pipe"
+            "item": "mekanism:basic_universal_cable"
         },
         "G": {
-            "item": "pipez:gas_pipe"
+            "item": "mekanism:basic_pressurized_tube"
         },
         "W": {
             "item": "compactmachines:wall"

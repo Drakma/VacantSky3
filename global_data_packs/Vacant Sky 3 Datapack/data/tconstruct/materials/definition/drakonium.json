@@ -7,7 +7,44 @@
     "textColor": "#34401F",
     "temperature": 800,
     "traits": [{
-        "name": "tconstruct:reinforced",
-        "level": 3
-    }]
+            "name": "tconstruct:reinforced",
+            "level": 1
+        },
+        {
+            "name": "tconstruct:smite",
+            "level": 1
+        },
+        {
+            "name": "tconstruct:overslime",
+            "level": 1
+        },
+        {
+            "name": "tconstruct:enhanced",
+            "level": 1
+        },
+        {
+            "name": "tconstruct:experienced",
+            "level": 1
+        },
+        {
+            "name": "tconstruct:necrotic",
+            "level": 1
+        },
+        {
+            "name": "tconstruct:overlord",
+            "level": 1
+        },
+        {
+            "name": "tconstruct:maintained",
+            "level": 1
+        },
+        {
+            "name": "tconstruct:tasty",
+            "level": 1
+        },
+        {
+            "name": "tconstruct:momentum",
+            "level": 1
+        }
+    ]
 }

@@ -17,7 +17,7 @@
         }
     },
     "result": {
-        "item": "pipez:energy_pipe",
+        "item": "mekanism:basic_universal_cable",
         "count": 8
     }
 }

@@ -4,11 +4,11 @@
     "sortOrder": 0,
     "fluid": "tconstruct:molten_platinum",
     "fluidPerUnit": 144,
-    "textColor": "#8bd2db",
+    "textColor": "#8BD2DB",
     "temperature": 800,
     "traits": [{
-            "name": "tconstruct:reinforced",
-            "level": 2
+            "name": "tconstruct:heavy",
+            "level": 1
         },
         {
             "name": "tconstruct:insatiable",

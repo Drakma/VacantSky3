@@ -17,7 +17,7 @@
         }
     },
     "result": {
-        "item": "pipez:item_pipe",
+        "item": "mekanism:basic_logistical_transporter",
         "count": 8
     }
 }

@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [{
+            "item": "mysticalagriculture:imperium_ingot"
+        },
+        {
+            "item": "botania:manasteel_ingot"
+        },
+        {
+            "item": "botania:rune_earth"
+        }
+    ],
+    "result": {
+        "item": "botania:spark_upgrade_recessive",
+        "count": 1
+    }
+}

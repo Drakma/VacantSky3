@@ -1,4 +1,19 @@
 "Enable Debug Output" = false
 "Disable Ores" = ["minecraft:nether_gold_ore", "minecraft:nether_quartz_ore", "mysticalagriculture:nether_prosperity_ore", "mysticalagriculture:nether_inferium_ore", "mysticalagriculture:end_prosperity_ore", "mysticalagriculture:end_inferium_ore", "minecraft:gold_ore", "minecraft:iron_ore", "minecraft:coal_ore", "minecraft:lapis_ore", "minecraft:diamond_ore", "minecraft:redstone_ore", "minecraft:emerald_ore", "appliedenergistics2:quartz_ore", "appliedenergistics2:charged_quartz_ore", "mysticalagriculture:prosperity_ore", "mysticalagriculture:inferium_ore", "mysticalagriculture:soulium_ore"]
-"Custom Ore" = []
+
+[["Custom Ore"]]
+	"Ore Name" = "astralsorcery:rock_crystal_ore"
+	"Max Vein Size" = 2
+	"Filler Name" = "botania:livingrock"
+	"Min Vein Level" = 1
+	"Max Vein Level" = 30
+	"Spawn Rate" = 12
+
+[["Custom Ore"]]
+	"Ore Name" = "astralsorcery:marble_raw"
+	"Max Vein Size" = 24
+	"Filler Name" = "botania:livingrock"
+	"Min Vein Level" = 30
+	"Max Vein Level" = 76
+	"Spawn Rate" = 12
 

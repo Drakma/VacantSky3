@@ -346,7 +346,7 @@
 	[tools.refined_obsidian]
 		#Protection value of refined_obsidian chestplates.
 		#Range: > 0
-		refined_obsidianChestplateArmor = 12
+		refined_obsidianChestplateArmor = 9
 		#Attack damage modifier of refined_obsidian axes.
 		refined_obsidianAxeDamage = 2.0
 		#Attack speed of refined_obsidian pickaxes.
@@ -356,7 +356,7 @@
 		refined_obsidianPaxelHarvestLevel = 3
 		#Base armor toughness value of refined_obsidian armor.
 		#Range: 0.0 ~ 3.4028234663852886E38
-		refined_obsidianToughness = 4.0
+		refined_obsidianToughness = 2.0
 		#Attack speed of refined_obsidian hoes.
 		refined_obsidianHoeAtkSpeed = 7.0
 		#Base attack damage of refined_obsidian items.

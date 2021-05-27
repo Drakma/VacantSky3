@@ -21,15 +21,21 @@
         "T": {
             "item": "simplyjetpacks:thruster_mek3"
         },
-        "F": {
-            "type": "forge:nbt",
-            "item": "thermal:flux_capacitor",
-            "nbt": {
-                "Enchantments": [{
-                    "lvl": "3s",
-                    "id": "cofh_core:holding"
-                }]
+        "F": [{
+                "type": "forge:nbt",
+                "item": "thermal:flux_capacitor",
+                "nbt": "{RepairCost:0,Enchantments:[{lvl:3s,id:'cofh_core:holding'}]}"
+            },
+            {
+                "type": "forge:nbt",
+                "item": "thermal:flux_capacitor",
+                "nbt": "{RepairCost:1,Enchantments:[{lvl:3s,id:'cofh_core:holding'}]}"
+            },
+            {
+                "type": "forge:nbt",
+                "item": "thermal:flux_capacitor",
+                "nbt": "{Enchantments:[{lvl:3s,id:'cofh_core:holding'}]}"
             }
-        }
+        ]
     }
 }

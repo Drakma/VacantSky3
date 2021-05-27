@@ -4,7 +4,7 @@
         "item": "mysticalagriculture:inferium_essence"
     },
     "output": "vs_things:inferium",
-    "productionMultiplier": 0.5,
-    "shatterMultiplier": 15.0,
-    "color": -16734209
+    "productionMultiplier": 0.11,
+    "shatterMultiplier": 2.0,
+    "color": 5635925
 }

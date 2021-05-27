@@ -1,0 +1,26 @@
+{
+    "type": "exnihilosequentia:sieve",
+    "rolls": [{
+            "chance": 0.0125,
+            "mesh": "iron"
+        },
+        {
+            "chance": 0.025,
+            "mesh": "diamond"
+        },
+        {
+            "chance": 0.05,
+            "mesh": "emerald"
+        },
+        {
+            "chance": 0.10,
+            "mesh": "netherite"
+        }
+    ],
+    "input": {
+        "item": "minecraft:soul_sand"
+    },
+    "result": {
+        "item": "mysticalagriculture:soulium_dust"
+    }
+}

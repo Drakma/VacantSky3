@@ -4,7 +4,7 @@
         "item": "mysticalagradditions:insanium_essence"
     },
     "output": "vs_things:insanium",
-    "productionMultiplier": 0.1,
-    "shatterMultiplier": 50.0,
-    "color": -16734209
+    "productionMultiplier": 0.21,
+    "shatterMultiplier": 8.0,
+    "color": 11141290
 }

@@ -4,7 +4,7 @@
         "item": "mysticalagriculture:supremium_essence"
     },
     "output": "vs_things:supremium",
-    "productionMultiplier": 0.2,
-    "shatterMultiplier": 40.0,
-    "color": -16734209
+    "productionMultiplier": 0.19,
+    "shatterMultiplier": 7.0,
+    "color": 11141120
 }

@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "result": {
+        "item": "mekanism:configurator"
+    },
+    "pattern": [
+        "  I",
+        "RL ",
+        "OR "
+    ],
+    "key": {
+        "O": {
+            "tag": "forge:ingots/osmium"
+        },
+        "I": {
+            "tag": "forge:ingots/iron"
+        },
+        "L": {
+            "tag": "forge:gems/lapis"
+        },
+        "R": {
+            "tag": "forge:dusts/redstone"
+        }
+    }
+}

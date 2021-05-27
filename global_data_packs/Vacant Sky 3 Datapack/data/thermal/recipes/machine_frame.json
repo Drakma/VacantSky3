@@ -13,7 +13,7 @@
             "tag": "forge:ingots/refined_glowstone"
         },
         "I": {
-            "item": "immersiveengineering:ingot_steel"
+            "tag": "forge:ingots/steel"
         },
         "T": {
             "item": "mekanism:steel_casing"

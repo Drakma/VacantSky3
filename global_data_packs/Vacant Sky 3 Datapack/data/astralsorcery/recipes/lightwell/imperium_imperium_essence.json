@@ -4,7 +4,7 @@
         "item": "mysticalagriculture:imperium_essence"
     },
     "output": "vs_things:imperium",
-    "productionMultiplier": 0.4,
-    "shatterMultiplier": 20.0,
-    "color": -16734209
+    "productionMultiplier": 0.17,
+    "shatterMultiplier": 6.0,
+    "color": 5592575
 }

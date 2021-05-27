@@ -1,0 +1,10 @@
+{
+    "type": "astralsorcery:lightwell",
+    "input": {
+        "item": "mysticalagriculture:tertium_essence"
+    },
+    "output": "vs_things:tertium",
+    "productionMultiplier": 0.15,
+    "shatterMultiplier": 5.0,
+    "color": 16755200
+}

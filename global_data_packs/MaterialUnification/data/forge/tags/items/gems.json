@@ -1,11 +1,14 @@
 {
-  "replace": true,
-  "values": [
-    "#forge:gems/apatite",
-    "#forge:gems/cinnabar",
-    "#forge:gems/niter",
-    "#forge:gems/ruby",
-    "#forge:gems/sapphire",
-    "#forge:gems/sulfur"
-  ]
+    "replace": true,
+    "values": [
+        "#forge:gems/apatite",
+        "#forge:gems/cinnabar",
+        "#forge:gems/diamond",
+        "#forge:gems/emerald",
+        "#forge:gems/ender_pearl",
+        "#forge:gems/niter",
+        "#forge:gems/ruby",
+        "#forge:gems/sapphire",
+        "#forge:gems/sulfur"
+    ]
 }

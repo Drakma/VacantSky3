@@ -17,7 +17,7 @@
         }
     },
     "result": {
-        "item": "pipez:fluid_pipe",
+        "item": "mekanism:basic_mechanical_pipe",
         "count": 8
     }
 }
