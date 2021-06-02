@@ -1,0 +1,8 @@
+{
+    "items": [
+        "powah:crystal_nitro"
+    ],
+    "tooltips": [
+        ["", { "text": "Feed a ", "bold": true }, { "text": "nitro crystal", "bold": true, "italic": true, "color": "blue" }, { "text": " to a panda to mass-produce nitro crystals", "bold": true }]
+    ]
+}

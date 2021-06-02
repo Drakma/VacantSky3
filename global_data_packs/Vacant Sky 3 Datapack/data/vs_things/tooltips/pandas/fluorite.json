@@ -1,0 +1,8 @@
+{
+    "items": [
+        "mekanism:fluorite_gem"
+    ],
+    "tooltips": [
+        ["", { "text": "Feed a ", "bold": true }, { "text": "fluorite gem", "bold": true, "italic": true, "color": "blue" }, { "text": " to a panda to mass-produce fluorite gems", "bold": true }]
+    ]
+}

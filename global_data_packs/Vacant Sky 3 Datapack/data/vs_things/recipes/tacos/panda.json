@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [{
+            "item": "vs_things:taco_shell"
+        },
+        {
+            "item": "minecraft:vine"
+        },
+        {
+            "item": "minecraft:bamboo"
+        },
+        {
+            "tag": "forge:crops/tomato"
+        },
+        {
+            "tag": "forge:vegetables/lettuce"
+        }
+    ],
+    "result": {
+        "item": "vs_things:jungle_taco",
+        "count": 3
+    }
+}

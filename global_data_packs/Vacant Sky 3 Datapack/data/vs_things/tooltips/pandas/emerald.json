@@ -1,0 +1,8 @@
+{
+    "items": [
+        "minecraft:emerald"
+    ],
+    "tooltips": [
+        ["", { "text": "Feed a ", "bold": true }, { "text": "diamond emerald", "bold": true, "italic": true, "color": "blue" }, { "text": " to a pandato mass-produce emerald dust", "bold": true }]
+    ]
+}

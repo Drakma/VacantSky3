@@ -1,0 +1,8 @@
+{
+    "items": [
+        "minecraft:nether_star"
+    ],
+    "tooltips": [
+        ["", { "text": "Feed a ", "bold": true }, { "text": "nether star", "bold": true, "italic": true, "color": "blue" }, { "text": " to a panda to mass-produce nether stars", "bold": true }]
+    ]
+}

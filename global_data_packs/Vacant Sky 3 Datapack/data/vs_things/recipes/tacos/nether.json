@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [{
+            "item": "vs_things:taco_shell"
+        },
+        {
+            "tag": "forge:netherrack"
+        },
+        {
+            "item": "mysticalagriculture:fire_essence"
+        },
+        {
+            "tag": "forge:crops/nether_wart"
+        },
+        {
+            "tag": "forge:vegetables/lettuce"
+        }
+    ],
+    "result": {
+        "item": "vs_things:nether_taco",
+        "count": 3
+    }
+}

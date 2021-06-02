@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "FRF",
+        "ESE",
+        "FRF"
+    ],
+    "key": {
+        "S": {
+            "item": "extendedcrafting:ultimate_singularity"
+        },
+        "F": {
+            "item": "create:flywheel"
+        },
+        "E": {
+            "item": "create:furnace_engine"
+        },
+        "R": {
+            "item": "create:rotation_speed_controller"
+        }
+    },
+    "result": {
+        "item": "create:creative_motor",
+        "count": 1
+    }
+}

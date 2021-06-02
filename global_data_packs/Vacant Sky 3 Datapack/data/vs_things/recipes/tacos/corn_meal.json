@@ -1,0 +1,10 @@
+{
+    "type": "silents_mechanisms:crushing",
+    "process_time": 300,
+    "ingredient": {
+        "tag": "forge:crops/corn"
+    },
+    "results": [{
+        "item": "vs_things:corn_meal"
+    }]
+}

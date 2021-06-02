@@ -1,0 +1,10 @@
+{
+    "name": "Insanium",
+    "colors": [
+        "7400b8",
+        "3a0058"
+    ],
+    "ingredient": {
+        "item": "mysticalagradditions:insanium_essence"
+    }
+}

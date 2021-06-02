@@ -1,0 +1,15 @@
+{
+    "type": "interactio:item_fluid_transform",
+    "inputs": [{
+        "item": "minecraft:rose_bush",
+        "count": 1
+    }],
+    "fluid": {
+        "fluid": "vs_things:insanium"
+    },
+    "output": {
+        "item": "minecraft:wither_rose",
+        "count": 1
+    },
+    "consume_fluid": 1.00
+}

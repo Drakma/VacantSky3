@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [{
+            "item": "vs_things:taco_shell"
+        },
+        {
+            "tag": "forge:sand/colorless"
+        },
+        {
+            "item": "minecraft:cactus"
+        },
+        {
+            "tag": "forge:cheese"
+        },
+        {
+            "tag": "forge:vegetables/lettuce"
+        }
+    ],
+    "result": {
+        "item": "vs_things:sunny_taco",
+        "count": 3
+    }
+}

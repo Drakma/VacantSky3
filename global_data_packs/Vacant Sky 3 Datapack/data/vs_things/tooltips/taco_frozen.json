@@ -1,0 +1,8 @@
+{
+    "items": [
+        "vs_things:deep_freeze_taco"
+    ],
+    "tooltips": [
+        ["", { "text": "Transports you to dimension : ", "color": "blue" }, { "text": "Deep Freeze", "color": "white" }]
+    ]
+}

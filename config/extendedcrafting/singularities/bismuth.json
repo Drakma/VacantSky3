@@ -1,0 +1,10 @@
+{
+    "name": "Bismuth",
+    "colors": [
+        "e3d6e2",
+        "bba0bb"
+    ],
+    "ingredient": {
+        "tag": "forge:ingots/bismuth"
+    }
+}

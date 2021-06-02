@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [{
+            "item": "extendedcrafting:ultimate_singularity"
+        },
+        {
+            "item": "botania:fabulous_pool"
+        }
+    ],
+    "result": {
+        "item": "botania:creative_pool",
+        "count": 1
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "items": [
+        "vs_things:over_world_taco"
+    ],
+    "tooltips": [
+        ["", { "text": "Transports you to dimension : ", "color": "blue" }, { "text": "The Overworld", "color": "white" }]
+    ]
+}

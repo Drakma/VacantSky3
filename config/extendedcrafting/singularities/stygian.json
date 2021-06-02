@@ -1,0 +1,10 @@
+{
+    "name": "Stygian",
+    "colors": [
+        "a43980",
+        "4c1f4c"
+    ],
+    "ingredient": {
+        "item": "woot:si_dust"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [{
+            "item": "vs_things:taco_shell"
+        },
+        {
+            "tag": "forge:ices"
+        },
+        {
+            "item": "minecraft:snow_block"
+        },
+        {
+            "tag": "forge:crops/cucumber"
+        },
+        {
+            "tag": "forge:vegetables/lettuce"
+        }
+    ],
+    "result": {
+        "item": "vs_things:deep_freeze_taco",
+        "count": 3
+    }
+}

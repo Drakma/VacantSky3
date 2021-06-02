@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [{
+            "item": "vs_things:taco_shell"
+        },
+        {
+            "tag": "minecraft:saplings"
+        },
+        {
+            "tag": "forge:dirt"
+        },
+        {
+            "tag": "forge:crops/tomato"
+        },
+        {
+            "tag": "forge:vegetables/lettuce"
+        }
+    ],
+    "result": {
+        "item": "vs_things:temperate_taco",
+        "count": 3
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "items": [
+        "elementalcraft:inertcrystal"
+    ],
+    "tooltips": [
+        ["", { "text": "Feed a ", "bold": true }, { "text": "purified certus quartz crystal", "bold": true, "italic": true, "color": "blue" }, { "text": " to a panda to mass-produce inert crystals", "bold": true }]
+    ]
+}

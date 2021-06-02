@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [{
+            "item": "extendedcrafting:ultimate_singularity"
+        },
+        {
+            "item": "appliedenergistics2:dense_energy_cell"
+        }
+    ],
+    "result": {
+        "item": "appliedenergistics2:creative_energy_cell",
+        "count": 1
+    }
+}

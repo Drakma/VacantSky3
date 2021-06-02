@@ -22,8 +22,8 @@ astralsorcery:small_shrine
 supplementaries:way_sign
 elementalcraft:source_altar
 mysticalworld:barrow
-mysticalworld:hut
 mysticalworld:ruined_hut
+mysticalworld:hut
 mythicbotany:andwari_cave
 tconstruct:earth_slime_island
 tconstruct:overworld_slime_island

@@ -1,0 +1,10 @@
+{
+    "name": "Fireite",
+    "colors": [
+        "634144",
+        "c33c10"
+    ],
+    "ingredient": {
+        "tag": "forge:ingots/fireite"
+    }
+}

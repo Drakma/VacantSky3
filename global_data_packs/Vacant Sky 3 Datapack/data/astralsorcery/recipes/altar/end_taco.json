@@ -1,0 +1,34 @@
+{
+    "type": "astralsorcery:altar",
+    "altar_type": 1,
+    "duration": 200,
+    "starlight": 1600,
+    "pattern": [
+        "A___A",
+        "__D__",
+        "_ETE_",
+        "_B_B_",
+        "B___B"
+    ],
+    "key": {
+        "T": {
+            "item": "vs_things:taco_shell"
+        },
+        "B": {
+            "item": "minecraft:end_stone"
+        },
+        "A": {
+            "tag": "forge:cheese"
+        },
+        "D": {
+            "item": "minecraft:ender_eye"
+        },
+        "E": {
+            "tag": "forge:vegetables/lettuce"
+        }
+    },
+    "output": [{
+        "item": "vs_things:end_taco",
+        "count": 3
+    }]
+}

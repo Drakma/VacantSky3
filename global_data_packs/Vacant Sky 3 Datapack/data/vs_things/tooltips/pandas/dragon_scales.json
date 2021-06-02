@@ -1,0 +1,8 @@
+{
+    "items": [
+        "mysticalagradditions:dragon_scale"
+    ],
+    "tooltips": [
+        ["", { "text": "Feed a ", "bold": true }, { "text": "dragon scale", "bold": true, "italic": true, "color": "blue" }, { "text": " to a panda to mass-produce dragon scales", "bold": true }]
+    ]
+}

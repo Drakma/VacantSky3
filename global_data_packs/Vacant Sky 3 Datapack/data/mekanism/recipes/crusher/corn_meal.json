@@ -1,0 +1,11 @@
+{
+    "type": "mekanism:crushing",
+    "input": {
+        "ingredient": {
+            "tag": "forge:crops/corn"
+        }
+    },
+    "output": {
+        "item": "vs_things:corn_meal"
+    }
+}

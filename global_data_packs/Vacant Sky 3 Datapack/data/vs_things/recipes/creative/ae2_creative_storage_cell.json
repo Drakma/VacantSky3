@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [{
+            "item": "extendedcrafting:ultimate_singularity"
+        },
+        {
+            "item": "ae2extras:16m_storage_cell"
+        }
+    ],
+    "result": {
+        "item": "appliedenergistics2:creative_storage_cell",
+        "count": 1
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "items": [
+        "mekanism:ingot_uranium",
+        "powah:uraninite_raw_poor",
+        "powah:uraninite_raw",
+        "powah:uraninite_raw_dense",
+        "powah:uraninite_ore_poor",
+        "powah:uraninite_ore",
+        "powah:uraninite_ore_dense"
+    ],
+    "tooltips": [
+        ["", { "text": "Feed a ", "bold": true }, { "text": "uranium ingot", "bold": true, "italic": true, "color": "blue" }, { "text": " to a panda to mass-produce urananite", "bold": true }]
+    ]
+}

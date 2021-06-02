@@ -1,0 +1,8 @@
+{
+    "items": [
+        "vs_things:hell_taco"
+    ],
+    "tooltips": [
+        ["", { "text": "Transports you to dimension : ", "color": "blue" }, { "text": "Hell Hole", "color": "white" }]
+    ]
+}
