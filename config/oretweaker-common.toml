@@ -1,5 +1,5 @@
 "Enable Debug Output" = false
-"Disable Ores" = ["minecraft:nether_gold_ore", "minecraft:nether_quartz_ore", "mysticalagriculture:nether_prosperity_ore", "mysticalagriculture:nether_inferium_ore", "mysticalagriculture:end_prosperity_ore", "mysticalagriculture:end_inferium_ore", "minecraft:gold_ore", "minecraft:iron_ore", "minecraft:coal_ore", "minecraft:lapis_ore", "minecraft:diamond_ore", "minecraft:redstone_ore", "minecraft:emerald_ore", "appliedenergistics2:quartz_ore", "appliedenergistics2:charged_quartz_ore", "mysticalagriculture:prosperity_ore", "mysticalagriculture:inferium_ore", "mysticalagriculture:soulium_ore"]
+"Disable Ores" = ["minecraft:ancient_debris", "minecraft:nether_gold_ore", "minecraft:nether_quartz_ore", "mysticalagriculture:nether_prosperity_ore", "mysticalagriculture:nether_inferium_ore", "mysticalagriculture:end_prosperity_ore", "mysticalagriculture:end_inferium_ore", "minecraft:gold_ore", "minecraft:iron_ore", "minecraft:coal_ore", "minecraft:lapis_ore", "minecraft:diamond_ore", "minecraft:redstone_ore", "minecraft:emerald_ore", "appliedenergistics2:quartz_ore", "appliedenergistics2:charged_quartz_ore", "mysticalagriculture:prosperity_ore", "mysticalagriculture:inferium_ore", "mysticalagriculture:soulium_ore"]
 
 [["Custom Ore"]]
 	"Ore Name" = "astralsorcery:rock_crystal_ore"

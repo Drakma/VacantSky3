@@ -19,7 +19,6 @@ minecraft:bastion_remnant
 astralsorcery:ancient_shrine
 astralsorcery:desert_shrine
 astralsorcery:small_shrine
-supplementaries:way_sign
 elementalcraft:source_altar
 mysticalworld:barrow
 mysticalworld:ruined_hut

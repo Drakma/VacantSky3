@@ -52,7 +52,6 @@ minecraft:random_boolean_selector
 minecraft:decorated
 astralsorcery:replace_block
 astralsorcery:rock_crystal
-supplementaries:road_sign_feature
 botania:mystical_flowers
 botania:mystical_mushrooms
 productivebees:sand_nest
@@ -149,6 +148,7 @@ vs_things:warped_tree_medium
 vs_things:warped_tree_large
 vs_things:warped_patch_2
 vs_things:warped_patch_1
+vs_things:slime_vanilla_11
 vs_things:crimson_tree_small
 vs_things:crimson_tree_medium
 vs_things:crimson_tree_large

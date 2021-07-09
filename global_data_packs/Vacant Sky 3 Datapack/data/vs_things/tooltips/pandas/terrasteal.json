@@ -3,6 +3,6 @@
         "botania:terrasteel_ingot"
     ],
     "tooltips": [
-        ["", { "text": "Feed a ", "bold": true }, { "text": "terrasteal ingot", "bold": true, "italic": true, "color": "blue" }, { "text": " to a panda to mass-produce terrasteal", "bold": true }]
+        ["", { "text": "Feed a ", "bold": true }, { "text": "terrasteal block", "bold": true, "italic": true, "color": "blue" }, { "text": " to a panda to mass-produce terrasteal", "bold": true }]
     ]
 }

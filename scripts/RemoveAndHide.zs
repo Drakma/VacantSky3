@@ -172,6 +172,12 @@ for Item in removetConstructGears {
 /* Remove & Hide By Item                                                        */
 /* ========================================================================== */
 var removeandhideItems = [
+  <item:telepastries:twilight_cake>,
+  <item:telepastries:lost_city_cake>,
+  <item:telepastries:custom_cake>,
+  <item:vs_things:over_world_taco>,
+  <item:vs_things:nether_taco>,
+  <item:vs_things:end_taco>,
   <item:botanypots:black_botany_pot>,
   <item:botanypots:blue_botany_pot>,
   <item:botanypots:brown_botany_pot>,

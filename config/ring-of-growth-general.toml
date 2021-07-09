@@ -7,4 +7,7 @@
 	#Ring of Growth base tick delay [default: 20]
 	#Range: 10 ~ 120
 	ringGrowthTickDelay = 20
+	#Ring of Growth vertical from player [default: 5]
+	#Range: 3 ~ 25
+	ringGrowthVertical = 5
 
