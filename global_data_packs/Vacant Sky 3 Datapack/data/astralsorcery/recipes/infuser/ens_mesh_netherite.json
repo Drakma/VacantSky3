@@ -1,0 +1,16 @@
+{
+    "type": "astralsorcery:infuser",
+    "fluidInput": "tconstruct:molten_netherite",
+    "input": {
+        "item": "exnihilosequentia:mesh_emerald"
+    },
+    "output": {
+        "item": "exnihilosequentia:mesh_netherite",
+        "count": 1
+    },
+    "consumptionChance": 0.25,
+    "duration": 100,
+    "consumeMultipleFluids": true,
+    "acceptChaliceInput": true,
+    "copyNBTToOutputs": false
+}

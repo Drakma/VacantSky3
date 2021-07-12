@@ -143,6 +143,11 @@ appliedenergistics2:charged_quartz_ore
 immersiveengineering:mineral_vein
 immersiveengineering:ie_ore
 immersiveengineering:ore_retro
+akisephilas_bosses:titan_altar
+akisephilas_bosses:queen_hive
+akisephilas_bosses:carrion_hive
+akisephilas_bosses:xp_ore
+akisephilas_bosses:culminite_ore
 vs_things:warped_tree_small
 vs_things:warped_tree_medium
 vs_things:warped_tree_large

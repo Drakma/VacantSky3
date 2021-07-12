@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [{
+            "item": "minecraft:cake"
+        },
+        {
+            "item": "minecraft:ender_eye"
+        },
+        {
+            "tag": "forge:end_stones"
+        },
+        {
+            "tag": "forge:purpur"
+        }
+    ],
+    "result": {
+        "item": "telepastries:end_cake",
+        "count": 1
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "type": "astralsorcery:infuser",
+    "fluidInput": "vs_things:insanium",
+    "input": {
+        "item": "magical_torches:mega_torch"
+    },
+    "output": {
+        "item": "torcherino:torcherino",
+        "count": 1
+    },
+    "consumptionChance": 0.1,
+    "duration": 100,
+    "consumeMultipleFluids": false,
+    "acceptChaliceInput": true,
+    "copyNBTToOutputs": false
+}

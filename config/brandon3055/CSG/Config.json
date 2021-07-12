@@ -1,0 +1,10 @@
+{
+  "inventory": {
+    "0:1": "{id:\"minecraft:oak_sapling\",Count:1b}",
+    "0:2": "{id:\"akashictome:tome\",Count:1b,tag:{\"akashictome:data\":{industrialforegoing:{id:\"patchouli:guide_book\",Count:1b,tag:{\"patchouli:book\":\"industrialforegoing:industrial_foregoing\"}},tconstruct:{id:\"tconstruct:fantastic_foundry\",Count:1b},storagenetwork:{id:\"patchouli:guide_book\",Count:1b,tag:{\"patchouli:book\":\"storagenetwork:network_book\"}},theoneprobe:{id:\"theoneprobe:probenote\",Count:1b},astralsorcery:{id:\"astralsorcery:tome\",Count:1b},pneumaticcraft:{id:\"patchouli:guide_book\",Count:1b,tag:{\"patchouli:book\":\"pneumaticcraft:book\"}},immersiveengineering:{id:\"immersiveengineering:manual\",Count:1b},woot:{id:\"patchouli:guide_book\",Count:1b,tag:{\"patchouli:book\":\"woot:wootguide\"}},pedestals:{id:\"patchouli:guide_book\",Count:1b,tag:{\"patchouli:book\":\"pedestals:manual\"}},elementalcraft:{id:\"patchouli:guide_book\",Count:1b,tag:{\"patchouli:book\":\"elementalcraft:element_book\"}},productivebees:{id:\"patchouli:guide_book\",Count:1b,tag:{\"patchouli:book\":\"productivebees:guide\"}},extendedcrafting:{id:\"patchouli:guide_book\",Count:1b,tag:{\"patchouli:book\":\"extendedcrafting:guide\"}},botania:{id:\"botania:lexicon\",Count:1b,tag:{}},thermal:{id:\"patchouli:guide_book\",Count:1b,tag:{\"patchouli:book\":\"thermal:guidebook\"}},rftoolsbase:{id:\"rftoolsbase:manual\",Count:1b},mysticalagriculture:{id:\"patchouli:guide_book\",Count:1b,tag:{\"patchouli:book\":\"mysticalagriculture:guide\"}},cyclic:{id:\"patchouli:guide_book\",Count:1b,tag:{\"patchouli:book\":\"cyclic:cyclic_guide_book\"}}}}}",
+    "0:0": "{id:\"minecraft:torch\",Count:1b}",
+    "0:3": "{id:\"tconstruct:materials_and_you\",Count:1b}",
+    "0:4": "{id:\"tconstruct:puny_smelting\",Count:1b}"
+  },
+  "wipeBlacklist": []
+}

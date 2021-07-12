@@ -87,7 +87,7 @@
 	meshStackSize = 64
 	#The number of sieve clicks required to sieve a block. (Default: 10)
 	#Range: 1 ~ 10
-	maxSieveClicks = 10
+	maxSieveClicks = 7
 
 #Debug Configs
 [debug]

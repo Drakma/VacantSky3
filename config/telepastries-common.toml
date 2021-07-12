@@ -2,7 +2,7 @@
 #General settings
 [General]
 	#Defines if the pastry usage requires hunger, when set to true it ignores hunger [default: false]
-	ignoreHunger = false
+	ignoreHunger = true
 	#Defines if the pastry teleportation point can be reset with a milk bucket [default: false]
 	resetPastry = false
 	#Defines the item needed to reset the pastry teleportation point [default: minecraft:milk_bucket]

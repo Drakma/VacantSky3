@@ -37,10 +37,10 @@
 		interval = 20
 		#The amount of items to generate every update.
 		#Range: > 1
-		count = 32
+		count = 64
 		#The maximum amount of items to hold in the internal buffer.
 		#Range: > 1
-		max = 256
+		max = 512
 		#Set to true to enable automatically pushing to inventories above this block.
 		pushes = true
 
@@ -51,10 +51,10 @@
 		interval = 5
 		#The amount of items to generate every update.
 		#Range: > 1
-		count = 64
+		count = 128
 		#The maximum amount of items to hold in the internal buffer.
 		#Range: > 1
-		max = 512
+		max = 2048
 		#Set to true to enable automatically pushing to inventories above this block.
 		pushes = true
 
@@ -65,10 +65,10 @@
 		interval = 1
 		#The amount of items to generate every update.
 		#Range: > 1
-		count = 64
+		count = 256
 		#The maximum amount of items to hold in the internal buffer.
 		#Range: > 1
-		max = 1024
+		max = 4096
 		#Set to true to enable automatically pushing to inventories above this block.
 		pushes = true
 

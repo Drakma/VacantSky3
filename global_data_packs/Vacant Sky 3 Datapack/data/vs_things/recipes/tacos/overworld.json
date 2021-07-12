@@ -1,7 +1,7 @@
 {
     "type": "minecraft:crafting_shapeless",
     "ingredients": [{
-            "item": "vs_things:taco_shell"
+            "item": "minecraft:cake"
         },
         {
             "tag": "minecraft:beds"
@@ -17,7 +17,7 @@
         }
     ],
     "result": {
-        "item": "vs_things:over_world_taco",
-        "count": 3
+        "item": "telepastries:overworld_cake",
+        "count": 1
     }
 }

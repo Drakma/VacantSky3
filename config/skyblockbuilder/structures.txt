@@ -20,9 +20,9 @@ astralsorcery:ancient_shrine
 astralsorcery:desert_shrine
 astralsorcery:small_shrine
 elementalcraft:source_altar
-mysticalworld:barrow
 mysticalworld:ruined_hut
 mysticalworld:hut
+mysticalworld:barrow
 mythicbotany:andwari_cave
 tconstruct:earth_slime_island
 tconstruct:overworld_slime_island

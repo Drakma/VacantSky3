@@ -1,0 +1,24 @@
+{
+    "type": "botanypots:soil",
+    "input": {
+        "item": "mysticalagradditions:insanium_farmland"
+    },
+    "display": {
+        "block": "mysticalagradditions:insanium_farmland",
+        "properties": {
+            "moisture": 7
+        }
+    },
+    "categories": [
+        "dirt",
+        "farmland",
+        "inferium",
+        "prudentium",
+        "tertium",
+        "imperium",
+        "supremium",
+        "insanium",
+        "mysticalagriculture"
+    ],
+    "growthModifier": 0.97
+}

@@ -1,0 +1,31 @@
+{
+    "type": "astralsorcery:altar",
+    "altar_type": 2,
+    "duration": 200,
+    "starlight": 2000,
+    "pattern": [
+        "TA_AT",
+        "ABTBA",
+        "_TTT_",
+        "ABTBA",
+        "TA_AT"
+    ],
+    "key": {
+        "T": {
+            "item": "torcherino:torcherino"
+        },
+        "B": {
+            "item": "astralsorcery:resonating_gem"
+        },
+        "A": {
+            "item": "astralsorcery:black_marble_raw"
+        }
+    },
+    "output": [{
+        "item": "torcherino:compressed_torcherino",
+        "count": 1
+    }],
+    "effects": [
+        "astralsorcery:built_in_effect_discovery_central_beam"
+    ]
+}

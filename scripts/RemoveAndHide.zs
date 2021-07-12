@@ -676,6 +676,7 @@ var hideItems = [
   <item:silents_mechanisms:zinc_ingot>,
   <item:silents_mechanisms:zinc_nugget>,
   <item:tconstruct:copper_nugget>,
+  <item:appliedenergistics2:facade>,
 ];
 
 for Item in hideItems {
@@ -759,6 +760,9 @@ var removeRecipes = [
   "tconstruct:tables/book_substitute",
   "tconstruct:tables/crafting_station_from_logs",
   "tconstruct:tables/crafting_station",
+  "telepastries:end_cake",
+  "telepastries:nether_cake",
+  "telepastries:overworld_cake",
   "tesseract:tesseract",
   "thermal:fire_charge/bronze_ingot_4",
   "thermal:fire_charge/constantan_ingot_2",

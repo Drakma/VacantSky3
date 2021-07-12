@@ -1,0 +1,48 @@
+{
+    "type": "astralsorcery:altar",
+    "altar_type": 3,
+    "duration": 200,
+    "starlight": 4000,
+    "pattern": [
+        "TA_AT",
+        "ABTBA",
+        "_TTT_",
+        "ABTBA",
+        "TA_AT"
+    ],
+    "key": {
+        "T": {
+            "item": "torcherino:compressed_torcherino"
+        },
+        "B": {
+            "item": "astralsorcery:resonating_gem"
+        },
+        "A": {
+            "item": "astralsorcery:black_marble_raw"
+        }
+    },
+    "output": [{
+        "item": "torcherino:double_compressed_torcherino",
+        "count": 1
+    }],
+    "relay_inputs": [{
+            "item": "magical_torches:grand_torch"
+        },
+        {
+            "item": "magical_torches:grand_torch"
+        },
+        {
+            "item": "magical_torches:grand_torch"
+        },
+        {
+            "item": "magical_torches:grand_torch"
+        },
+        {
+            "item": "magical_torches:grand_torch"
+        }
+    ],
+    "effects": [
+        "astralsorcery:built_in_effect_discovery_central_beam",
+        "astralsorcery:altar_default_sparkle"
+    ]
+}
