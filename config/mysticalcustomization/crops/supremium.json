@@ -1,0 +1,14 @@
+{
+    "name": "Supremium",
+    "type": "resource",
+    "tier": "mysticalagriculture:5",
+    "ingredient": {
+        "item": "mysticalagriculture:supremium_essence"
+    },
+    "color": "b30000",
+    "textures": {
+        "flower": "mysticalagriculture:block/flower_rock",
+        "essence": "mysticalagriculture:item/essence_rock",
+        "seeds": "mysticalagriculture:item/mystical_seeds"
+    }
+}

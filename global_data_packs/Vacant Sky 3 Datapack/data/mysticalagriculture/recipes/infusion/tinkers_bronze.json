@@ -1,0 +1,34 @@
+{
+    "type": "mysticalagriculture:infusion",
+    "input": {
+        "item": "mysticalagriculture:prosperity_seed_base"
+    },
+    "ingredients": [{
+            "item": "tconstruct:tinkers_bronze_ingot"
+        },
+        {
+            "item": "mysticalagriculture:tertium_essence"
+        },
+        {
+            "item": "tconstruct:tinkers_bronze_ingot"
+        },
+        {
+            "item": "mysticalagriculture:tertium_essence"
+        },
+        {
+            "item": "tconstruct:tinkers_bronze_ingot"
+        },
+        {
+            "item": "mysticalagriculture:tertium_essence"
+        },
+        {
+            "item": "tconstruct:tinkers_bronze_ingot"
+        },
+        {
+            "item": "mysticalagriculture:tertium_essence"
+        }
+    ],
+    "result": {
+        "item": "mysticalagriculture:tinkers_bronze_seeds"
+    }
+}

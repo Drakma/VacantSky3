@@ -1,0 +1,15 @@
+{
+  "path": "mysticalagriculture/mutations/tertium_mutation.json",
+  "version": "1.16.4",
+  "json_documentation": "https://agridocs.readthedocs.io/en/master/agri_mutation/",
+  "enabled": true,
+  "mods": [
+    "agricraft",
+    "mysticalagriculture",
+    "minecraft"
+  ],
+  "chance": 0.2,
+  "child": "mysticalagriculture:tertium_plant",
+  "parent1": "mysticalagriculture:prudentium_plant",
+  "parent2": "mysticalagriculture:aquamarine_plant"
+}

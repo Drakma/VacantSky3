@@ -1,0 +1,34 @@
+{
+    "type": "mysticalagriculture:infusion",
+    "input": {
+        "item": "mysticalagriculture:prosperity_seed_base"
+    },
+    "ingredients": [{
+            "item": "immersiveengineering:ingot_hop_graphite"
+        },
+        {
+            "item": "mysticalagriculture:prudentium_essence"
+        },
+        {
+            "item": "immersiveengineering:ingot_hop_graphite"
+        },
+        {
+            "item": "mysticalagriculture:prudentium_essence"
+        },
+        {
+            "item": "immersiveengineering:ingot_hop_graphite"
+        },
+        {
+            "item": "mysticalagriculture:prudentium_essence"
+        },
+        {
+            "item": "immersiveengineering:ingot_hop_graphite"
+        },
+        {
+            "item": "mysticalagriculture:prudentium_essence"
+        }
+    ],
+    "result": {
+        "item": "mysticalagriculture:graphite_seeds"
+    }
+}

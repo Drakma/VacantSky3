@@ -1,0 +1,15 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "Drakma",
+      "uniqueId": "3fb79b0b-f3f4-4338-9841-c7d4850e2c48"
+    },
+    "time": 1626115035992,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/J1mtuXBTSC"
+    }
+  }
+]

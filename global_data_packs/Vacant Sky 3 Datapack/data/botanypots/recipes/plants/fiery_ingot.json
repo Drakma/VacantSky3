@@ -1,0 +1,6 @@
+{
+    "type": "agricraft:botany_pots_crop",
+    "plant": "mysticalagriculture:fiery_ingot_plant",
+    "growthTicks": 1600,
+    "growthStatFactor": 0.03333333333333333
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Tertium",
+    "type": "resource",
+    "tier": "mysticalagriculture:3",
+    "ingredient": {
+        "item": "mysticalagriculture:tertium_essence"
+    },
+    "color": "a63f00",
+    "textures": {
+        "flower": "mysticalagriculture:block/flower_rock",
+        "essence": "mysticalagriculture:item/essence_rock",
+        "seeds": "mysticalagriculture:item/mystical_seeds"
+    }
+}

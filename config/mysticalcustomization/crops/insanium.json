@@ -1,0 +1,14 @@
+{
+    "name": "Insanium",
+    "type": "resource",
+    "tier": "mysticalagradditions:6",
+    "ingredient": {
+        "item": "mysticalagradditions:insanium_essence"
+    },
+    "color": "50007b",
+    "textures": {
+        "flower": "mysticalagriculture:block/flower_rock",
+        "essence": "mysticalagriculture:item/essence_rock",
+        "seeds": "mysticalagriculture:item/mystical_seeds"
+    }
+}

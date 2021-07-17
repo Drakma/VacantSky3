@@ -1,0 +1,17 @@
+{
+    "type": "thermal:insolator",
+    "ingredient": {
+        "item": "mysticalagriculture:dust_seeds"
+    },
+    "result": [{
+            "item": "mysticalagriculture:dust_essence",
+            "chance": 1.0
+        },
+        {
+            "item": "mysticalagriculture:dust_seeds",
+            "chance": 0.1
+        }
+    ],
+    "energy_mod": 3.0,
+    "water_mod": 3.0
+}

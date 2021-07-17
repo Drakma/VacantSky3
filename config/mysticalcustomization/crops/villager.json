@@ -1,6 +1,6 @@
 {
     "name": "Villager",
-    "type": "resource",
+    "type": "mob",
     "tier": "mysticalagriculture:3",
     "ingredient": {
         "item": "minecraft:experience_bottle"

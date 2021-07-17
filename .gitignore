@@ -42,3 +42,4 @@ config/jei/recipe-category-sort-order.ini
 /mantle_data_dump
 /hold
 /TrashSlotSaveState.json
+/config.bak.json

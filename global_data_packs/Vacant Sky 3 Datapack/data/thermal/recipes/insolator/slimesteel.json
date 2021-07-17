@@ -1,0 +1,17 @@
+{
+    "type": "thermal:insolator",
+    "ingredient": {
+        "item": "mysticalagriculture:slimesteel_seeds"
+    },
+    "result": [{
+            "item": "mysticalagriculture:slimesteel_essence",
+            "chance": 1.0
+        },
+        {
+            "item": "mysticalagriculture:slimesteel_seeds",
+            "chance": 0.1
+        }
+    ],
+    "energy_mod": 3.0,
+    "water_mod": 3.0
+}
