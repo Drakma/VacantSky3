@@ -1,5 +1,4 @@
-#  Vacant Sky 3
-![alt text](https://github.com/Drakma/VacantSky3/blob/master/icons/VS3-32.png?raw=true)
+#  ![alt text](https://github.com/Drakma/VacantSky3/blob/master/icons/VS3-32.png?raw=true) Vacant Sky 3
 
 ## Table of Contents
 
