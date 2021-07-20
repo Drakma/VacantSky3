@@ -12,7 +12,7 @@
             "item": "botania:exoflame"
         }
     ],
-    "pressure": 1.5,
+    "pressure": 3.5,
     "results": [{
         "item": "botania:floating_exoflame",
         "count": 1

@@ -125,7 +125,7 @@
 			#A blank entry means all biomes. No entries means no biomes.
 			#For example, 'FOREST,MAGICAL,!SNOWY' would mean all biomes that are magical forests but not snowy
 			#'!MOUNTAIN' would mean all non-mountain biomes
-			biome_type = ["SNOWY,!OCEAN,!RIVER,!BEACH,!FOREST"]
+			biome_type = ["!OCEAN"]
 			#Allow spawns in these biomes regardless of the biome type settings
 			biome_whitelist = []
 			#Prevent spawns in these biomes regardless of the biome type settings
@@ -142,7 +142,7 @@
 			#Range: > -1
 			generation_separation = 8
 			#Names of dimensions this mob/structure can generate in
-			dimensions = ["minecraft:overworld"]
+			dimensions = ["vs_things:deep_freeze_dim"]
 			#Maximum height for generation placement. -1 to ignore
 			#Range: -1.0 ~ 256.0
 			height_max = 100.0
@@ -155,10 +155,10 @@
 		[mobs.frostmaw.combat_config]
 			#Scale mob health by this value
 			#Range: 0.0 ~ 1.7976931348623157E308
-			health_multiplier = 1.0
+			health_multiplier = 1.5
 			#Scale mob attack damage by this value
 			#Range: 0.0 ~ 1.7976931348623157E308
-			attack_multiplier = 1.0
+			attack_multiplier = 1.5
 
 	[mobs.barako]
 		#Disable/enable Barako's boss health bar
@@ -179,7 +179,7 @@
 			#A blank entry means all biomes. No entries means no biomes.
 			#For example, 'FOREST,MAGICAL,!SNOWY' would mean all biomes that are magical forests but not snowy
 			#'!MOUNTAIN' would mean all non-mountain biomes
-			biome_type = ["SAVANNA"]
+			biome_type = [""]
 			#Allow spawns in these biomes regardless of the biome type settings
 			biome_whitelist = []
 			#Prevent spawns in these biomes regardless of the biome type settings
@@ -196,7 +196,7 @@
 			#Range: > -1
 			generation_separation = 8
 			#Names of dimensions this mob/structure can generate in
-			dimensions = ["minecraft:overworld"]
+			dimensions = ["vs_things:sunny_dim"]
 			#Maximum height for generation placement. -1 to ignore
 			#Range: -1.0 ~ 256.0
 			height_max = 100.0
@@ -209,10 +209,10 @@
 		[mobs.barako.combat_config]
 			#Scale mob health by this value
 			#Range: 0.0 ~ 1.7976931348623157E308
-			health_multiplier = 1.0
+			health_multiplier = 1.5
 			#Scale mob attack damage by this value
 			#Range: 0.0 ~ 1.7976931348623157E308
-			attack_multiplier = 1.0
+			attack_multiplier = 1.5
 
 	[mobs.ferrous_wroughtnaut]
 		#Disable/enable Ferrous Wroughtnauts' boss health bars
@@ -227,7 +227,7 @@
 			#A blank entry means all biomes. No entries means no biomes.
 			#For example, 'FOREST,MAGICAL,!SNOWY' would mean all biomes that are magical forests but not snowy
 			#'!MOUNTAIN' would mean all non-mountain biomes
-			biome_type = ["!OCEAN"]
+			biome_type = [""]
 			#Allow spawns in these biomes regardless of the biome type settings
 			biome_whitelist = []
 			#Prevent spawns in these biomes regardless of the biome type settings
@@ -244,7 +244,7 @@
 			#Range: > -1
 			generation_separation = 5
 			#Names of dimensions this mob/structure can generate in
-			dimensions = ["minecraft:overworld"]
+			dimensions = ["mythicw  botania:alfheim"]
 			#Maximum height for generation placement. -1 to ignore
 			#Range: -1.0 ~ 256.0
 			height_max = 55.0
@@ -257,10 +257,10 @@
 		[mobs.ferrous_wroughtnaut.combat_config]
 			#Scale mob health by this value
 			#Range: 0.0 ~ 1.7976931348623157E308
-			health_multiplier = 1.0
+			health_multiplier = 1.4
 			#Scale mob attack damage by this value
 			#Range: 0.0 ~ 1.7976931348623157E308
-			attack_multiplier = 1.0
+			attack_multiplier = 1.4
 
 	[mobs.grottol]
 		#Scale mob health by this value
@@ -295,11 +295,11 @@
 			#Range: 0.0 ~ 1.0
 			extra_rarity = 1.0
 			#Names of dimensions this mob can spawn in
-			dimensions = ["minecraft:overworld"]
+			dimensions = ["vs_things:temp_dim"]
 			#Names of blocks this mob is allowed to spawn on. Leave blank to ignore block names.
 			allowed_blocks = []
 			#Tags of blocks this mob is allowed to spawn on. Leave blank to ignore block tags.
-			allowed_block_tags = ["minecraft:base_stone_overworld"]
+			allowed_block_tags = []
 			#Maximum height for this spawn. -1 to ignore.
 			#Range: -1 ~ 256
 			height_max = 25
@@ -311,7 +311,7 @@
 			#Set to true to only spawn mob if it can see the sky.
 			needs_see_sky = false
 			#Set to true to only spawn mob if it can't see the sky.
-			needs_cant_see_sky = true
+			needs_cant_see_sky = false
 			#Names of structures this mob will avoid spawning near.
 			avoid_structures = []
 
@@ -327,9 +327,9 @@
 			#A blank entry means all biomes. No entries means no biomes.
 			#For example, 'FOREST,MAGICAL,!SNOWY' would mean all biomes that are magical forests but not snowy
 			#'!MOUNTAIN' would mean all non-mountain biomes
-			biome_type = ["FOREST,MAGICAL,!SNOWY"]
+			biome_type = [""]
 			#Allow spawns in these biomes regardless of the biome type settings
-			biome_whitelist = ["minecraft:dark_forest", "minecraft:dark_forest_hills"]
+			biome_whitelist = []
 			#Prevent spawns in these biomes regardless of the biome type settings
 			biome_blacklist = []
 
@@ -348,7 +348,7 @@
 			#Range: 0.0 ~ 1.0
 			extra_rarity = 1.0
 			#Names of dimensions this mob can spawn in
-			dimensions = ["minecraft:overworld"]
+			dimensions = ["vs_things:temp_dir"]
 			#Names of blocks this mob is allowed to spawn on. Leave blank to ignore block names.
 			allowed_blocks = []
 			#Tags of blocks this mob is allowed to spawn on. Leave blank to ignore block tags.
@@ -380,7 +380,7 @@
 			#A blank entry means all biomes. No entries means no biomes.
 			#For example, 'FOREST,MAGICAL,!SNOWY' would mean all biomes that are magical forests but not snowy
 			#'!MOUNTAIN' would mean all non-mountain biomes
-			biome_type = ["SAVANNA"]
+			biome_type = ["!OCEAN"]
 			#Allow spawns in these biomes regardless of the biome type settings
 			biome_whitelist = []
 			#Prevent spawns in these biomes regardless of the biome type settings
@@ -401,7 +401,7 @@
 			#Range: 0.0 ~ 1.0
 			extra_rarity = 1.0
 			#Names of dimensions this mob can spawn in
-			dimensions = ["minecraft:overworld"]
+			dimensions = ["vs_things:sunny_dim"]
 			#Names of blocks this mob is allowed to spawn on. Leave blank to ignore block names.
 			allowed_blocks = []
 			#Tags of blocks this mob is allowed to spawn on. Leave blank to ignore block tags.
@@ -438,9 +438,9 @@
 			#A blank entry means all biomes. No entries means no biomes.
 			#For example, 'FOREST,MAGICAL,!SNOWY' would mean all biomes that are magical forests but not snowy
 			#'!MOUNTAIN' would mean all non-mountain biomes
-			biome_type = ["BEACH,MOUNTAIN", "BEACH,HILLS"]
+			biome_type = ["FOREST"]
 			#Allow spawns in these biomes regardless of the biome type settings
-			biome_whitelist = ["minecraft:stone_shore"]
+			biome_whitelist = ["vs_things:temperate_4"]
 			#Prevent spawns in these biomes regardless of the biome type settings
 			biome_blacklist = []
 
@@ -459,7 +459,7 @@
 			#Range: 0.0 ~ 1.0
 			extra_rarity = 1.0
 			#Names of dimensions this mob can spawn in
-			dimensions = ["minecraft:overworld"]
+			dimensions = ["vs_things:temp_dir"]
 			#Names of blocks this mob is allowed to spawn on. Leave blank to ignore block names.
 			allowed_blocks = []
 			#Tags of blocks this mob is allowed to spawn on. Leave blank to ignore block tags.
@@ -469,7 +469,7 @@
 			height_max = -1
 			#Minimum height for this spawn. -1 to ignore.
 			#Range: -1 ~ 256
-			height_min = 70
+			height_min = 40
 			#Set to true to only allow this mob to spawn in the dark, like zombies and skeletons.
 			needs_darkness = false
 			#Set to true to only spawn mob if it can see the sky.
@@ -496,7 +496,7 @@
 			#A blank entry means all biomes. No entries means no biomes.
 			#For example, 'FOREST,MAGICAL,!SNOWY' would mean all biomes that are magical forests but not snowy
 			#'!MOUNTAIN' would mean all non-mountain biomes
-			biome_type = ["JUNGLE"]
+			biome_type = [""]
 			#Allow spawns in these biomes regardless of the biome type settings
 			biome_whitelist = []
 			#Prevent spawns in these biomes regardless of the biome type settings
@@ -517,7 +517,7 @@
 			#Range: 0.0 ~ 1.0
 			extra_rarity = 1.0
 			#Names of dimensions this mob can spawn in
-			dimensions = ["minecraft:overworld"]
+			dimensions = ["vs_things:panda_dim"]
 			#Names of blocks this mob is allowed to spawn on. Leave blank to ignore block names.
 			allowed_blocks = []
 			#Tags of blocks this mob is allowed to spawn on. Leave blank to ignore block tags.

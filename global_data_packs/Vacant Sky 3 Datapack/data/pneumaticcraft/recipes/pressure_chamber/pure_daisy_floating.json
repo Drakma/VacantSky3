@@ -12,7 +12,7 @@
             "item": "botania:pure_daisy"
         }
     ],
-    "pressure": 1.5,
+    "pressure": 2.5,
     "results": [{
         "item": "botania:floating_pure_daisy",
         "count": 1

@@ -12,7 +12,7 @@
             "item": "botania:orechid"
         }
     ],
-    "pressure": 1.5,
+    "pressure": 4.5,
     "results": [{
         "item": "botania:floating_orechid",
         "count": 1
