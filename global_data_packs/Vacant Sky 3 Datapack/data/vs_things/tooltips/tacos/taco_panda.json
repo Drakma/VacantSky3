@@ -1,0 +1,8 @@
+{
+    "items": [
+        "vs_things:jungle_taco"
+    ],
+    "tooltips": [
+        ["", { "text": "Transports you to dimension : ", "color": "blue" }, { "text": "Panda Park", "color": "white" }]
+    ]
+}

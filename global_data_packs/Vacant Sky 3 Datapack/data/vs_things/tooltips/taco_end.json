@@ -1,8 +1,0 @@
-{
-    "items": [
-        "vs_things:end_taco"
-    ],
-    "tooltips": [
-        ["", { "text": "Transports you to dimension : ", "color": "blue" }, { "text": "The End", "color": "white" }]
-    ]
-}

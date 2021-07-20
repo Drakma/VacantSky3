@@ -1,8 +1,0 @@
-{
-    "items": [
-        "vs_things:nether_taco"
-    ],
-    "tooltips": [
-        ["", { "text": "Transports you to dimension : ", "color": "blue" }, { "text": "The Nether", "color": "white" }]
-    ]
-}

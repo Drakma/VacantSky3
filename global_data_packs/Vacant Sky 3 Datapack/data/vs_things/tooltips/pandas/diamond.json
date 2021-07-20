@@ -3,6 +3,6 @@
         "minecraft:diamond"
     ],
     "tooltips": [
-        ["", { "text": "Feed a ", "bold": true }, { "text": "diamond carrot", "bold": true, "italic": true, "color": "blue" }, { "text": " to a panda to mass-produce diamond dust", "bold": true }]
+        ["", { "text": "Feed a ", "bold": true }, { "text": "diamond dust", "bold": true, "italic": true, "color": "blue" }, { "text": " to a panda to mass-produce diamond dust", "bold": true }]
     ]
 }

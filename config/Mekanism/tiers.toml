@@ -175,36 +175,36 @@
 			basicPullAmount = 16
 			#Item throughput rate of Advanced logistical transporters in items/half second.
 			#Range: > 1
-			advancedPullAmount = 32
+			advancedPullAmount = 64
 			#Five times travel speed of Advanced logistical transporter.
 			#Range: > 1
-			advancedSpeed = 20
+			advancedSpeed = 80
 			#Item throughput rate of Elite logistical transporters in items/half second.
 			#Range: > 1
-			elitePullAmount = 64
+			elitePullAmount = 128
 			#Five times travel speed of Elite logistical transporter.
 			#Range: > 1
-			eliteSpeed = 80
+			eliteSpeed = 240
 			#Item throughput rate of Ultimate logistical transporters in items/half second.
 			#Range: > 1
-			ultimatePullAmount = 128
+			ultimatePullAmount = 512
 			#Five times travel speed of Ultimate logistical transporter.
 			#Range: > 1
-			ultimateSpeed = 240
+			ultimateSpeed = 960
 			#Five times travel speed of Basic logistical transporter.
 			#Range: > 1
-			basicSpeed = 5
+			basicSpeed = 20
 
 		#Universal Cables
 		[tier.transmitters.energy]
 			#Internal buffer in Joules of each Basic universal cable.
 			basicCapacity = "8000"
 			#Internal buffer in Joules of each Ultimate universal cable.
-			ultimateCapacity = "8192000"
+			ultimateCapacity = "216000"
 			#Internal buffer in Joules of each Advanced universal cable.
-			advancedCapacity = "128000"
+			advancedCapacity = "24000"
 			#Internal buffer in Joules of each Elite universal cable.
-			eliteCapacity = "1024000"
+			eliteCapacity = "72000"
 
 	#Energy Cubes
 	[tier.energy_cubes]

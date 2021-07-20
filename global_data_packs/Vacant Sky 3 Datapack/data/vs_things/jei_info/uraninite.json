@@ -1,0 +1,13 @@
+{
+    "items": [
+        "powah:uraninite_raw_poor",
+        "powah:uraninite_raw",
+        "powah:uraninite_raw_dense",
+        "powah:uraninite_ore_poor",
+        "powah:uraninite_ore",
+        "powah:uraninite_ore_dense"
+    ],
+    "infos": [
+        "Feed a Uranium Ingot to a Panda to receive Uraninite"
+    ]
+}

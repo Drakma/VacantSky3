@@ -1,0 +1,11 @@
+{
+    "items": [
+        "mekanism:dust_netherite",
+        "productivebees:honeycomb_netherite",
+        "minecraft:netherite_ingot",
+        "minecraft:netherite_scrap"
+    ],
+    "tooltips": [
+        ["", { "text": "Feed a ", "bold": true }, { "text": "ancient honeycomb", "bold": true, "italic": true, "color": "blue" }, { "text": " to a panda to mass-produce netherite dust", "bold": true }]
+    ]
+}

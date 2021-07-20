@@ -2,7 +2,7 @@
     "id": "diamond_panda",
     "name": "Diamond",
     "inputs": [
-        "tag:forge:storage_blocks/diamond"
+        "tag:mekanism:enriched/diamond"
     ],
     "output": "thermal:diamond_dust",
     "hexColor": "#18B7DA",

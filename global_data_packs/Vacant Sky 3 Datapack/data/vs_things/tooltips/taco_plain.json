@@ -1,8 +1,0 @@
-{
-    "items": [
-        "vs_things:temperate_taco"
-    ],
-    "tooltips": [
-        ["", { "text": "Transports you to dimension : ", "color": "blue" }, { "text": "Temperate Plain", "color": "white" }]
-    ]
-}

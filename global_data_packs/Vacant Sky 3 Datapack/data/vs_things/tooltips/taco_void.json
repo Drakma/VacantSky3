@@ -1,8 +1,0 @@
-{
-    "items": [
-        "vs_things:void_taco"
-    ],
-    "tooltips": [
-        ["", { "text": "Transports you to dimension : ", "color": "blue" }, { "text": "Void", "color": "white" }]
-    ]
-}

@@ -1,0 +1,9 @@
+{
+    "items": [
+        "vs_things:end_taco",
+        "vs_things:void_taco"
+    ],
+    "tooltips": [
+        { "text": "I hope you can fly!", "color": "red" }
+    ]
+}
