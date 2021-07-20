@@ -1,0 +1,23 @@
+{
+    "type": "elementalcraft:pureinfusion",
+    "element_amount": 25000,
+    "ingredients": [{
+            "item": "minecraft:cake"
+        },
+        {
+            "item": "mowziesmobs:ice_crystal"
+        },
+        {
+            "item": "mowziesmobs:barako_mask"
+        },
+        {
+            "item": "mowziesmobs:foliaath_seed"
+        },
+        {
+            "item": "mowziesmobs:naga_fang"
+        }
+    ],
+    "output": {
+        "item": "telepastries:end_cake"
+    }
+}

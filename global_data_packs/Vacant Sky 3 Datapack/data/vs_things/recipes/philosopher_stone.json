@@ -1,6 +1,6 @@
 {
     "type": "elementalcraft:pureinfusion",
-    "element_amount": 50000,
+    "element_amount": 25000,
     "ingredients": [{
             "item": "vs_things:empty_philo_stone"
         },

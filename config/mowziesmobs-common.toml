@@ -244,13 +244,13 @@
 			#Range: > -1
 			generation_separation = 5
 			#Names of dimensions this mob/structure can generate in
-			dimensions = ["mythicw  botania:alfheim"]
+			dimensions = ["mythicbotany:alfheim", "vs_things:sunny_dim"]
 			#Maximum height for generation placement. -1 to ignore
 			#Range: -1.0 ~ 256.0
-			height_max = 55.0
+			height_max = 155.0
 			#Minimum height for generation placement. -1 to ignore
 			#Range: -1.0 ~ 256.0
-			height_min = 30.0
+			height_min = 60.0
 			#Names of structures this mob/structure will avoid when generating
 			avoid_structures = []
 
@@ -295,19 +295,19 @@
 			#Range: 0.0 ~ 1.0
 			extra_rarity = 1.0
 			#Names of dimensions this mob can spawn in
-			dimensions = ["vs_things:temp_dim"]
+			dimensions = ["vs_things:temp_dim", "vs_things:sunny_dim"]
 			#Names of blocks this mob is allowed to spawn on. Leave blank to ignore block names.
 			allowed_blocks = []
 			#Tags of blocks this mob is allowed to spawn on. Leave blank to ignore block tags.
 			allowed_block_tags = []
 			#Maximum height for this spawn. -1 to ignore.
 			#Range: -1 ~ 256
-			height_max = 25
+			height_max = 125
 			#Minimum height for this spawn. -1 to ignore.
 			#Range: -1 ~ 256
-			height_min = -1
+			height_min = 60
 			#Set to true to only allow this mob to spawn in the dark, like zombies and skeletons.
-			needs_darkness = true
+			needs_darkness = false
 			#Set to true to only spawn mob if it can see the sky.
 			needs_see_sky = false
 			#Set to true to only spawn mob if it can't see the sky.
@@ -352,10 +352,10 @@
 			#Names of blocks this mob is allowed to spawn on. Leave blank to ignore block names.
 			allowed_blocks = []
 			#Tags of blocks this mob is allowed to spawn on. Leave blank to ignore block tags.
-			allowed_block_tags = ["minecraft:valid_spawn", "minecraft:leaves", "minecraft:logs"]
+			allowed_block_tags = []
 			#Maximum height for this spawn. -1 to ignore.
 			#Range: -1 ~ 256
-			height_max = -1
+			height_max = 255
 			#Minimum height for this spawn. -1 to ignore.
 			#Range: -1 ~ 256
 			height_min = 60
@@ -438,9 +438,9 @@
 			#A blank entry means all biomes. No entries means no biomes.
 			#For example, 'FOREST,MAGICAL,!SNOWY' would mean all biomes that are magical forests but not snowy
 			#'!MOUNTAIN' would mean all non-mountain biomes
-			biome_type = ["FOREST"]
+			biome_type = [""]
 			#Allow spawns in these biomes regardless of the biome type settings
-			biome_whitelist = ["vs_things:temperate_4"]
+			biome_whitelist = []
 			#Prevent spawns in these biomes regardless of the biome type settings
 			biome_blacklist = []
 
@@ -448,28 +448,28 @@
 		[mobs.naga.spawn_config]
 			#Smaller number causes less spawning, 0 to disable spawning
 			#Range: > 0
-			spawn_rate = 15
+			spawn_rate = 10
 			#Minimum number of mobs that appear in a spawn group
 			#Range: > 1
-			min_group_size = 2
+			min_group_size = 1
 			#Maximum number of mobs that appear in a spawn group
 			#Range: > 1
-			max_group_size = 4
+			max_group_size = 1
 			#Probability of a spawn attempt succeeding. 1 for normal spawning, 0 will prevent spawning. Used to make mobs extra rare.
 			#Range: 0.0 ~ 1.0
-			extra_rarity = 1.0
+			extra_rarity = 0.3
 			#Names of dimensions this mob can spawn in
-			dimensions = ["vs_things:temp_dir"]
+			dimensions = ["vs_things:temp_dir", "mythicbotany:alfheim"]
 			#Names of blocks this mob is allowed to spawn on. Leave blank to ignore block names.
 			allowed_blocks = []
 			#Tags of blocks this mob is allowed to spawn on. Leave blank to ignore block tags.
 			allowed_block_tags = []
 			#Maximum height for this spawn. -1 to ignore.
 			#Range: -1 ~ 256
-			height_max = -1
+			height_max = 256
 			#Minimum height for this spawn. -1 to ignore.
 			#Range: -1 ~ 256
-			height_min = 40
+			height_min = 70
 			#Set to true to only allow this mob to spawn in the dark, like zombies and skeletons.
 			needs_darkness = false
 			#Set to true to only spawn mob if it can see the sky.
@@ -482,10 +482,10 @@
 		[mobs.naga.combat_config]
 			#Scale mob health by this value
 			#Range: 0.0 ~ 1.7976931348623157E308
-			health_multiplier = 1.0
+			health_multiplier = 1.2
 			#Scale mob attack damage by this value
 			#Range: 0.0 ~ 1.7976931348623157E308
-			attack_multiplier = 1.0
+			attack_multiplier = 1.2
 
 	[mobs.foliaath]
 
