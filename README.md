@@ -1,4 +1,5 @@
-# Project Title
+# Vacant Sky 3
+![alt text](https://github.com/Drakma/VacantSky3/blob/master/icons/VS3-256.png?raw=true)
 
 ## Table of Contents
 
