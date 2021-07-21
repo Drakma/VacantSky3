@@ -44,3 +44,4 @@ config/jei/recipe-category-sort-order.ini
 /TrashSlotSaveState.json
 /config.bak.json
 /skyblock_exports
+/.curseclient
