@@ -1,0 +1,14 @@
+{
+    "type": "tconstruct:melting",
+    "ingredient": {
+        "type": "forge:nbt",
+        "item": "minecraft:enchanted_book",
+        "nbt": "{StoredEnchantments:[{lvl:6s,id:'cyclic:beheading'}]}"
+    },
+    "result": {
+        "fluid": "cyclic:xpjuice",
+        "amount": 1500
+    },
+    "temperature": 500,
+    "time": 50
+}

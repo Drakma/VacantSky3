@@ -1,0 +1,125 @@
+{
+	id: "442DA66313E84BB4"
+	group: ""
+	order_index: 0
+	filename: "in_the_beginning"
+	title: "In the Beginning..."
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: -15.5d
+			y: -11.0d
+			description: ["Build a Safe Platform"]
+			id: "07934E873D609E75"
+			tasks: [{
+				id: "1EE17CB6648A3774"
+				type: "item"
+				item: "minecraft:oak_slab"
+				count: 32L
+			}]
+			rewards: [{
+				id: "0B58D15B0EAFA5CF"
+				type: "item"
+				item: "minecraft:oak_slab"
+				count: 32
+			}]
+		}
+		{
+			x: -15.5d
+			y: -8.0d
+			dependencies: [
+				"07934E873D609E75"
+				"2BFA7883213638CC"
+			]
+			id: "533F115EBBDC1F37"
+			tasks: [{
+				id: "5ACAF7AC81244613"
+				type: "item"
+				item: "exnihilosequentia:barrel_wood"
+			}]
+			rewards: [{
+				id: "4178AEB6E35BE8C0"
+				type: "item"
+				item: "exnihilosequentia:barrel_wood"
+				count: 2
+			}]
+		}
+		{
+			x: -15.5d
+			y: -9.5d
+			dependencies: ["07934E873D609E75"]
+			id: "2BFA7883213638CC"
+			tasks: [{
+				id: "39E5E261E12428F6"
+				type: "item"
+				item: {
+					id: "exnihilosequentia:hammer_wood"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -16.5d
+			y: -6.5d
+			dependencies: ["533F115EBBDC1F37"]
+			dependency_requirement: "one_started"
+			id: "3DB6C44F0F4414A1"
+			tasks: [{
+				id: "344347874E63E808"
+				type: "item"
+				item: "mekanism:sawdust"
+				count: 32L
+			}]
+			rewards: [{
+				id: "0FF20C5246B349DF"
+				type: "item"
+				item: "mekanism:sawdust"
+				count: 32
+			}]
+		}
+		{
+			x: -14.5d
+			y: -6.5d
+			dependencies: ["533F115EBBDC1F37"]
+			id: "19ED8BD6745A6378"
+			tasks: [{
+				id: "04A9C618CEDB65C4"
+				type: "item"
+				item: "minecraft:dirt"
+				count: 32L
+			}]
+			rewards: [{
+				id: "02923DCFF74536F6"
+				type: "item"
+				item: "minecraft:dirt"
+				count: 16
+			}]
+		}
+		{
+			x: -13.0d
+			y: -8.0d
+			dependencies: ["533F115EBBDC1F37"]
+			id: "7B822BBF3AC08A64"
+			tasks: [{
+				id: "1E638263A02029A0"
+				type: "item"
+				item: "exnihilosequentia:sieve"
+			}]
+		}
+		{
+			x: -10.5d
+			y: -8.0d
+			dependencies: ["7B822BBF3AC08A64"]
+			id: "3A33611176972D34"
+			tasks: [{
+				id: "7D8925B4EECEA5C5"
+				type: "item"
+				item: "excompressum:oak_crucible"
+			}]
+		}
+	]
+}

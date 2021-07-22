@@ -1,0 +1,14 @@
+{
+    "type": "tconstruct:melting",
+    "ingredient": {
+        "type": "forge:nbt",
+        "item": "minecraft:enchanted_book",
+        "nbt": "{StoredEnchantments:[{lvl:1s,id:'ensorcellation:leech'}]}"
+    },
+    "result": {
+        "fluid": "cyclic:xpjuice",
+        "amount": 250
+    },
+    "temperature": 500,
+    "time": 50
+}

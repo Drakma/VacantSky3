@@ -1,0 +1,14 @@
+{
+    "type": "tconstruct:melting",
+    "ingredient": {
+        "type": "forge:nbt",
+        "item": "minecraft:enchanted_book",
+        "nbt": "{StoredEnchantments:[{lvl:8s,id:'minecraft:piercing'}]}"
+    },
+    "result": {
+        "fluid": "cyclic:xpjuice",
+        "amount": 2000
+    },
+    "temperature": 500,
+    "time": 50
+}

@@ -1,0 +1,14 @@
+{
+    "type": "tconstruct:melting",
+    "ingredient": {
+        "type": "forge:nbt",
+        "item": "minecraft:enchanted_book",
+        "nbt": "{StoredEnchantments:[{lvl:3s,id:'create:capacity'}]}"
+    },
+    "result": {
+        "fluid": "cyclic:xpjuice",
+        "amount": 750
+    },
+    "temperature": 500,
+    "time": 50
+}

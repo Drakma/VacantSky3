@@ -1,0 +1,14 @@
+{
+    "type": "tconstruct:melting",
+    "ingredient": {
+        "type": "forge:nbt",
+        "item": "minecraft:enchanted_book",
+        "nbt": "{StoredEnchantments:[{lvl:5s,id:'ensorcellation:magic_protection'}]}"
+    },
+    "result": {
+        "fluid": "cyclic:xpjuice",
+        "amount": 1250
+    },
+    "temperature": 500,
+    "time": 50
+}
