@@ -457,7 +457,7 @@
 			max_group_size = 1
 			#Probability of a spawn attempt succeeding. 1 for normal spawning, 0 will prevent spawning. Used to make mobs extra rare.
 			#Range: 0.0 ~ 1.0
-			extra_rarity = 0.3
+			extra_rarity = 0.2
 			#Names of dimensions this mob can spawn in
 			dimensions = ["vs_things:temp_dir", "mythicbotany:alfheim"]
 			#Names of blocks this mob is allowed to spawn on. Leave blank to ignore block names.
@@ -471,7 +471,7 @@
 			#Range: -1 ~ 256
 			height_min = 70
 			#Set to true to only allow this mob to spawn in the dark, like zombies and skeletons.
-			needs_darkness = false
+			needs_darkness = true
 			#Set to true to only spawn mob if it can see the sky.
 			needs_see_sky = true
 			#Set to true to only spawn mob if it can't see the sky.
