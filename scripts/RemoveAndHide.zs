@@ -858,6 +858,9 @@ var removeSeeds = [
   <item:mysticalagriculture:tungsten_seeds>,
   <item:mysticalagriculture:uranium_seeds>,
   <item:mysticalagriculture:wither_skeleton_seeds>,
+  <item:mysticalagriculture:marble_seeds>,
+  <item:mysticalagriculture:ruby_seeds>,
+  <item:mysticalagriculture:sapphire_seeds>,
 ];
 
 for Seeds in removeSeeds {

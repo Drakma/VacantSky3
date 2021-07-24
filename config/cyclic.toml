@@ -9,19 +9,17 @@
 	#####################################################################################
 	[cyclic.command]
 		#True means only players with OP can use this /cyclic command
-		help = false
-		#True means only players with OP can use this /cyclic command
-		nbtprint = false
-		#True means only players with OP can use this /cyclic command
 		health = true
-		#True means only players with OP can use this /cyclic command
-		pingnether = false
 		#True means only players with OP can use this /cyclic command
 		gethome = false
 		#True means only players with OP can use this /cyclic command
 		home = true
 		#True means only players with OP can use this /cyclic command
 		hunger = true
+		#True means only players with OP can use this /cyclic command
+		dev = false
+		#True means only players with OP can use this /cyclic command
+		ping = false
 
 	#####################################################################################
 	# Enchantment related configs
@@ -63,7 +61,7 @@
 		step = true
 		#Beheading enchant add player skin head drop, add any mob id and any skin
 		beheadingEntityMHF = ["minecraft:blaze:MHF_Blaze", "minecraft:cat:MHF_Ocelot", "minecraft:cave_spider:MHF_CaveSpider", "minecraft:chicken:MHF_Chicken", "minecraft:cow:MHF_Cow", "minecraft:enderman:MHF_Enderman", "minecraft:ghast:MHF_Ghast", "minecraft:iron_golem:MHF_Golem", "minecraft:magma_cube:MHF_LavaSlime", "minecraft:mooshroom:MHF_MushroomCow", "minecraft:ocelot:MHF_Ocelot", "minecraft:pig:MHF_Pig", "minecraft:zombie_pigman:MHF_PigZombie", "minecraft:sheep:MHF_Sheep", "minecraft:slime:MHF_Slime", "minecraft:spider:MHF_Spider", "minecraft:squid:MHF_Squid", "minecraft:villager:MHF_Villager", "minecraft:witch:MHF_Witch", "minecraft:wolf:MHF_Wolf", "minecraft:guardian:MHF_Guardian", "minecraft:elder_guardian:MHF_Guardian", "minecraft:snow_golem:MHF_SnowGolem", "minecraft:silverfish:MHF_Silverfish", "minecraft:endermite:MHF_Endermite"]
-		#Set false to disable enchantment
+		#Set false to disable Multi Jump enchantment
 		launch = true
 
 	#####################################################################################
@@ -290,10 +288,33 @@
 			#Range: 1 ~ 20
 			ticks = 20
 
+		#Ender shelf settings
+		[cyclic.blocks.ender_shelf]
+			#Each shelf has five rows.  Set the number of books stored per row here
+			#Range: 1 ~ 64
+			books_per_row = 64
+			#Controller Max distance to search (using manhattan distance)
+			#Range: 1 ~ 256
+			controller_distance = 64
+
 	#####################################################################################
 	# Worldgen settings  
 	#####################################################################################
 	[cyclic.worldgen]
 		#Does this generate in the world
 		flower_cyan = true
+
+	#####################################################################################
+	#Fluid cost for various machines
+	#####################################################################################
+	[cyclic.fluid]
+		#Cost of magma fluid per action
+		#Range: 1 ~ 64000
+		anvil_magma = 100
+		#Cost of (or payment for if negative) per enchanted book generated
+		#Range: -1000 ~ 16000
+		disenchanter = 100
+		#Payment per void action, if not zero
+		#Range: 0 ~ 16000
+		void_anvil = 25
 

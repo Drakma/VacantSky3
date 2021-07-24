@@ -27,10 +27,10 @@
 		}
 		{
 			x: -15.5d
-			y: -8.0d
+			y: -6.5d
 			dependencies: [
 				"07934E873D609E75"
-				"2BFA7883213638CC"
+				"3DB6C44F0F4414A1"
 			]
 			id: "533F115EBBDC1F37"
 			tasks: [{
@@ -63,9 +63,9 @@
 			}]
 		}
 		{
-			x: -16.5d
-			y: -6.5d
-			dependencies: ["533F115EBBDC1F37"]
+			x: -17.0d
+			y: -8.0d
+			dependencies: ["2BFA7883213638CC"]
 			dependency_requirement: "one_started"
 			id: "3DB6C44F0F4414A1"
 			tasks: [{
@@ -82,7 +82,7 @@
 			}]
 		}
 		{
-			x: -14.5d
+			x: -14.0d
 			y: -6.5d
 			dependencies: ["533F115EBBDC1F37"]
 			id: "19ED8BD6745A6378"
@@ -100,9 +100,12 @@
 			}]
 		}
 		{
-			x: -13.0d
-			y: -8.0d
-			dependencies: ["533F115EBBDC1F37"]
+			x: -12.5d
+			y: -6.5d
+			dependencies: [
+				"6B20371D20FF7414"
+				"19ED8BD6745A6378"
+			]
 			id: "7B822BBF3AC08A64"
 			tasks: [{
 				id: "1E638263A02029A0"
@@ -111,14 +114,183 @@
 			}]
 		}
 		{
-			x: -10.5d
-			y: -8.0d
-			dependencies: ["7B822BBF3AC08A64"]
+			x: -14.0d
+			y: -9.5d
+			dependencies: ["2BFA7883213638CC"]
 			id: "3A33611176972D34"
 			tasks: [{
 				id: "7D8925B4EECEA5C5"
 				type: "item"
 				item: "excompressum:oak_crucible"
+			}]
+		}
+		{
+			x: -11.0d
+			y: -6.5d
+			dependencies: ["7B822BBF3AC08A64"]
+			id: "78EF063E5C00C51D"
+			tasks: [{
+				id: "7D4C51D406771C5E"
+				type: "item"
+				item: "exnihilosequentia:pebble_stone"
+				count: 16L
+			}]
+		}
+		{
+			x: -15.5d
+			y: -5.0d
+			dependencies: ["533F115EBBDC1F37"]
+			id: "1FB7DC38E0E37FE8"
+			tasks: [{
+				id: "6C80372128FB6A57"
+				type: "item"
+				item: {
+					id: "exnihilosequentia:crook_wood"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -15.5d
+			y: -3.5d
+			dependencies: ["1FB7DC38E0E37FE8"]
+			id: "303F37F3D362787C"
+			tasks: [{
+				id: "25856824A68BF5A8"
+				type: "item"
+				item: "minecraft:string"
+			}]
+		}
+		{
+			x: -12.5d
+			y: -5.0d
+			dependencies: ["303F37F3D362787C"]
+			id: "6B20371D20FF7414"
+			tasks: [{
+				id: "70C4D9F5C75FCC7F"
+				type: "item"
+				item: "exnihilosequentia:mesh_string"
+			}]
+		}
+		{
+			x: -9.5d
+			y: -6.5d
+			dependencies: ["78EF063E5C00C51D"]
+			id: "1F0643B5C963C785"
+			tasks: [{
+				id: "663D88563106633A"
+				type: "item"
+				item: "minecraft:gravel"
+				count: 16L
+			}]
+		}
+		{
+			x: -8.0d
+			y: -6.5d
+			dependencies: ["1F0643B5C963C785"]
+			id: "22F915532DED8E09"
+			tasks: [{
+				id: "655D2815A81E4A42"
+				type: "item"
+				item: "minecraft:sand"
+				count: 16L
+			}]
+		}
+		{
+			x: -6.5d
+			y: -6.5d
+			dependencies: ["22F915532DED8E09"]
+			id: "1F6FA167B22210EE"
+			tasks: [{
+				id: "531C699A9B0E512E"
+				type: "item"
+				item: "exnihilosequentia:dust"
+				count: 16L
+			}]
+		}
+		{
+			x: -5.0d
+			y: -6.5d
+			description: ["Place a block of dust into a water-filled crucible to create clay"]
+			dependencies: [
+				"1F6FA167B22210EE"
+				"3A33611176972D34"
+			]
+			id: "5BECA9893B9D8B2E"
+			tasks: [{
+				id: "78A1A71B3DE1CF57"
+				type: "item"
+				item: "minecraft:clay"
+				count: 8L
+			}]
+			rewards: [{
+				id: "08BAB66384B9700F"
+				type: "item"
+				item: "minecraft:clay_ball"
+				count: 16
+			}]
+		}
+		{
+			x: -12.5d
+			y: -3.5d
+			dependencies: ["6B20371D20FF7414"]
+			id: "1CCE19251261BF87"
+			tasks: [{
+				id: "276D2363D63F6D40"
+				type: "item"
+				item: "exnihilosequentia:mesh_flint"
+			}]
+		}
+		{
+			x: -5.0d
+			y: -3.5d
+			dependencies: [
+				"1CCE19251261BF87"
+				"5BECA9893B9D8B2E"
+				"1F6FA167B22210EE"
+			]
+			id: "610A9CE0A0ACA187"
+			tasks: [{
+				id: "3E09B24D1F195716"
+				type: "item"
+				item: "exnihilosequentia:porcelain_clay"
+				count: 8L
+			}]
+		}
+		{
+			x: -12.5d
+			y: -2.0d
+			shape: "diamond"
+			dependencies: ["1CCE19251261BF87"]
+			id: "658A9869F8D6A7A8"
+			tasks: [{
+				id: "73BC6925CB2014CB"
+				type: "item"
+				item: "exnihilosequentia:mesh_iron"
+			}]
+		}
+		{
+			x: -6.5d
+			y: -2.0d
+			id: "7C797F568C6A2C25"
+			tasks: [{
+				id: "1A1C451FFC21A4FE"
+				type: "item"
+				item: "exnihilosequentia:crucible_fired"
+			}]
+		}
+		{
+			x: -5.0d
+			y: -2.0d
+			id: "2EC8DA67ECCCC3B3"
+			tasks: [{
+				id: "26C3DA965AC03389"
+				type: "item"
+				item: "tconstruct:seared_brick"
+				count: 16L
 			}]
 		}
 	]
