@@ -1,6 +1,6 @@
 {
     "type": "elementalcraft:pureinfusion",
-    "element_amount": 25000,
+    "element_amount": 15000,
     "ingredients": [{
             "item": "minecraft:cake"
         },
