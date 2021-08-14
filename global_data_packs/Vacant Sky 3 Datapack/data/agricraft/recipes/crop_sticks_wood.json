@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "AA",
+        "AA"
+    ],
+    "key": {
+        "A": {
+            "tag": "forge:rods/wooden"
+        }
+    },
+    "result": {
+        "item": "agricraft:crop_sticks_wood",
+        "count": 8
+    }
+}

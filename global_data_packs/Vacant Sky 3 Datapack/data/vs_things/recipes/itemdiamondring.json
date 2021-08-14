@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "FGF",
+        "GDG",
+        "FGF"
+    ],
+    "key": {
+        "F": {
+            "item": "botania:mana_diamond"
+        },
+        "G": {
+            "item": "productivebees:comb_diamond"
+        },
+        "D": {
+            "item": "minecraft:phantom_membrane"
+        }
+    },
+    "result": {
+        "item": "angelring:itemdiamondring"
+    }
+}

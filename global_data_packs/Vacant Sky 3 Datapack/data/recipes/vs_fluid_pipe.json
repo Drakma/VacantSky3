@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "III",
+        "CRC",
+        "III"
+    ],
+    "key": {
+        "I": {
+            "tag": "forge:plates/iron"
+        },
+        "C": {
+            "item": "minecraft:bucket"
+        },
+        "R": {
+            "tag": "forge:dusts/redstone"
+        }
+    },
+    "result": {
+        "item": "mekanism:basic_mechanical_pipe",
+        "count": 8
+    }
+}

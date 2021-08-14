@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "AA",
+        "AA"
+    ],
+    "key": {
+        "A": {
+            "tag": "mekanism:enriched/obsidian"
+        }
+    },
+    "result": {
+        "item": "agricraft:crop_sticks_obsidian",
+        "count": 8
+    }
+}

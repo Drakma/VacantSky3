@@ -300,6 +300,11 @@
 		#Range: 0 ~ 100
 		diffuserRange = 10
 
+	[instruments.solarSythesizer]
+		#The max amount of runes on a Solar Sythesizer.
+		#Range: 0 ~ 10
+		solarSythesizerMaxRunes = 2
+
 #Pure Infusser and pedestals config
 [pureInfuser]
 	#The max amount of element consumed by the pure infuser per tick.
@@ -377,6 +382,8 @@
 	#CSource Altar genreration distance setting.
 	#Range: 0 ~ 100
 	sourceAltarDistance = 64
+	#Disable creation of sources.
+	disableSourceSpawn = false
 
 	[worldgen.inertCrystal]
 		#Disable creation of inertCrystals.

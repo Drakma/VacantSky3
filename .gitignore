@@ -45,3 +45,5 @@ config/jei/recipe-category-sort-order.ini
 /config.bak.json
 /skyblock_exports
 /.curseclient
+/minecraftinstance.json
+/config/startupQoL/startup_times.json
