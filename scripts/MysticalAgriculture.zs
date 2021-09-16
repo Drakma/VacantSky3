@@ -17,7 +17,6 @@ craftingTable.addShaped("vs3_fluxnetworks_fluxed_dust", <item:fluxnetworks:flux_
 
 
 # Sand
-craftingTable.removeRecipe(<item:minecraft:sand>);
 craftingTable.addShaped("vs3_minecraft_sand", <item:minecraft:sand> * 2 ,
 [
   [<item:mysticalagriculture:sand_essence>,<item:mysticalagriculture:sand_essence>],
@@ -26,7 +25,6 @@ craftingTable.addShaped("vs3_minecraft_sand", <item:minecraft:sand> * 2 ,
 
 
 #Gravel
-craftingTable.removeRecipe(<item:minecraft:gravel>);
 craftingTable.addShaped("vs3_minecraft_gravel", <item:minecraft:gravel> * 2,
 [
   [<item:mysticalagriculture:gravel_essence>,<item:mysticalagriculture:gravel_essence>],

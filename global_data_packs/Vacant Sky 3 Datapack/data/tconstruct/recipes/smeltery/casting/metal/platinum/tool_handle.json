@@ -1,0 +1,17 @@
+{
+    "type": "tconstruct:casting_table",
+    "cast": {
+        "tag": "tconstruct:casts/multi_use/tool_handle"
+    },
+    "cast_consumed": false,
+    "fluid": {
+        "tag": "tconstruct:molten_platinum",
+        "amount": 144
+    },
+    "result": {
+        "type": "forge:nbt",
+        "item": "tconstruct:tool_handle",
+        "nbt": "{Material:'tconstruct:platinum'}"
+    },
+    "cooling_time": 46
+}

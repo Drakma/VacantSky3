@@ -1,0 +1,17 @@
+{
+    "type": "tconstruct:casting_table",
+    "cast": {
+        "tag": "tconstruct:casts/multi_use/large_plate"
+    },
+    "cast_consumed": false,
+    "fluid": {
+        "tag": "tconstruct:molten_platinum",
+        "amount": 1152
+    },
+    "result": {
+        "type": "forge:nbt",
+        "item": "tconstruct:large_plate",
+        "nbt": "{Material:'tconstruct:platinum'}"
+    },
+    "cooling_time": 46
+}

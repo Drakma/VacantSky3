@@ -1,0 +1,17 @@
+{
+    "type": "tconstruct:casting_table",
+    "cast": {
+        "tag": "tconstruct:casts/multi_use/small_blade"
+    },
+    "cast_consumed": false,
+    "fluid": {
+        "tag": "tconstruct:molten_platinum",
+        "amount": 288
+    },
+    "result": {
+        "type": "forge:nbt",
+        "item": "tconstruct:small_blade",
+        "nbt": "{Material:'tconstruct:platinum'}"
+    },
+    "cooling_time": 46
+}

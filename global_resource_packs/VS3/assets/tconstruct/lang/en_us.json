@@ -34,5 +34,7 @@
     "item.vs_things.osmium_plate": "Osmium Plate",
     "item.vs_things.prudentium_bucket": "Liquid Prudentium Bucket",
     "item.vs_things.supremium_bucket": "Liquid Supremium Bucket",
-    "item.vs_things.tertium_bucket": "Liquid Tertium Bucket"
+    "item.vs_things.tertium_bucket": "Liquid Tertium Bucket",
+    "material.tconstruct.drakonium": "Drakonium",
+    "material.tconstruct.platinum": "Platinum"
 }

@@ -1,0 +1,17 @@
+{
+    "type": "tconstruct:casting_table",
+    "cast": {
+        "tag": "tconstruct:casts/multi_use/repair_kit"
+    },
+    "cast_consumed": false,
+    "fluid": {
+        "tag": "tconstruct:molten_drakonium",
+        "amount": 288
+    },
+    "result": {
+        "type": "forge:nbt",
+        "item": "tconstruct:repair_kit",
+        "nbt": "{Material:'tconstruct:drakonium'}"
+    },
+    "cooling_time": 46
+}

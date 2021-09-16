@@ -1,9 +1,10 @@
 {
     "craftable": false,
     "tier": 4,
-    "sortOrder": 0,
+    "sortOrder": 1,
     "fluid": "vs_things:drakonium",
     "fluidPerUnit": 250,
     "textColor": "#34401F",
-    "temperature": 800
+    "temperature": 1400,
+    "hidden": false
 }
