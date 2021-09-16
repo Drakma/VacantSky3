@@ -746,7 +746,7 @@ var hideItems = [
   <item:titanium:diamond_gear>,
   <item:titanium:gold_gear>,
   <item:titanium:iron_gear>,
-
+  <item:mysticalagriculture:fiery_ingot_seeds>,
 ];
 
 for Item in hideItems {
@@ -825,6 +825,7 @@ var removeRecipes = [
   "simplyjetpacks:mek/thruster_mek4",
   "simplyjetpacks:vanilla/thruster_vanilla3",
   "storagenetwork:import_filter_kabel",
+  "tconstruct:common/flint",
   "tconstruct:tables/book_substitute",
   "tconstruct:tables/crafting_station_from_logs",
   "tconstruct:tables/crafting_station",
@@ -911,6 +912,7 @@ var removeSeeds = [
   <item:mysticalagriculture:marble_seeds>,
   <item:mysticalagriculture:ruby_seeds>,
   <item:mysticalagriculture:sapphire_seeds>,
+  <item:mysticalagriculture:fiery_ingot_seeds>,
 ];
 
 for Seeds in removeSeeds {
@@ -929,6 +931,7 @@ var removeAndHideSeeds = [
   <item:mysticalagriculture:nitro_crystal_seeds>,
   <item:mysticalagriculture:spirited_crystal_seeds>,
   <item:mysticalagriculture:uraninite_seeds>,
+  <item:mysticalagriculture:fiery_ingot_seeds>,
 ];
 
 for Seeds in removeAndHideSeeds {

@@ -1,0 +1,11 @@
+{
+    "default": [{
+            "name": "tconstruct:heavy",
+            "level": 1
+        },
+        {
+            "name": "tconstruct:insatiable",
+            "level": 1
+        }
+    ]
+}

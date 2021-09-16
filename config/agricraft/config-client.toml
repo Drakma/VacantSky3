@@ -73,6 +73,9 @@
 	#
 	#Set to false if AgriCraft loot modifiers are not allowed to reset grass drops (this overrides the "reset" property in the loot entries
 	"Allow Grass Drop Resets" = true
+	#
+	#Set to true to convert seeds only in the analyzer. Has no effect if "Override vanilla farming" is set to false.
+	"Convert seeds only in analyzer" = false
 
 ["resource crops"]
 	#
@@ -266,6 +269,9 @@
 	#
 	#Set to false to disable compatibility with Straw Golem Reborn (in case things break)
 	"Enable Straw Golem Reborn compat" = true
+	#
+	#Set to false to disable compatibility with Mystical Agriculture (in case things break)
+	"Enable Mystical Agriculture compat" = true
 
 [debug]
 	#
@@ -277,4 +283,14 @@
 	#
 	#Set to true to add NBT information to itemstack tooltips (Client only)
 	"NBT tooltips" = false
+
+[animations]
+	#
+	#Configures the animation duration in ticks for the camera to snap to the seed analyzer, 0 disables it (Client only)
+	#Range: 0 ~ 40
+	"Seed Analyzer Animation Duration" = 15
+	#
+	#Configures the animation duration in ticks for the camera to snap to the journal, 0 disables it (Client only)
+	#Range: 0 ~ 40
+	"Journal Animation Duration" = 10
 

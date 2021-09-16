@@ -5,14 +5,5 @@
     "fluid": "tconstruct:molten_platinum",
     "fluidPerUnit": 144,
     "textColor": "#8BD2DB",
-    "temperature": 800,
-    "traits": [{
-            "name": "tconstruct:heavy",
-            "level": 1
-        },
-        {
-            "name": "tconstruct:insatiable",
-            "level": 1
-        }
-    ]
+    "temperature": 800
 }

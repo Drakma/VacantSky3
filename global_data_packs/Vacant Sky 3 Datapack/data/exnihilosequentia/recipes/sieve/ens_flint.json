@@ -1,27 +1,27 @@
 {
     "type": "exnihilosequentia:sieve",
     "rolls": [{
-            "chance": 0.10,
+            "chance": 0.20,
             "mesh": "string"
         },
         {
-            "chance": 0.20,
+            "chance": 0.30,
             "mesh": "flint"
         },
         {
-            "chance": 0.3,
+            "chance": 0.4,
             "mesh": "iron"
         },
         {
-            "chance": 0.35,
+            "chance": 0.45,
             "mesh": "diamond"
         },
         {
-            "chance": 0.40,
+            "chance": 0.50,
             "mesh": "emerald"
         },
         {
-            "chance": 0.45,
+            "chance": 0.55,
             "mesh": "netherite"
         }
     ],
