@@ -23,7 +23,7 @@
 	[barrel.compost]
 		#Number of seconds to compost (Default: 10)
 		#Range: > 1
-		secondsToCompost = 30
+		secondsToCompost = 15
 		#How much solids need to be in barrel before composting starts (Default: 1000)
 		#Range: > 1
 		maxSolidAmount = 1000
@@ -32,13 +32,13 @@
 	[barrel.fluid_transform]
 		#Number of seconds to transform fluids (Default: 10)
 		#Range: > 1
-		secondsToTransformFluid = 30
+		secondsToTransformFluid = 20
 
 #Crook Configs
 [crook]
 	#Maximum additional string that a crook will drop from infested leaves in addition to the minimum string count (Default: 3)
 	#Range: > 0
-	maxBonusStringCount = 4
+	maxBonusStringCount = 3
 	#Minimum string that a crook will drop from infested leaves (Default: 2)
 	#Range: > 1
 	minStringCount = 1
