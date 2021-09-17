@@ -10,38 +10,38 @@
         },
 
         {
-            "chance": 0.5,
+            "chance": 0.6,
             "mesh": "flint"
         },
         {
-            "chance": 0.1,
+            "chance": 0.2,
             "mesh": "flint"
         },
 
         {
-            "chance": 0.5,
+            "chance": 0.7,
             "mesh": "iron"
         },
         {
-            "chance": 0.1,
+            "chance": 0.3,
             "mesh": "iron"
         },
 
         {
-            "chance": 0.5,
+            "chance": 0.8,
             "mesh": "diamond"
         },
         {
-            "chance": 0.1,
+            "chance": 0.4,
             "mesh": "diamond"
         },
 
         {
-            "chance": 0.5,
+            "chance": 0.9,
             "mesh": "emerald"
         },
         {
-            "chance": 0.1,
+            "chance": 0.5,
             "mesh": "emerald"
         }
     ],

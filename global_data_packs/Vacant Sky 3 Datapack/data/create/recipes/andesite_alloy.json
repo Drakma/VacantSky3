@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "AZ",
+        "ZA"
+    ],
+    "key": {
+        "A": {
+            "item": "minecraft:andesite"
+        },
+        "Z": {
+            "tag": "forge:nuggets/zinc"
+        }
+    },
+    "result": {
+        "item": "create:andesite_alloy",
+        "count": 2
+    }
+}

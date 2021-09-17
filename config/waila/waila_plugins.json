@@ -18,7 +18,7 @@
         "show_debug": false
     },
     "wawla": {
-        "blast_resistance": true,
+        "blast_resistance": false,
         "beehive_honey": true,
         "growing_cooldown": true,
         "hide_trap_chest": true,
@@ -27,7 +27,7 @@
         "horse_jump": true,
         "villager_tier_progress": true,
         "breeding_item": true,
-        "hardness": true,
+        "hardness": false,
         "block_ench_power": true,
         "table_ench_power": true,
         "skull_owner": true,
@@ -47,7 +47,7 @@
     "waila": {
         "show_registry": false,
         "show_entity_hp": true,
-        "show_states": true,
+        "show_states": false,
         "show_entities": true
     },
     "storagedrawers": {

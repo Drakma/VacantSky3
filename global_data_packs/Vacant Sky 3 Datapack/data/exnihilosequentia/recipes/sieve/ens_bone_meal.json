@@ -1,9 +1,26 @@
 {
     "type": "exnihilosequentia:sieve",
     "rolls": [{
-        "chance": 0,
-        "mesh": "string"
-    }],
+            "chance": 0,
+            "mesh": "string"
+        },
+        {
+            "chance": 0.30,
+            "mesh": "iron"
+        },
+        {
+            "chance": 0.35,
+            "mesh": "diamond"
+        },
+        {
+            "chance": 0.40,
+            "mesh": "emerald"
+        },
+        {
+            "chance": 0.50,
+            "mesh": "netherite"
+        }
+    ],
     "input": {
         "item": "exnihilosequentia:dust"
     },

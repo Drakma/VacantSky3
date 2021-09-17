@@ -100,7 +100,6 @@ for Item in removeImmersiveSilentsAlloy {
 var removeExNihiloFluidItem = [
   "exnihilosequentia:fluid_item/ens_end_stone",
   "exnihilosequentia:fluid_item/ens_soul_sand",
-  "exnihilosequentia:fluid_item/ens_netherrack",
   "exnihilosequentia:fluid_item/ens_slime",
 ];
 
@@ -261,7 +260,6 @@ var removeandhideItems = [
   <item:exnihilosequentia:warped_crucible>,
   <item:exnihilosequentia:crucible_wood>,
   <item:exnihilosequentia:end_cake>,
-  <item:farmingforblockheads:market>,
   <item:immersiveengineering:alloybrick>,
   <item:immersiveengineering:ingot_aluminum>,
   <item:immersiveengineering:ingot_constantan>,
@@ -825,7 +823,6 @@ var removeRecipes = [
   "simplyjetpacks:mek/thruster_mek4",
   "simplyjetpacks:vanilla/thruster_vanilla3",
   "storagenetwork:import_filter_kabel",
-  "tconstruct:common/flint",
   "tconstruct:tables/book_substitute",
   "tconstruct:tables/crafting_station_from_logs",
   "tconstruct:tables/crafting_station",
@@ -862,6 +859,7 @@ var removeRecipes = [
   "torcherino:double_compressed_torcherino",
   "torcherino:torcherino",
   "xreliquary:uncrafting/ghast_tear",
+  "create:crafting/materials/andesite_alloy_from_zinc",
 ];
 
 for Recipe in removeRecipes {
