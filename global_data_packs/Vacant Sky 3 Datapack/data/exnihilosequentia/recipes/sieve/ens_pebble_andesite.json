@@ -1,7 +1,23 @@
 {
     "type": "exnihilosequentia:sieve",
     "rolls": [{
+            "chance": 1.0,
+            "mesh": "string"
+        },
+        {
+            "chance": 1.0,
+            "mesh": "string"
+        },
+        {
             "chance": 0.5,
+            "mesh": "string"
+        },
+        {
+            "chance": 0.5,
+            "mesh": "string"
+        },
+        {
+            "chance": 0.1,
             "mesh": "string"
         },
         {
@@ -10,38 +26,102 @@
         },
 
         {
-            "chance": 0.6,
+            "chance": 1.0,
             "mesh": "flint"
         },
         {
-            "chance": 0.2,
+            "chance": 1.0,
+            "mesh": "flint"
+        },
+        {
+            "chance": 0.5,
+            "mesh": "flint"
+        },
+        {
+            "chance": 0.5,
+            "mesh": "flint"
+        },
+        {
+            "chance": 0.1,
+            "mesh": "flint"
+        },
+        {
+            "chance": 0.1,
             "mesh": "flint"
         },
 
         {
-            "chance": 0.7,
+            "chance": 1.0,
             "mesh": "iron"
         },
         {
-            "chance": 0.3,
+            "chance": 1.0,
+            "mesh": "iron"
+        },
+        {
+            "chance": 0.5,
+            "mesh": "iron"
+        },
+        {
+            "chance": 0.5,
+            "mesh": "iron"
+        },
+        {
+            "chance": 0.1,
+            "mesh": "iron"
+        },
+        {
+            "chance": 0.1,
             "mesh": "iron"
         },
 
         {
-            "chance": 0.8,
+            "chance": 1.0,
             "mesh": "diamond"
         },
         {
-            "chance": 0.4,
+            "chance": 1.0,
+            "mesh": "diamond"
+        },
+        {
+            "chance": 0.5,
+            "mesh": "diamond"
+        },
+        {
+            "chance": 0.5,
+            "mesh": "diamond"
+        },
+        {
+            "chance": 0.1,
+            "mesh": "diamond"
+        },
+        {
+            "chance": 0.1,
             "mesh": "diamond"
         },
 
         {
-            "chance": 0.9,
+            "chance": 1.0,
+            "mesh": "emerald"
+        },
+        {
+            "chance": 1.0,
             "mesh": "emerald"
         },
         {
             "chance": 0.5,
+            "mesh": "emerald"
+        },
+        {
+            "chance": 0.5,
+            "mesh": "emerald"
+        },
+        {
+            "chance": 0.1,
+            "mesh": "emerald"
+        },
+        {
+            "chance": 0.1,
             "mesh": "emerald"
         }
     ],
