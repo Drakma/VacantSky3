@@ -48,3 +48,5 @@ config/jei/recipe-category-sort-order.ini
 /minecraftinstance.json
 /config/startupQoL/startup_times.json
 config/jei/bookmarks.ini
+minecraftinstance.json
+config/startupQoL/startup_times.json
