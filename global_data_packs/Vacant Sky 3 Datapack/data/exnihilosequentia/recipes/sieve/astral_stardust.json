@@ -1,0 +1,16 @@
+{
+    "type": "exnihilosequentia:sieve",
+    "rolls": [{
+        "chance": 0.125,
+        "mesh": "emerald"
+    }, {
+        "chance": 0.20,
+        "mesh": "netherite"
+    }],
+    "input": {
+        "item": "exnihilosequentia:dust"
+    },
+    "result": {
+        "item": "astralsorcery:stardust"
+    }
+}

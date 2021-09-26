@@ -1,0 +1,13 @@
+{
+    "type": "exnihilosequentia:sieve",
+    "rolls": [{
+        "chance": 0.08,
+        "mesh": "netherite"
+    }],
+    "input": {
+        "item": "exnihilosequentia:dust"
+    },
+    "result": {
+        "item": "draconicevolution:draconium_dust"
+    }
+}
